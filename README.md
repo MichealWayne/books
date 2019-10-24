@@ -1,8 +1,10 @@
 # books
-电子书
+前端，UI/UE部分书籍
 
 ## fe目录
-前端开发相关书籍
+前端开发相关书籍。
+
+*注：[前端常用网站集合>>](https://github.com/MichealWayne/fe-tools)
 
 ### css目录
 - CSS3学习必备书籍《CSS3 实战》.pdf
