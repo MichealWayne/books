@@ -13,6 +13,8 @@
 - css3.0参考手册.chm
 - css技巧.CHM
 - filter滤镜手册_苏昱.rar
+- css揭秘.pdf。百度网盘[https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ](https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ)，提取码 gtyp 
+- 精彩绝伦的css.pdf。百度网盘：[https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ](https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ)，提取码 62ue 
 
 ### html目录
 - HTML 5 开发精要与实例详解--W3Cfuns.pdf
@@ -24,6 +26,9 @@
 - HTML5移动Web开发指南.rar
 - HTML5程序设计（第2版）.pdf
 - HTML与CSS入门经典（第8版）.zip
+- HTML5 移动游戏开发高级编程.pdf。百度网盘[https://pan.baidu.com/s/1JERsDj_Gng1bRSTNChOQkQ](https://pan.baidu.com/s/1JERsDj_Gng1bRSTNChOQkQ)，提取码 vz6k 
+- WebGL高级编程：开发Web3D图形.pdf。百度网盘[https://pan.baidu.com/s/1B5faAmkRw2XYALARA-Qtaw](https://pan.baidu.com/s/1B5faAmkRw2XYALARA-Qtaw)，提取码 2ms6 
+- HTML5与CSS3设计模式.pdf。百度网盘：[https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ](https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ)，提取码 kyy7
 
 ### js目录
 - JavaScript宝典(第7版).pdf
@@ -35,6 +40,25 @@
 - javascript 权威指南(第6版).pdf
 - javascript+dom编程艺术.pdf
 - 悟透JavaScript.pdf
+- javascript忍者秘籍第2版.pdf。百度网盘：[https://pan.baidu.com/s/1Sh2RW_WgOR5pwCxzMYrUKA](https://pan.baidu.com/s/1Sh2RW_WgOR5pwCxzMYrUKA)，提取码 fad5 
+- javascript高效图形编程-中文版.pdf。百度网盘：[https://pan.baidu.com/s/19MlHggptoaTj-l7kXc6yAQ](https://pan.baidu.com/s/19MlHggptoaTj-l7kXc6yAQ)，提取码 99p8 
+- 精通JavaScript.pdf。百度网盘：[https://pan.baidu.com/s/1UNd5-gfpHOeZu2Vcs8Q88g](https://pan.baidu.com/s/1UNd5-gfpHOeZu2Vcs8Q88g)，提取码 2ekb 
+- javascript性能优化：度量、监控与可视化.pdf。百度网盘：[https://pan.baidu.com/s/1A4cLVaSA6uh6eAq2CgyweQ](https://pan.baidu.com/s/1A4cLVaSA6uh6eAq2CgyweQ)，提取码 cs4g 
+- javascript设计模式.pdf。百度网盘：[https://pan.baidu.com/s/1Sci59FsocHK9AizuEe9Muw](https://pan.baidu.com/s/1Sci59FsocHK9AizuEe9Muw)，提取码 jiy7 
+- ES6标准入门.pdf。百度网盘：[https://pan.baidu.com/s/186WvzEtoiYTK_9ywIP_uFQ](https://pan.baidu.com/s/186WvzEtoiYTK_9ywIP_uFQ)，提取码 wadp 
+- 你不知道的js(上).pdf。百度网盘：[https://pan.baidu.com/s/1ki8QA04uNwApj-RUzVBhtg](https://pan.baidu.com/s/1ki8QA04uNwApj-RUzVBhtg)，提取码 mvqc 
+- 你不知道的js(中).pdf。百度网盘：[https://pan.baidu.com/s/1kk9f_z88W-3elfgW-MC-fA](https://pan.baidu.com/s/1kk9f_z88W-3elfgW-MC-fA)，提取码 rxsv 
+- 你不知道的js(下).pdf。百度网盘：[https://pan.baidu.com/s/1BFXtFvVQyxyM2hlqVQCziw](https://pan.baidu.com/s/1BFXtFvVQyxyM2hlqVQCziw)，提取码 eeev 
+
+### nodejs
+
+### Vue/React/Angular
+
+### 前端工程
+
+### 算法
+
+### 架构/软件工程
 
 ## ui-ue目录
 UI设计、UX交互相关书籍
@@ -55,3 +79,5 @@ UI设计、UX交互相关书籍
 - 腾讯网Web页面设计规范.swf
 - 英国广播公司BBC的网站设计规范手册.rar
 - 设计师的商业意识--来自阿里集团.zip
+- 认知与设计 理解UI设计准则(第2版).pdf。百度网盘：[https://pan.baidu.com/s/10MCKpQasua5NJTbYtZkEBQ](https://pan.baidu.com/s/10MCKpQasua5NJTbYtZkEBQ)，提取码 vyb9
+- 交互式系统设计HCI、UX和交互设计指南(第3版).pdf。百度网盘：[https://pan.baidu.com/s/1dBfAUSEUYVrqmV2lITlUXg](https://pan.baidu.com/s/1dBfAUSEUYVrqmV2lITlUXg)，提取码 91aa
