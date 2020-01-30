@@ -4,7 +4,7 @@
 ## fe目录
 前端开发相关书籍。
 
-*注：[前端常用网站集合>>](https://github.com/MichealWayne/fe-tools)
+> *注：[前端常用网站集合>>](https://github.com/MichealWayne/fe-tools)
 
 ### css目录
 - CSS3学习必备书籍《CSS3 实战》.pdf
@@ -53,14 +53,34 @@
 - 你不知道的js(下).pdf。百度网盘：[https://pan.baidu.com/s/1BFXtFvVQyxyM2hlqVQCziw](https://pan.baidu.com/s/1BFXtFvVQyxyM2hlqVQCziw)，提取码 eeev 
 
 ### nodejs
+- Nodejs开发实践。百度网盘：[https://pan.baidu.com/s/1xQMhzf7ud3IGIpv77KSsfg](https://pan.baidu.com/s/1xQMhzf7ud3IGIpv77KSsfg)，提取码 7sxv
+- Nodejs进阶之路。百度网盘：[https://pan.baidu.com/s/13mPqGqWmfDzMTkJ5dMvWtg](https://pan.baidu.com/s/13mPqGqWmfDzMTkJ5dMvWtg)，提取码 7fyb
+- Nodejs微服务。百度网盘：[https://pan.baidu.com/s/1GfCCgHLo_RWjMu53C-lvIw](https://pan.baidu.com/s/1GfCCgHLo_RWjMu53C-lvIw)，提取码 39pl
+- Nodejs硬实战115个核心技巧。百度网盘：[https://pan.baidu.com/s/1rFNyDu7LZhWgJJLuDosV9w](https://pan.baidu.com/s/1rFNyDu7LZhWgJJLuDosV9w)，提取码 kkur
+- Nodejs权威指南。百度网盘：[https://pan.baidu.com/s/1iSN9MvRYNxqWMhh0xQZSBw](https://pan.baidu.com/s/1iSN9MvRYNxqWMhh0xQZSBw)，提取码 w7ep
+- 超实用的Nodejs片段。百度网盘：[https://pan.baidu.com/s/1r2UFQfhvcN5sb9U5ystvXQ](https://pan.baidu.com/s/1r2UFQfhvcN5sb9U5ystvXQ)，提取码 3yyp
 
 ### Vue/React/Angular
+- Vue.js实战。百度网盘：[https://pan.baidu.com/s/1xly4Kl-DzRheXBxrBYumWg](https://pan.baidu.com/s/1xly4Kl-DzRheXBxrBYumWg)，提取码 8e5c
+- Vue.js权威指南。百度网盘：[https://pan.baidu.com/s/1W3fR0G64dBMxGe2kqxkAvg](https://pan.baidu.com/s/1W3fR0G64dBMxGe2kqxkAvg)，提取码 51xz
+- 深入React技术栈。百度网盘：[https://pan.baidu.com/s/1i_vvm7c1MecYyZA0wInTng](https://pan.baidu.com/s/1i_vvm7c1MecYyZA0wInTng)，提取码 joas
+- React前端技术与工程实践。百度网盘：[https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ](https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ)，提取码 z92c
+- React状态管理与同构实战。百度网盘：[https://pan.baidu.com/s/1QZQYOeKZs5N50juYijgIvQ](https://pan.baidu.com/s/1QZQYOeKZs5N50juYijgIvQ)，提取码 xt1v
 
 ### 前端工程
+- 前端工程化：体系设计与实践。百度网盘：[https://pan.baidu.com/s/1pPkNXapEOAQ-rJfzGYelNQ](https://pan.baidu.com/s/1pPkNXapEOAQ-rJfzGYelNQ)，提取码 13y3
+- 深入浅出Webpack。百度网盘：[https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw](https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw)，提取码 4ogr
 
 ### 算法
+- 算法（第四版）。百度网盘：[https://pan.baidu.com/s/1syklVQ5M3YV5iwT8YzAQKQ](https://pan.baidu.com/s/1syklVQ5M3YV5iwT8YzAQKQ)，提取码 p4zw
+- 算法笔记。百度网盘：[https://pan.baidu.com/s/1oKGjBtBlYu8bgYkfggH9bg](https://pan.baidu.com/s/1oKGjBtBlYu8bgYkfggH9bg)，提取码 cxkf
+- 图解算法。百度网盘：[https://pan.baidu.com/s/1G-OyLhiTOEGOyc4QPdecCQ](https://pan.baidu.com/s/1G-OyLhiTOEGOyc4QPdecCQ)，提取码 ubfc
+
 
 ### 架构/软件工程
+- 
+微服务的那些事。百度网盘：[https://pan.baidu.com/s/1STQx8657ogTn2c9vpcQbrg](https://pan.baidu.com/s/1STQx8657ogTn2c9vpcQbrg)，提取码 cgo3
+- 系统架构设计-从程序员向架构师转型之路。百度网盘：[https://pan.baidu.com/s/15joyHZj6HjvY_W8uWqDFKw](https://pan.baidu.com/s/15joyHZj6HjvY_W8uWqDFKw)，提取码 mxf7
 
 ## ui-ue目录
 UI设计、UX交互相关书籍
