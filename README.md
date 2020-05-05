@@ -17,6 +17,7 @@
 - filter滤镜手册_苏昱.rar
 - css揭秘.pdf。百度网盘[https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ](https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ)，提取码 gtyp 
 - 精彩绝伦的css.pdf。百度网盘：[https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ](https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ)，提取码 62ue 
+- css世界.pdf。百度网盘：[https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA](https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA) ，提取码 o005
 
 ### html目录
 - HTML 5 开发精要与实例详解--W3Cfuns.pdf
@@ -47,10 +48,12 @@
 - 精通JavaScript.pdf。百度网盘：[https://pan.baidu.com/s/1UNd5-gfpHOeZu2Vcs8Q88g](https://pan.baidu.com/s/1UNd5-gfpHOeZu2Vcs8Q88g)，提取码 2ekb 
 - javascript性能优化：度量、监控与可视化.pdf。百度网盘：[https://pan.baidu.com/s/1A4cLVaSA6uh6eAq2CgyweQ](https://pan.baidu.com/s/1A4cLVaSA6uh6eAq2CgyweQ)，提取码 cs4g 
 - javascript设计模式.pdf。百度网盘：[https://pan.baidu.com/s/1Sci59FsocHK9AizuEe9Muw](https://pan.baidu.com/s/1Sci59FsocHK9AizuEe9Muw)，提取码 jiy7 
+- javascript函数式编程思想.pdf。百度网盘：[https://pan.baidu.com/s/1Nbibq41JSjL84AVyl6lxaQ](https://pan.baidu.com/s/1Nbibq41JSjL84AVyl6lxaQ)，提取码 lis9
 - ES6标准入门.pdf。百度网盘：[https://pan.baidu.com/s/186WvzEtoiYTK_9ywIP_uFQ](https://pan.baidu.com/s/186WvzEtoiYTK_9ywIP_uFQ)，提取码 wadp 
 - 你不知道的js(上).pdf。百度网盘：[https://pan.baidu.com/s/1ki8QA04uNwApj-RUzVBhtg](https://pan.baidu.com/s/1ki8QA04uNwApj-RUzVBhtg)，提取码 mvqc 
 - 你不知道的js(中).pdf。百度网盘：[https://pan.baidu.com/s/1kk9f_z88W-3elfgW-MC-fA](https://pan.baidu.com/s/1kk9f_z88W-3elfgW-MC-fA)，提取码 rxsv 
 - 你不知道的js(下).pdf。百度网盘：[https://pan.baidu.com/s/1BFXtFvVQyxyM2hlqVQCziw](https://pan.baidu.com/s/1BFXtFvVQyxyM2hlqVQCziw)，提取码 eeev 
+- ES2018快速入门.pdf。百度网盘：[https://pan.baidu.com/s/1PuD0OR1debAXwXpTlk2DmQ](https://pan.baidu.com/s/1PuD0OR1debAXwXpTlk2DmQ)，提取码:mqrh
 
 ### nodejs
 - Nodejs开发实践。百度网盘：[https://pan.baidu.com/s/1xQMhzf7ud3IGIpv77KSsfg](https://pan.baidu.com/s/1xQMhzf7ud3IGIpv77KSsfg)，提取码 7sxv
@@ -70,6 +73,10 @@
 ### 前端工程
 - 前端工程化：体系设计与实践。百度网盘：[https://pan.baidu.com/s/1pPkNXapEOAQ-rJfzGYelNQ](https://pan.baidu.com/s/1pPkNXapEOAQ-rJfzGYelNQ)，提取码 13y3
 - 深入浅出Webpack。百度网盘：[https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw](https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw)，提取码 4ogr
+- jenkins权威指南。百度网盘：[https://pan.baidu.com/s/1hs5l4n7I4DxM4y8CvLXylQ](https://pan.baidu.com/s/1hs5l4n7I4DxM4y8CvLXylQ)，提取码 kbrw
+- git学习指南。百度网盘：[https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA](https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA)，提取码 yz3k
+- IT运维之道。百度网盘：[https://pan.baidu.com/s/1TFaSHAKYwfMdOwBrQz48MQ](https://pan.baidu.com/s/1TFaSHAKYwfMdOwBrQz48MQ)，提取码 gc4e
+- 安全之路-web渗透技术及实战案例。百度网盘：[https://pan.baidu.com/s/11RhUVKP5PcExFW9ZY8Bkng](https://pan.baidu.com/s/11RhUVKP5PcExFW9ZY8Bkng)，提取码 xnps
 
 ### 算法
 - 算法（第四版）。百度网盘：[https://pan.baidu.com/s/1syklVQ5M3YV5iwT8YzAQKQ](https://pan.baidu.com/s/1syklVQ5M3YV5iwT8YzAQKQ)，提取码 p4zw
@@ -81,6 +88,9 @@
 - 
 微服务的那些事。百度网盘：[https://pan.baidu.com/s/1STQx8657ogTn2c9vpcQbrg](https://pan.baidu.com/s/1STQx8657ogTn2c9vpcQbrg)，提取码 cgo3
 - 系统架构设计-从程序员向架构师转型之路。百度网盘：[https://pan.baidu.com/s/15joyHZj6HjvY_W8uWqDFKw](https://pan.baidu.com/s/15joyHZj6HjvY_W8uWqDFKw)，提取码 mxf7
+- serverless架构-无服务器单页应用开发。百度网盘：[https://pan.baidu.com/s/1LaM4rrwjulWDQ6TEpsc5AA](https://pan.baidu.com/s/1LaM4rrwjulWDQ6TEpsc5AA)，提取码 f8rk
+- 领域驱动设计（简版）。百度网盘：[https://pan.baidu.com/s/10t1mEOZjz9n0yQqmOkU16Q](https://pan.baidu.com/s/10t1mEOZjz9n0yQqmOkU16Q)，提取码 t71n
+- 领域驱动设计模式、原理与实践。百度网盘：[https://pan.baidu.com/s/18g2ElxOIn7mb-DvSyuMO8Q](https://pan.baidu.com/s/18g2ElxOIn7mb-DvSyuMO8Q)，提取码 081o
 
 ## ui-ue目录
 UI设计、UX交互相关书籍
@@ -103,3 +113,4 @@ UI设计、UX交互相关书籍
 - 设计师的商业意识--来自阿里集团.zip
 - 认知与设计 理解UI设计准则(第2版).pdf。百度网盘：[https://pan.baidu.com/s/10MCKpQasua5NJTbYtZkEBQ](https://pan.baidu.com/s/10MCKpQasua5NJTbYtZkEBQ)，提取码 vyb9
 - 交互式系统设计HCI、UX和交互设计指南(第3版).pdf。百度网盘：[https://pan.baidu.com/s/1dBfAUSEUYVrqmV2lITlUXg](https://pan.baidu.com/s/1dBfAUSEUYVrqmV2lITlUXg)，提取码 91aa
+- 移动应用UI设计模式.pdf。百度网盘：[https://pan.baidu.com/s/17C9gmUdf0HJzVMw_lr7ESw](https://pan.baidu.com/s/17C9gmUdf0HJzVMw_lr7ESw)，提取码 mpv5
