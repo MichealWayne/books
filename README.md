@@ -93,14 +93,24 @@
 - git学习指南。百度网盘：[https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA](https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA)，提取码 yz3k
 - IT运维之道。百度网盘：[https://pan.baidu.com/s/1TFaSHAKYwfMdOwBrQz48MQ](https://pan.baidu.com/s/1TFaSHAKYwfMdOwBrQz48MQ)，提取码 gc4e
 - 安全之路-web渗透技术及实战案例。百度网盘：[https://pan.baidu.com/s/11RhUVKP5PcExFW9ZY8Bkng](https://pan.baidu.com/s/11RhUVKP5PcExFW9ZY8Bkng)，提取码 xnps
+- git高手。百度网盘：[https://pan.baidu.com/s/1ZpBdtBU_0AMMtzSKa5R0ng](https://pan.baidu.com/s/1ZpBdtBU_0AMMtzSKa5R0ng)，提取码 xqgj
 - Git学习指南。百度网盘：[https://pan.baidu.com/s/1TAe7kmhOaEQpvjWWkz63ew](https://pan.baidu.com/s/1TAe7kmhOaEQpvjWWkz63ew)，提取码 4eof
 - Jenkins权威指南。百度网盘：[https://pan.baidu.com/s/1AtbIcY8777wgxMHC2xi5Bg](https://pan.baidu.com/s/1AtbIcY8777wgxMHC2xi5Bg)，提取码 rfz5
+- Docker实践。百度网盘: [https://pan.baidu.com/s/1Z27cDYWhIpVeww3ItYDAWw](https://pan.baidu.com/s/1Z27cDYWhIpVeww3ItYDAWw)，提取码fmb2
 
 ### 算法
 
 - 算法（第四版）。百度网盘：[https://pan.baidu.com/s/1syklVQ5M3YV5iwT8YzAQKQ](https://pan.baidu.com/s/1syklVQ5M3YV5iwT8YzAQKQ)，提取码 p4zw
 - 算法笔记。百度网盘：[https://pan.baidu.com/s/1oKGjBtBlYu8bgYkfggH9bg](https://pan.baidu.com/s/1oKGjBtBlYu8bgYkfggH9bg)，提取码 cxkf
 - 图解算法。百度网盘：[https://pan.baidu.com/s/1G-OyLhiTOEGOyc4QPdecCQ](https://pan.baidu.com/s/1G-OyLhiTOEGOyc4QPdecCQ)，提取码 ubfc
+
+### 计算机基础
+
+- HTTPS权威指南。百度网盘：[https://pan.baidu.com/s/17r2nahbRXwuFhsDPNCEo8A](https://pan.baidu.com/s/17r2nahbRXwuFhsDPNCEo8A)，提取码 1eu4
+- Linux Shell脚本攻略。百度网盘：[https://pan.baidu.com/s/1Cn3cq1TfSQmBdwwOzVPHUg](https://pan.baidu.com/s/1Cn3cq1TfSQmBdwwOzVPHUg)，提取码 ezhu
+- 精通nginx（第2版）。百度网盘：[https://pan.baidu.com/s/1W-7Kn03JydJIrU9K1O0V7g](https://pan.baidu.com/s/1W-7Kn03JydJIrU9K1O0V7g) ，提取码 xqd9
+- 深入理解计算机系统。百度网盘：[https://pan.baidu.com/s/1GIV7MD3SvEQRGd0FNoWt4w](https://pan.baidu.com/s/1GIV7MD3SvEQRGd0FNoWt4w) ，提取码 n42e
+- 计算机图形学。百度网盘：[https://pan.baidu.com/s/1lbD9ToaSL2-D-1tP2PaJ5g](https://pan.baidu.com/s/1lbD9ToaSL2-D-1tP2PaJ5g) ，提取码 uaot
 
 
 ### 架构/软件工程
