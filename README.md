@@ -115,6 +115,7 @@
 
 ### 架构/软件工程
 
+- 研磨设计模式。百度网盘：[https://pan.baidu.com/s/1Z4jCKU_nSyB-16BQv_PxSg](https://pan.baidu.com/s/1Z4jCKU_nSyB-16BQv_PxSg)，提取码 m2wa
 - 微服务的那些事。百度网盘：[https://pan.baidu.com/s/1STQx8657ogTn2c9vpcQbrg](https://pan.baidu.com/s/1STQx8657ogTn2c9vpcQbrg)，提取码 cgo3
 - 系统架构设计-从程序员向架构师转型之路。百度网盘：[https://pan.baidu.com/s/15joyHZj6HjvY_W8uWqDFKw](https://pan.baidu.com/s/15joyHZj6HjvY_W8uWqDFKw)，提取码 mxf7
 - serverless架构-无服务器单页应用开发。百度网盘：[https://pan.baidu.com/s/1LaM4rrwjulWDQ6TEpsc5AA](https://pan.baidu.com/s/1LaM4rrwjulWDQ6TEpsc5AA)，提取码 f8rk
@@ -143,3 +144,5 @@ UI设计、UX交互相关书籍
 - 认知与设计 理解UI设计准则(第2版).pdf。百度网盘：[https://pan.baidu.com/s/10MCKpQasua5NJTbYtZkEBQ](https://pan.baidu.com/s/10MCKpQasua5NJTbYtZkEBQ)，提取码 vyb9
 - 交互式系统设计HCI、UX和交互设计指南(第3版).pdf。百度网盘：[https://pan.baidu.com/s/1dBfAUSEUYVrqmV2lITlUXg](https://pan.baidu.com/s/1dBfAUSEUYVrqmV2lITlUXg)，提取码 91aa
 - 移动应用UI设计模式.pdf。百度网盘：[https://pan.baidu.com/s/17C9gmUdf0HJzVMw_lr7ESw](https://pan.baidu.com/s/17C9gmUdf0HJzVMw_lr7ESw)，提取码 mpv5
+- 瞬间之美-web界面设计如何让用户心动。百度网盘：[https://pan.baidu.com/s/1L3le_e6fbPkZzADrQFyfjA](https://pan.baidu.com/s/1L3le_e6fbPkZzADrQFyfjA)，提取码 gprq
+
