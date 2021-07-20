@@ -106,12 +106,17 @@
 
 ### 计算机基础
 
-- HTTPS权威指南。百度网盘：[https://pan.baidu.com/s/17r2nahbRXwuFhsDPNCEo8A](https://pan.baidu.com/s/17r2nahbRXwuFhsDPNCEo8A)，提取码 1eu4
 - Linux Shell脚本攻略。百度网盘：[https://pan.baidu.com/s/1Cn3cq1TfSQmBdwwOzVPHUg](https://pan.baidu.com/s/1Cn3cq1TfSQmBdwwOzVPHUg)，提取码 ezhu
 - 精通nginx（第2版）。百度网盘：[https://pan.baidu.com/s/1W-7Kn03JydJIrU9K1O0V7g](https://pan.baidu.com/s/1W-7Kn03JydJIrU9K1O0V7g) ，提取码 xqd9
 - 深入理解计算机系统。百度网盘：[https://pan.baidu.com/s/1GIV7MD3SvEQRGd0FNoWt4w](https://pan.baidu.com/s/1GIV7MD3SvEQRGd0FNoWt4w) ，提取码 n42e
 - 计算机图形学。百度网盘：[https://pan.baidu.com/s/1lbD9ToaSL2-D-1tP2PaJ5g](https://pan.baidu.com/s/1lbD9ToaSL2-D-1tP2PaJ5g) ，提取码 uaot
 
+#### 计算机网络
+
+- 图解HTTP。百度网盘: [https://pan.baidu.com/s/1XLlsMc9N3SQolidH31URnw](https://pan.baidu.com/s/1XLlsMc9N3SQolidH31URnw) ，提取码 1vcv
+- 网络是怎样连接的。百度网盘: [https://pan.baidu.com/s/1Q7fu_LfsIzmU9AAXVB4dbw](https://pan.baidu.com/s/1Q7fu_LfsIzmU9AAXVB4dbw) ，提取码 o17n
+- 计算机网络-自顶向下（教材）。百度网盘: [https://pan.baidu.com/s/1Z4T9H_V9QfHmvkGymiHGtg](https://pan.baidu.com/s/1Z4T9H_V9QfHmvkGymiHGtg)  ，提取码 hlk9
+- HTTPS权威指南。百度网盘：[https://pan.baidu.com/s/17r2nahbRXwuFhsDPNCEo8A](https://pan.baidu.com/s/17r2nahbRXwuFhsDPNCEo8A)，提取码 1eu4
 
 ### 架构/软件工程
 
