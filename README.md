@@ -117,6 +117,16 @@
 - 网络是怎样连接的。百度网盘: [https://pan.baidu.com/s/1Q7fu_LfsIzmU9AAXVB4dbw](https://pan.baidu.com/s/1Q7fu_LfsIzmU9AAXVB4dbw) ，提取码 o17n
 - 计算机网络-自顶向下（教材）。百度网盘: [https://pan.baidu.com/s/1Z4T9H_V9QfHmvkGymiHGtg](https://pan.baidu.com/s/1Z4T9H_V9QfHmvkGymiHGtg)  ，提取码 hlk9
 - HTTPS权威指南。百度网盘：[https://pan.baidu.com/s/17r2nahbRXwuFhsDPNCEo8A](https://pan.baidu.com/s/17r2nahbRXwuFhsDPNCEo8A)，提取码 1eu4
+- 图解网络硬件。百度网盘：[https://pan.baidu.com/s/1NvQNwjxDW6l0-9_z6AWEzA](https://pan.baidu.com/s/1NvQNwjxDW6l0-9_z6AWEzA)，提取码 qnb1
+
+### 编程思想
+
+- 重构，改善既有代码的设计。百度网盘： [https://pan.baidu.com/s/1ot6ZoLYPau95l1y_9J-wjA](https://pan.baidu.com/s/1ot6ZoLYPau95l1y_9J-wjA) ，提取码 gd3u
+- 领域特定语言。百度网盘：[https://pan.baidu.com/s/1XRftA2YBzZxz6XV5YPU4RA](https://pan.baidu.com/s/1XRftA2YBzZxz6XV5YPU4RA) ，提取码 bskw
+- 代码整洁之道。百度网盘：[https://pan.baidu.com/s/14RiAATOtBgQGlcgCbaAqKQ](https://pan.baidu.com/s/14RiAATOtBgQGlcgCbaAqKQ) ，提取码 s0ok
+- 程序员修炼之道，从小工到专家。百度网盘：[https://pan.baidu.com/s/11Bzq8pWPDBgWf_lQ36-gdg](https://pan.baidu.com/s/11Bzq8pWPDBgWf_lQ36-gdg)  ，提取码 6aw3
+- 代码之美。百度网盘：[https://pan.baidu.com/s/1_pNhHy-4U-HowEXfCkp4wQ](https://pan.baidu.com/s/1_pNhHy-4U-HowEXfCkp4wQ)  ，提取码 7ra0
+- 像程序员一样思考。百度网盘：[https://pan.baidu.com/s/1LtX0oebQAA3n3EwdzhSsPQ](https://pan.baidu.com/s/1LtX0oebQAA3n3EwdzhSsPQ) ，提取码 gf60
 
 ### 架构/软件工程
 
