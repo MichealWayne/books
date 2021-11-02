@@ -110,6 +110,7 @@
 - 精通nginx（第2版）。百度网盘：[https://pan.baidu.com/s/1W-7Kn03JydJIrU9K1O0V7g](https://pan.baidu.com/s/1W-7Kn03JydJIrU9K1O0V7g) ，提取码 xqd9
 - 深入理解计算机系统。百度网盘：[https://pan.baidu.com/s/1GIV7MD3SvEQRGd0FNoWt4w](https://pan.baidu.com/s/1GIV7MD3SvEQRGd0FNoWt4w) ，提取码 n42e
 - 计算机图形学。百度网盘：[https://pan.baidu.com/s/1lbD9ToaSL2-D-1tP2PaJ5g](https://pan.baidu.com/s/1lbD9ToaSL2-D-1tP2PaJ5g) ，提取码 uaot
+- 类型与程序设计语言。百度网盘：[https://pan.baidu.com/s/1plGMdKKUNZBo4ge9-Rg1AQ](https://pan.baidu.com/s/1plGMdKKUNZBo4ge9-Rg1AQ)，提取码 bk5j
 
 #### 计算机网络
 
@@ -136,6 +137,12 @@
 - serverless架构-无服务器单页应用开发。百度网盘：[https://pan.baidu.com/s/1LaM4rrwjulWDQ6TEpsc5AA](https://pan.baidu.com/s/1LaM4rrwjulWDQ6TEpsc5AA)，提取码 f8rk
 - 领域驱动设计（简版）。百度网盘：[https://pan.baidu.com/s/10t1mEOZjz9n0yQqmOkU16Q](https://pan.baidu.com/s/10t1mEOZjz9n0yQqmOkU16Q)，提取码 t71n
 - 领域驱动设计模式、原理与实践。百度网盘：[https://pan.baidu.com/s/18g2ElxOIn7mb-DvSyuMO8Q](https://pan.baidu.com/s/18g2ElxOIn7mb-DvSyuMO8Q)，提取码 081o
+
+### 项目管理
+
+- 信息系统项目管理师。百度网盘：[https://pan.baidu.com/s/1soVRAIrRfSe35pugKVOB9w](https://pan.baidu.com/s/1soVRAIrRfSe35pugKVOB9w)，提取码 8sgu
+- PMBok。百度网盘：[https://pan.baidu.com/s/1KqUk97is-YDS7AlLKaJM7A](https://pan.baidu.com/s/1KqUk97is-YDS7AlLKaJM7A)，提取码 6508
+- 人月神话。百度网盘：[https://pan.baidu.com/s/1_RsGbwb6UnJHfP2smbJKxA](https://pan.baidu.com/s/1_RsGbwb6UnJHfP2smbJKxA)，提取码 ubvk
 
 ## ui-ue目录
 UI设计、UX交互相关书籍
