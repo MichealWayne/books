@@ -129,7 +129,7 @@
 - 代码之美。百度网盘：[https://pan.baidu.com/s/1_pNhHy-4U-HowEXfCkp4wQ](https://pan.baidu.com/s/1_pNhHy-4U-HowEXfCkp4wQ)  ，提取码 7ra0
 - 像程序员一样思考。百度网盘：[https://pan.baidu.com/s/1LtX0oebQAA3n3EwdzhSsPQ](https://pan.baidu.com/s/1LtX0oebQAA3n3EwdzhSsPQ) ，提取码 gf60
 
-### 架构/软件工程
+### 架构
 
 - 研磨设计模式。百度网盘：[https://pan.baidu.com/s/1Z4jCKU_nSyB-16BQv_PxSg](https://pan.baidu.com/s/1Z4jCKU_nSyB-16BQv_PxSg)，提取码 m2wa
 - 微服务的那些事。百度网盘：[https://pan.baidu.com/s/1STQx8657ogTn2c9vpcQbrg](https://pan.baidu.com/s/1STQx8657ogTn2c9vpcQbrg)，提取码 cgo3
@@ -137,12 +137,18 @@
 - serverless架构-无服务器单页应用开发。百度网盘：[https://pan.baidu.com/s/1LaM4rrwjulWDQ6TEpsc5AA](https://pan.baidu.com/s/1LaM4rrwjulWDQ6TEpsc5AA)，提取码 f8rk
 - 领域驱动设计（简版）。百度网盘：[https://pan.baidu.com/s/10t1mEOZjz9n0yQqmOkU16Q](https://pan.baidu.com/s/10t1mEOZjz9n0yQqmOkU16Q)，提取码 t71n
 - 领域驱动设计模式、原理与实践。百度网盘：[https://pan.baidu.com/s/18g2ElxOIn7mb-DvSyuMO8Q](https://pan.baidu.com/s/18g2ElxOIn7mb-DvSyuMO8Q)，提取码 081o
+- 实现领域驱动设计。百度网盘：[https://pan.baidu.com/s/1Qo4FeTrDZx95LXZ3giPgNw](https://pan.baidu.com/s/1Qo4FeTrDZx95LXZ3giPgNw)，提取码 qnbe
+- 京东基础架构建设之路。百度网盘：[https://pan.baidu.com/s/1PYBU1gbrYs-4ID4BGP5SkA](https://pan.baidu.com/s/1PYBU1gbrYs-4ID4BGP5SkA)，提取码 6vsu
+- 系统架构设计-从程序员向架构师转型之路。百度网盘：[https://pan.baidu.com/s/1w0wweNFTDXeHwrYSJMTk4Q](https://pan.baidu.com/s/1w0wweNFTDXeHwrYSJMTk4Q)，提取码 14ob
+
 
 ### 项目管理
 
 - 信息系统项目管理师。百度网盘：[https://pan.baidu.com/s/1soVRAIrRfSe35pugKVOB9w](https://pan.baidu.com/s/1soVRAIrRfSe35pugKVOB9w)，提取码 8sgu
 - PMBok。百度网盘：[https://pan.baidu.com/s/1KqUk97is-YDS7AlLKaJM7A](https://pan.baidu.com/s/1KqUk97is-YDS7AlLKaJM7A)，提取码 6508
 - 人月神话。百度网盘：[https://pan.baidu.com/s/1_RsGbwb6UnJHfP2smbJKxA](https://pan.baidu.com/s/1_RsGbwb6UnJHfP2smbJKxA)，提取码 ubvk
+- 人件（第三版）。百度网盘：[https://pan.baidu.com/s/1Q2dBdXeIhAHPa0547hxK9A](https://pan.baidu.com/s/1Q2dBdXeIhAHPa0547hxK9A)，提取码 eoop
+- 软件需求。百度网盘：[https://pan.baidu.com/s/1-DuNU0fQTlro4zhRKgf7XA](https://pan.baidu.com/s/1-DuNU0fQTlro4zhRKgf7XA)，提取码 dkrn
 
 ## ui-ue目录
 UI设计、UX交互相关书籍
