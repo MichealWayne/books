@@ -104,6 +104,12 @@
 - 算法笔记。百度网盘：[https://pan.baidu.com/s/1oKGjBtBlYu8bgYkfggH9bg](https://pan.baidu.com/s/1oKGjBtBlYu8bgYkfggH9bg)，提取码 cxkf
 - 图解算法。百度网盘：[https://pan.baidu.com/s/1G-OyLhiTOEGOyc4QPdecCQ](https://pan.baidu.com/s/1G-OyLhiTOEGOyc4QPdecCQ)，提取码 ubfc
 
+#### 编码
+
+- 代码整洁之道。百度网盘: [https://pan.baidu.com/s/1VrFwlTGkS63CrxdtZ73Jlg](https://pan.baidu.com/s/1VrFwlTGkS63CrxdtZ73Jlg)，提取码 tfqt
+- 编码——隐匿在计算机软硬件背后的语言。百度网盘: [https://pan.baidu.com/s/1IT56cP8hiLT_st7TwEJUlQ](https://pan.baidu.com/s/1IT56cP8hiLT_st7TwEJUlQ)，提取码 bn6n
+- 这样编码才规范 128 个编码好习惯。百度网盘: [https://pan.baidu.com/s/1rfBks_rW091ll2XPGCrcsA](https://pan.baidu.com/s/1rfBks_rW091ll2XPGCrcsA)，提取码 psw5
+
 ### 计算机基础
 
 - Linux Shell脚本攻略。百度网盘：[https://pan.baidu.com/s/1Cn3cq1TfSQmBdwwOzVPHUg](https://pan.baidu.com/s/1Cn3cq1TfSQmBdwwOzVPHUg)，提取码 ezhu
