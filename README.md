@@ -84,6 +84,7 @@
 
 - Flutter技术入门与实战。百度网盘：[https://pan.baidu.com/s/16xQnOop2-I6VtKupskFgJg](https://pan.baidu.com/s/16xQnOop2-I6VtKupskFgJg)，提取码 ctxe
 - React-Native全教程：移动端跨平台应用开发。百度网盘：[https://pan.baidu.com/s/1Pg7xDDKHF58Hd3gdoN538w](https://pan.baidu.com/s/1Pg7xDDKHF58Hd3gdoN538w)，提取码 h0yq
+- React-Native跨平台移动应用开发（第2版）。百度网盘：[https://pan.baidu.com/s/1Y2Ts3PP64N1gFikR47eQLw](https://pan.baidu.com/s/1Y2Ts3PP64N1gFikR47eQLw)，提取码 ul2r
 
 ### (前端)工程
 
@@ -117,6 +118,10 @@
 - 深入理解计算机系统。百度网盘：[https://pan.baidu.com/s/1GIV7MD3SvEQRGd0FNoWt4w](https://pan.baidu.com/s/1GIV7MD3SvEQRGd0FNoWt4w) ，提取码 n42e
 - 计算机图形学。百度网盘：[https://pan.baidu.com/s/1lbD9ToaSL2-D-1tP2PaJ5g](https://pan.baidu.com/s/1lbD9ToaSL2-D-1tP2PaJ5g) ，提取码 uaot
 - 类型与程序设计语言。百度网盘：[https://pan.baidu.com/s/1plGMdKKUNZBo4ge9-Rg1AQ](https://pan.baidu.com/s/1plGMdKKUNZBo4ge9-Rg1AQ)，提取码 bk5j
+- 计算机程序设计艺术（第1卷）。百度网盘：[https://pan.baidu.com/s/1uSswXS90_KRJJAaxSJoRyw](https://pan.baidu.com/s/1uSswXS90_KRJJAaxSJoRyw) ，提取码 hubm
+- 计算机程序设计艺术（第2卷）。百度网盘：[https://pan.baidu.com/s/1M5-3vpyzYHUYEIs7JRsKJw](https://pan.baidu.com/s/1M5-3vpyzYHUYEIs7JRsKJw)，提取码 g3sk
+- 计算机程序设计艺术（第3卷）。百度网盘：[https://pan.baidu.com/s/1D53y9sebYlgtI9CyeoALlw](https://pan.baidu.com/s/1D53y9sebYlgtI9CyeoALlw) ，提取码 kkn2
+
 
 #### 计算机网络
 
@@ -179,4 +184,4 @@ UI设计、UX交互相关书籍
 - 交互式系统设计HCI、UX和交互设计指南(第3版).pdf。百度网盘：[https://pan.baidu.com/s/1dBfAUSEUYVrqmV2lITlUXg](https://pan.baidu.com/s/1dBfAUSEUYVrqmV2lITlUXg)，提取码 91aa
 - 移动应用UI设计模式.pdf。百度网盘：[https://pan.baidu.com/s/17C9gmUdf0HJzVMw_lr7ESw](https://pan.baidu.com/s/17C9gmUdf0HJzVMw_lr7ESw)，提取码 mpv5
 - 瞬间之美-web界面设计如何让用户心动。百度网盘：[https://pan.baidu.com/s/1L3le_e6fbPkZzADrQFyfjA](https://pan.baidu.com/s/1L3le_e6fbPkZzADrQFyfjA)，提取码 gprq
-
+- 交互设计精髓about face4。百度网盘：[https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew](https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew)，提取码 h0ff
