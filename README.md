@@ -130,6 +130,8 @@
 - 计算机网络-自顶向下（教材）。百度网盘: [https://pan.baidu.com/s/1Z4T9H_V9QfHmvkGymiHGtg](https://pan.baidu.com/s/1Z4T9H_V9QfHmvkGymiHGtg)  ，提取码 hlk9
 - HTTPS权威指南。百度网盘：[https://pan.baidu.com/s/17r2nahbRXwuFhsDPNCEo8A](https://pan.baidu.com/s/17r2nahbRXwuFhsDPNCEo8A)，提取码 1eu4
 - 图解网络硬件。百度网盘：[https://pan.baidu.com/s/1NvQNwjxDW6l0-9_z6AWEzA](https://pan.baidu.com/s/1NvQNwjxDW6l0-9_z6AWEzA)，提取码 qnb1
+- 图解TCP/IP。百度网盘：[https://pan.baidu.com/s/1RZy0MdWWCIaJsqPoA4MXYQ](https://pan.baidu.com/s/1RZy0MdWWCIaJsqPoA4MXYQ)，提取码 5kau
+- HTTP协议详解。百度网盘：[https://pan.baidu.com/s/1LNTpSiIdN2tJ5zcOWucoXA](https://pan.baidu.com/s/1LNTpSiIdN2tJ5zcOWucoXA)，提取码 bdj0
 
 ### 编程思想
 
