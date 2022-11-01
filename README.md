@@ -56,9 +56,11 @@
 - 你不知道的js(上).pdf。百度网盘：[https://pan.baidu.com/s/1ki8QA04uNwApj-RUzVBhtg](https://pan.baidu.com/s/1ki8QA04uNwApj-RUzVBhtg)，提取码 mvqc 
 - 你不知道的js(中).pdf。百度网盘：[https://pan.baidu.com/s/1kk9f_z88W-3elfgW-MC-fA](https://pan.baidu.com/s/1kk9f_z88W-3elfgW-MC-fA)，提取码 rxsv 
 - 你不知道的js(下).pdf。百度网盘：[https://pan.baidu.com/s/1BFXtFvVQyxyM2hlqVQCziw](https://pan.baidu.com/s/1BFXtFvVQyxyM2hlqVQCziw)，提取码 eeev 
+- 你不知道的js官方英文版（在线github仓库），地址[https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - ES2018快速入门.pdf。百度网盘：[https://pan.baidu.com/s/1PuD0OR1debAXwXpTlk2DmQ](https://pan.baidu.com/s/1PuD0OR1debAXwXpTlk2DmQ)，提取码:mqrh
 - JavaScript函数式编程思想.pdf。百度网盘：[https://pan.baidu.com/s/1SLwTPeRzjRhyhBKfNK-W1w](https://pan.baidu.com/s/1SLwTPeRzjRhyhBKfNK-W1w)，提取码:f9cf
 - Learning TypeScript中文版.pdf。百度网盘：[https://pan.baidu.com/s/1qmkBDCcPEHw3TTHYv4u2bg](https://pan.baidu.com/s/1qmkBDCcPEHw3TTHYv4u2bg)，提取码:p9t7
+- 深入理解TypeScript（在线电子版）。英文版：[https://basarat.gitbook.io/typescript/](https://basarat.gitbook.io/typescript/)，中文翻译版：[http://colortocc.com/](http://colortocc.com/)或[https://www.javascriptc.com/books/typescript-deep-dive/](https://www.javascriptc.com/books/typescript-deep-dive/)
 
 ### nodejs
 
@@ -70,18 +72,22 @@
 - 超实用的Nodejs片段。百度网盘：[https://pan.baidu.com/s/1r2UFQfhvcN5sb9U5ystvXQ](https://pan.baidu.com/s/1r2UFQfhvcN5sb9U5ystvXQ)，提取码 3yyp
 - Nginx高性能Web服务器实战。百度网盘：[https://pan.baidu.com/s/1dOU0cLN8WrjPv-lanwaQsw](https://pan.baidu.com/s/1dOU0cLN8WrjPv-lanwaQsw)，提取码 2vm2
 - Nodejs来一打C++扩展。百度网盘：[https://pan.baidu.com/s/1eAk1kWcJLn9E6w8yJ67hAw](https://pan.baidu.com/s/1eAk1kWcJLn9E6w8yJ67hAw)，提取码 eqmk
+- Node.js 包教不包会（在线github仓库），地址：[https://github.com/alsotang/node-lessons](https://github.com/alsotang/node-lessons)
 
 
 ### Vue/React/Angular
 
 - Vue.js实战。百度网盘：[https://pan.baidu.com/s/1xly4Kl-DzRheXBxrBYumWg](https://pan.baidu.com/s/1xly4Kl-DzRheXBxrBYumWg)，提取码 8e5c
 - Vue.js权威指南。百度网盘：[https://pan.baidu.com/s/1W3fR0G64dBMxGe2kqxkAvg](https://pan.baidu.com/s/1W3fR0G64dBMxGe2kqxkAvg)，提取码 51xz
+- Vue.js技术揭秘（在线电子版），地址：[https://ustbhuangyi.github.io/vue-analysis/](https://ustbhuangyi.github.io/vue-analysis/)
 - 深入React技术栈。百度网盘：[https://pan.baidu.com/s/1i_vvm7c1MecYyZA0wInTng](https://pan.baidu.com/s/1i_vvm7c1MecYyZA0wInTng)，提取码 joas
 - React前端技术与工程实践。百度网盘：[https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ](https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ)，提取码 z92c
 - React状态管理与同构实战。百度网盘：[https://pan.baidu.com/s/1QZQYOeKZs5N50juYijgIvQ](https://pan.baidu.com/s/1QZQYOeKZs5N50juYijgIvQ)，提取码 xt1v
+- React技术揭秘（在线电子版），地址：[https://react.iamkasong.com/](https://react.iamkasong.com/)
 
 ### 移动端
 
+- Flutter开发实践详解（在线电子版），地址：[https://guoshuyu.cn/home/wx/](https://guoshuyu.cn/home/wx/)
 - Flutter技术入门与实战。百度网盘：[https://pan.baidu.com/s/16xQnOop2-I6VtKupskFgJg](https://pan.baidu.com/s/16xQnOop2-I6VtKupskFgJg)，提取码 ctxe
 - React-Native全教程：移动端跨平台应用开发。百度网盘：[https://pan.baidu.com/s/1Pg7xDDKHF58Hd3gdoN538w](https://pan.baidu.com/s/1Pg7xDDKHF58Hd3gdoN538w)，提取码 h0yq
 - React-Native跨平台移动应用开发（第2版）。百度网盘：[https://pan.baidu.com/s/1Y2Ts3PP64N1gFikR47eQLw](https://pan.baidu.com/s/1Y2Ts3PP64N1gFikR47eQLw)，提取码 ul2r
