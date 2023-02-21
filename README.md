@@ -61,6 +61,7 @@
 - JavaScript函数式编程思想.pdf。百度网盘：[https://pan.baidu.com/s/1SLwTPeRzjRhyhBKfNK-W1w](https://pan.baidu.com/s/1SLwTPeRzjRhyhBKfNK-W1w)，提取码:f9cf
 - Learning TypeScript中文版.pdf。百度网盘：[https://pan.baidu.com/s/1qmkBDCcPEHw3TTHYv4u2bg](https://pan.baidu.com/s/1qmkBDCcPEHw3TTHYv4u2bg)，提取码:p9t7
 - 深入理解TypeScript（在线电子版）。英文版：[https://basarat.gitbook.io/typescript/](https://basarat.gitbook.io/typescript/)，中文翻译版：[http://colortocc.com/](http://colortocc.com/)或[https://www.javascriptc.com/books/typescript-deep-dive/](https://www.javascriptc.com/books/typescript-deep-dive/)
+- JavaScript 二十年（在线电子版）。[https://cn.history.js.org/](https://cn.history.js.org/)
 
 ### nodejs
 
@@ -116,6 +117,7 @@
 - 代码整洁之道。百度网盘: [https://pan.baidu.com/s/1VrFwlTGkS63CrxdtZ73Jlg](https://pan.baidu.com/s/1VrFwlTGkS63CrxdtZ73Jlg)，提取码 tfqt
 - 编码——隐匿在计算机软硬件背后的语言。百度网盘: [https://pan.baidu.com/s/1IT56cP8hiLT_st7TwEJUlQ](https://pan.baidu.com/s/1IT56cP8hiLT_st7TwEJUlQ)，提取码 bn6n
 - 这样编码才规范 128 个编码好习惯。百度网盘: [https://pan.baidu.com/s/1rfBks_rW091ll2XPGCrcsA](https://pan.baidu.com/s/1rfBks_rW091ll2XPGCrcsA)，提取码 psw5
+- 游戏编程模式（在线电子版）。[https://gpp.tkchu.me/](https://gpp.tkchu.me/)
 
 ### 计算机基础
 
@@ -160,6 +162,10 @@
 - 京东基础架构建设之路。百度网盘：[https://pan.baidu.com/s/1PYBU1gbrYs-4ID4BGP5SkA](https://pan.baidu.com/s/1PYBU1gbrYs-4ID4BGP5SkA)，提取码 6vsu
 - 系统架构设计-从程序员向架构师转型之路。百度网盘：[https://pan.baidu.com/s/1w0wweNFTDXeHwrYSJMTk4Q](https://pan.baidu.com/s/1w0wweNFTDXeHwrYSJMTk4Q)，提取码 14ob
 
+### 人工智能
+
+- 动手学深度学习（在线电子版）。[http://zh.d2l.ai/](http://zh.d2l.ai/)
+- TensorFlow深度学习——深入理解人工智能算法设计（在线电子版）。[https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 
 ### 项目管理
 
