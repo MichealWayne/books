@@ -1,12 +1,12 @@
 # books
 前端、UI/UE部分经典书籍免费电子版。
 
-## fe目录
+## fe(front-end)目录
 前端开发相关书籍。
 
 > *注：[导航-前端常用网站集合>>](https://github.com/MichealWayne/fe-tools)
 
-### css目录
+### css
 
 - [CSS3学习必备书籍《CSS3 实战》.pdf](./fee/)
 - [CSS3实战：开发与设计迷你书.zip](./fee/)
@@ -20,7 +20,7 @@
 - 精彩绝伦的css.pdf。百度网盘：[https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ](https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ)，提取码 62ue 
 - css世界.pdf。百度网盘：[https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA](https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA) ，提取码 o005
 
-### html目录
+### html
 
 - [HTML 5 开发精要与实例详解--W3Cfuns.pdf](./fee/)
 - [HTML 5开发精要与实例详解 源码.zip](./fee/)
@@ -35,7 +35,7 @@
 - WebGL高级编程：开发Web3D图形.pdf。百度网盘[https://pan.baidu.com/s/1B5faAmkRw2XYALARA-Qtaw](https://pan.baidu.com/s/1B5faAmkRw2XYALARA-Qtaw)，提取码 2ms6 
 - HTML5与CSS3设计模式.pdf。百度网盘：[https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ](https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ)，提取码 kyy7
 
-### js/ts目录
+### js/ts
 
 - [JavaScript宝典(第7版).pdf](./fee/)
 - [JavaScript框架高级编程 应用Prototype、YUI、Ext JS、Dojo、MooTools(jb51.net).zip](./fee/)
@@ -85,6 +85,7 @@
 - React前端技术与工程实践。百度网盘：[https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ](https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ)，提取码 z92c
 - React状态管理与同构实战。百度网盘：[https://pan.baidu.com/s/1QZQYOeKZs5N50juYijgIvQ](https://pan.baidu.com/s/1QZQYOeKZs5N50juYijgIvQ)，提取码 xt1v
 - React技术揭秘（在线电子版），地址：[https://react.iamkasong.com/](https://react.iamkasong.com/)
+- React hooks（在线视频）：https://epicreact.dev/modules/react-hooks/react-hooks-welcome
 
 ### 移动端
 
@@ -112,7 +113,7 @@
 - 算法笔记。百度网盘：[https://pan.baidu.com/s/1oKGjBtBlYu8bgYkfggH9bg](https://pan.baidu.com/s/1oKGjBtBlYu8bgYkfggH9bg)，提取码 cxkf
 - 图解算法。百度网盘：[https://pan.baidu.com/s/1G-OyLhiTOEGOyc4QPdecCQ](https://pan.baidu.com/s/1G-OyLhiTOEGOyc4QPdecCQ)，提取码 ubfc
 
-#### 编码
+### 编码
 
 - 代码整洁之道。百度网盘: [https://pan.baidu.com/s/1VrFwlTGkS63CrxdtZ73Jlg](https://pan.baidu.com/s/1VrFwlTGkS63CrxdtZ73Jlg)，提取码 tfqt
 - 编码——隐匿在计算机软硬件背后的语言。百度网盘: [https://pan.baidu.com/s/1IT56cP8hiLT_st7TwEJUlQ](https://pan.baidu.com/s/1IT56cP8hiLT_st7TwEJUlQ)，提取码 bn6n
@@ -131,7 +132,7 @@
 - 计算机程序设计艺术（第3卷）。百度网盘：[https://pan.baidu.com/s/1D53y9sebYlgtI9CyeoALlw](https://pan.baidu.com/s/1D53y9sebYlgtI9CyeoALlw) ，提取码 kkn2
 
 
-#### 计算机网络
+### 计算机网络
 
 - 图解HTTP。百度网盘: [https://pan.baidu.com/s/1XLlsMc9N3SQolidH31URnw](https://pan.baidu.com/s/1XLlsMc9N3SQolidH31URnw) ，提取码 1vcv
 - 网络是怎样连接的。百度网盘: [https://pan.baidu.com/s/1Q7fu_LfsIzmU9AAXVB4dbw](https://pan.baidu.com/s/1Q7fu_LfsIzmU9AAXVB4dbw) ，提取码 o17n
@@ -167,6 +168,12 @@
 - 动手学深度学习（在线电子版）。[http://zh.d2l.ai/](http://zh.d2l.ai/)
 - TensorFlow深度学习——深入理解人工智能算法设计（在线电子版）。[https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 
+#### chatGPT
+
+- 学习提示（Learning Prompt，在线电子版）：[https://learningprompt.wiki/](https://learningprompt.wiki/)
+- 提示工程指南（Prompt Engineering Guide，在线电子版）：[https://www.promptingguide.ai/zh](https://www.promptingguide.ai/zh)
+
+
 ### 项目管理
 
 - 信息系统项目管理师。百度网盘：[https://pan.baidu.com/s/1soVRAIrRfSe35pugKVOB9w](https://pan.baidu.com/s/1soVRAIrRfSe35pugKVOB9w)，提取码 8sgu
@@ -176,7 +183,8 @@
 - 软件需求。百度网盘：[https://pan.baidu.com/s/1-DuNU0fQTlro4zhRKgf7XA](https://pan.baidu.com/s/1-DuNU0fQTlro4zhRKgf7XA)，提取码 dkrn
 
 ## ui-ue目录
-UI设计、UX交互相关书籍
+
+UI设计、UX交互相关书籍（部分互联网公司规范类已经有些旧了）
 
 - [About.Face.3：The.Essentials.of.Interaction.Design.pdf](./ui-ue/)
 - [Global Visual Language 2.0.pdf](./ui-ue/)
