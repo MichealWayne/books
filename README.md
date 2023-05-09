@@ -167,11 +167,13 @@
 
 - 动手学深度学习（在线电子版）。[http://zh.d2l.ai/](http://zh.d2l.ai/)
 - TensorFlow深度学习——深入理解人工智能算法设计（在线电子版）。[https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
+- 深度学习与计算机视觉：算法原理、框架应用与代码实现。百度网盘：[https://pan.baidu.com/s/1nn5gIvSUdIBWkUMySlO_rQ](https://pan.baidu.com/s/1nn5gIvSUdIBWkUMySlO_rQ)，提取码 bm2j
 
 #### chatGPT
 
 - 学习提示（Learning Prompt，在线电子版）：[https://learningprompt.wiki/](https://learningprompt.wiki/)
 - 提示工程指南（Prompt Engineering Guide，在线电子版）：[https://www.promptingguide.ai/zh](https://www.promptingguide.ai/zh)
+- 面向开发者的 ChatGPT 提示词工程（ChatGPT Prompt Engineering for Developers，吴恩达与 OpenAI 开发者 Iza Fulford ，视频课程）：[https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)，中文字幕版：[https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese)
 
 
 ### 项目管理
@@ -207,3 +209,4 @@ UI设计、UX交互相关书籍（部分互联网公司规范类已经有些旧�
 - 移动应用UI设计模式.pdf。百度网盘：[https://pan.baidu.com/s/17C9gmUdf0HJzVMw_lr7ESw](https://pan.baidu.com/s/17C9gmUdf0HJzVMw_lr7ESw)，提取码 mpv5
 - 瞬间之美-web界面设计如何让用户心动。百度网盘：[https://pan.baidu.com/s/1L3le_e6fbPkZzADrQFyfjA](https://pan.baidu.com/s/1L3le_e6fbPkZzADrQFyfjA)，提取码 gprq
 - 交互设计精髓about face4。百度网盘：[https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew](https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew)，提取码 h0ff
+- 破茧成蝶2——以产品为中心的设计革命。百度网盘[https://pan.baidu.com/s/1Xi3xPDzFXcByp_co5FYUKw](https://pan.baidu.com/s/1Xi3xPDzFXcByp_co5FYUKw)，提取码 qx5y
