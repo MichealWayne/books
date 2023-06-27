@@ -178,7 +178,8 @@
 
 ### 项目管理
 
-- 信息系统项目管理师。百度网盘：[https://pan.baidu.com/s/1soVRAIrRfSe35pugKVOB9w](https://pan.baidu.com/s/1soVRAIrRfSe35pugKVOB9w)，提取码 8sgu
+- 信息系统项目管理师(第四版)。百度网盘：[https://pan.baidu.com/s/1xCYD-fHFlvCHOKxwaVPdvg](https://pan.baidu.com/s/1xCYD-fHFlvCHOKxwaVPdvg)，提取码 57da
+- 信息系统项目管理师(第三版)。百度网盘：[https://pan.baidu.com/s/1soVRAIrRfSe35pugKVOB9w](https://pan.baidu.com/s/1soVRAIrRfSe35pugKVOB9w)，提取码 8sgu
 - PMBok。百度网盘：[https://pan.baidu.com/s/1KqUk97is-YDS7AlLKaJM7A](https://pan.baidu.com/s/1KqUk97is-YDS7AlLKaJM7A)，提取码 6508
 - 人月神话。百度网盘：[https://pan.baidu.com/s/1_RsGbwb6UnJHfP2smbJKxA](https://pan.baidu.com/s/1_RsGbwb6UnJHfP2smbJKxA)，提取码 ubvk
 - 人件（第三版）。百度网盘：[https://pan.baidu.com/s/1Q2dBdXeIhAHPa0547hxK9A](https://pan.baidu.com/s/1Q2dBdXeIhAHPa0547hxK9A)，提取码 eoop
