@@ -12,13 +12,13 @@
 - [CSS3实战：开发与设计迷你书.zip](./fee/)
 - [CSS权威指南（第3版）.zip](./fee/)
 - [CSS网站布局实录 （第二版）.pdf](./fee/)
-- [css2.0中文手册.chm](./fee/)
-- [css3.0参考手册.chm](./fee/)
+- 【年代较久】[css3.0参考手册.chm](./fee/)
 - [css技巧.CHM](./fee/)
-- [filter滤镜手册_苏昱.rar](./fee/)
+- 【年代较久】[filter滤镜手册_苏昱.rar](./fee/)
 - css揭秘.pdf。百度网盘[https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ](https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ)，提取码 gtyp 
 - 精彩绝伦的css.pdf。百度网盘：[https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ](https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ)，提取码 62ue 
 - css世界.pdf。百度网盘：[https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA](https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA) ，提取码 o005
+- 图解CSS3核心技术与案例实战。百度网盘：[https://pan.baidu.com/s/1JDuu1oeuZaqNCJgLuyh7ag](https://pan.baidu.com/s/1JDuu1oeuZaqNCJgLuyh7ag)，提取码 k5tg
 
 ### html
 
@@ -30,7 +30,7 @@
 - [HTML5游戏开发(全).pdf](./fee/)
 - [HTML5移动Web开发指南.rar](./fee/)
 - [HTML5程序设计（第2版）.pdf](./fee/)
-- [HTML与CSS入门经典（第8版）.zip](./fee/)
+- 【年代较久】[HTML与CSS入门经典（第8版）.zip](./fee/)
 - HTML5 移动游戏开发高级编程.pdf。百度网盘[https://pan.baidu.com/s/1JERsDj_Gng1bRSTNChOQkQ](https://pan.baidu.com/s/1JERsDj_Gng1bRSTNChOQkQ)，提取码 vz6k 
 - WebGL高级编程：开发Web3D图形.pdf。百度网盘[https://pan.baidu.com/s/1B5faAmkRw2XYALARA-Qtaw](https://pan.baidu.com/s/1B5faAmkRw2XYALARA-Qtaw)，提取码 2ms6 
 - HTML5与CSS3设计模式.pdf。百度网盘：[https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ](https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ)，提取码 kyy7
@@ -169,6 +169,12 @@
 - TensorFlow深度学习——深入理解人工智能算法设计（在线电子版）。[https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 - 深度学习与计算机视觉：算法原理、框架应用与代码实现。百度网盘：[https://pan.baidu.com/s/1nn5gIvSUdIBWkUMySlO_rQ](https://pan.baidu.com/s/1nn5gIvSUdIBWkUMySlO_rQ)，提取码 bm2j
 
+#### Python
+
+- Python编程：从入门到实践。百度网盘： [https://pan.baidu.com/s/1lCorFxdfT64ZZoXsCOaqMw](https://pan.baidu.com/s/1lCorFxdfT64ZZoXsCOaqMw)，提取码 1z7h 
+- Python语言及其应用。百度网盘: [https://pan.baidu.com/s/1DIWG7vqv_HLasus2TUaUEQ](https://pan.baidu.com/s/1DIWG7vqv_HLasus2TUaUEQ) ，提取码 q6y7 
+- Python学习手册（第四版）。百度网盘: [https://pan.baidu.com/s/1xZ7swrMBP7uNz4rhkGh60w](https://pan.baidu.com/s/1xZ7swrMBP7uNz4rhkGh60w)，提取码 fzj4 
+
 #### chatGPT
 
 - 学习提示（Learning Prompt，在线电子版）：[https://learningprompt.wiki/](https://learningprompt.wiki/)
@@ -185,6 +191,8 @@
 - 人件（第三版）。百度网盘：[https://pan.baidu.com/s/1Q2dBdXeIhAHPa0547hxK9A](https://pan.baidu.com/s/1Q2dBdXeIhAHPa0547hxK9A)，提取码 eoop
 - 软件需求。百度网盘：[https://pan.baidu.com/s/1-DuNU0fQTlro4zhRKgf7XA](https://pan.baidu.com/s/1-DuNU0fQTlro4zhRKgf7XA)，提取码 dkrn
 
+---
+
 ## ui-ue目录
 
 UI设计、UX交互相关书籍（部分互联网公司规范类已经有些旧了）
@@ -194,16 +202,16 @@ UI设计、UX交互相关书籍（部分互联网公司规范类已经有些旧�
 - [众妙之门 网站UI设计之道.zip](./ui-ue/)
 - [其他公司视觉规范.rar](./ui-ue/)
 - [写给大家看的设计书.zip](./ui-ue/)
-- [新浪设计指南.pdf](./ui-ue/)
-- [易趣网视觉规范.ppt](./ui-ue/)
+- 【年代较久】[新浪设计指南.pdf](./ui-ue/)
+- 【年代较久】[易趣网视觉规范.ppt](./ui-ue/)
 - [用户体验的要素：以用户为中心的web设计.zip](./ui-ue/)
-- [百度资料—视觉规划.pptx](./ui-ue/)
+- 【年代较久】[百度资料—视觉规划.pptx](./ui-ue/)
 - [移动应用UI设计模式.pdf](./ui-ue/)
-- [腾讯内部PPT.docx](./ui-ue/)
-- [腾讯网Web页面设计规范.ppt](./ui-ue/)
-- [腾讯网Web页面设计规范.rar](./ui-ue/)
-- [腾讯网Web页面设计规范.swf](./ui-ue/)
-- [英国广播公司BBC的网站设计规范手册.rar](./ui-ue/)
+- 【年代较久】[腾讯内部PPT.docx](./ui-ue/)
+- 【年代较久】[腾讯网Web页面设计规范.ppt](./ui-ue/)
+- 【年代较久】[腾讯网Web页面设计规范.rar](./ui-ue/)
+- 【年代较久】[腾讯网Web页面设计规范.swf](./ui-ue/)
+- 【年代较久】[英国广播公司BBC的网站设计规范手册.rar](./ui-ue/)
 - [设计师的商业意识--来自阿里集团.zip](./ui-ue/)
 - 认知与设计 理解UI设计准则(第2版).pdf。百度网盘：[https://pan.baidu.com/s/10MCKpQasua5NJTbYtZkEBQ](https://pan.baidu.com/s/10MCKpQasua5NJTbYtZkEBQ)，提取码 vyb9
 - 交互式系统设计HCI、UX和交互设计指南(第3版).pdf。百度网盘：[https://pan.baidu.com/s/1dBfAUSEUYVrqmV2lITlUXg](https://pan.baidu.com/s/1dBfAUSEUYVrqmV2lITlUXg)，提取码 91aa
