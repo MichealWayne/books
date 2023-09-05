@@ -59,9 +59,11 @@
 - 你不知道的js官方英文版（在线github仓库），地址[https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - ES2018快速入门.pdf。百度网盘：[https://pan.baidu.com/s/1PuD0OR1debAXwXpTlk2DmQ](https://pan.baidu.com/s/1PuD0OR1debAXwXpTlk2DmQ)，提取码:mqrh
 - JavaScript函数式编程思想.pdf。百度网盘：[https://pan.baidu.com/s/1SLwTPeRzjRhyhBKfNK-W1w](https://pan.baidu.com/s/1SLwTPeRzjRhyhBKfNK-W1w)，提取码:f9cf
+- JavaScript 二十年（在线电子版）。[https://cn.history.js.org/](https://cn.history.js.org/)
 - Learning TypeScript中文版.pdf。百度网盘：[https://pan.baidu.com/s/1qmkBDCcPEHw3TTHYv4u2bg](https://pan.baidu.com/s/1qmkBDCcPEHw3TTHYv4u2bg)，提取码:p9t7
 - 深入理解TypeScript（在线电子版）。英文版：[https://basarat.gitbook.io/typescript/](https://basarat.gitbook.io/typescript/)，中文翻译版：[http://colortocc.com/](http://colortocc.com/)或[https://www.javascriptc.com/books/typescript-deep-dive/](https://www.javascriptc.com/books/typescript-deep-dive/)
-- JavaScript 二十年（在线电子版）。[https://cn.history.js.org/](https://cn.history.js.org/)
+- 阮一峰《TypeScript教程》（在线电子版），地址：[https://wangdoc.com/typescript/](https://wangdoc.com/typescript/)
+
 
 ### nodejs
 
@@ -97,7 +99,8 @@
 ### (前端)工程
 
 - 前端工程化：体系设计与实践。百度网盘：[https://pan.baidu.com/s/1pPkNXapEOAQ-rJfzGYelNQ](https://pan.baidu.com/s/1pPkNXapEOAQ-rJfzGYelNQ)，提取码 13y3
-- 深入浅出Webpack。百度网盘：[https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw](https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw)，提取码 4ogr
+- 深入浅出Webpack（在线电子版），地址：[http://webpack.wuhaolin.cn/](http://webpack.wuhaolin.cn/)
+- 深入浅出Webpack（pdf）。百度网盘：[https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw](https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw)，提取码 4ogr
 - jenkins权威指南。百度网盘：[https://pan.baidu.com/s/1hs5l4n7I4DxM4y8CvLXylQ](https://pan.baidu.com/s/1hs5l4n7I4DxM4y8CvLXylQ)，提取码 kbrw
 - git学习指南。百度网盘：[https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA](https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA)，提取码 yz3k
 - IT运维之道。百度网盘：[https://pan.baidu.com/s/1TFaSHAKYwfMdOwBrQz48MQ](https://pan.baidu.com/s/1TFaSHAKYwfMdOwBrQz48MQ)，提取码 gc4e
@@ -106,6 +109,7 @@
 - Git学习指南。百度网盘：[https://pan.baidu.com/s/1TAe7kmhOaEQpvjWWkz63ew](https://pan.baidu.com/s/1TAe7kmhOaEQpvjWWkz63ew)，提取码 4eof
 - Jenkins权威指南。百度网盘：[https://pan.baidu.com/s/1AtbIcY8777wgxMHC2xi5Bg](https://pan.baidu.com/s/1AtbIcY8777wgxMHC2xi5Bg)，提取码 rfz5
 - Docker实践。百度网盘: [https://pan.baidu.com/s/1Z27cDYWhIpVeww3ItYDAWw](https://pan.baidu.com/s/1Z27cDYWhIpVeww3ItYDAWw)，提取码fmb2
+- 《Babel手册》（在线电子版），地址：[https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
 
 ### 算法
 
@@ -118,7 +122,7 @@
 - 代码整洁之道。百度网盘: [https://pan.baidu.com/s/1VrFwlTGkS63CrxdtZ73Jlg](https://pan.baidu.com/s/1VrFwlTGkS63CrxdtZ73Jlg)，提取码 tfqt
 - 编码——隐匿在计算机软硬件背后的语言。百度网盘: [https://pan.baidu.com/s/1IT56cP8hiLT_st7TwEJUlQ](https://pan.baidu.com/s/1IT56cP8hiLT_st7TwEJUlQ)，提取码 bn6n
 - 这样编码才规范 128 个编码好习惯。百度网盘: [https://pan.baidu.com/s/1rfBks_rW091ll2XPGCrcsA](https://pan.baidu.com/s/1rfBks_rW091ll2XPGCrcsA)，提取码 psw5
-- 游戏编程模式（在线电子版）。[https://gpp.tkchu.me/](https://gpp.tkchu.me/)
+- 游戏编程模式（在线电子版），地址：[https://gpp.tkchu.me/](https://gpp.tkchu.me/)
 
 ### 计算机基础
 
@@ -168,6 +172,7 @@
 - 动手学深度学习（在线电子版）。[http://zh.d2l.ai/](http://zh.d2l.ai/)
 - TensorFlow深度学习——深入理解人工智能算法设计（在线电子版）。[https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 - 深度学习与计算机视觉：算法原理、框架应用与代码实现。百度网盘：[https://pan.baidu.com/s/1nn5gIvSUdIBWkUMySlO_rQ](https://pan.baidu.com/s/1nn5gIvSUdIBWkUMySlO_rQ)，提取码 bm2j
+- Machine Learning Yearning 中文版（在线电子版），地址：[https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/](https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/)
 
 #### Python
 
@@ -190,6 +195,9 @@
 - 人月神话。百度网盘：[https://pan.baidu.com/s/1_RsGbwb6UnJHfP2smbJKxA](https://pan.baidu.com/s/1_RsGbwb6UnJHfP2smbJKxA)，提取码 ubvk
 - 人件（第三版）。百度网盘：[https://pan.baidu.com/s/1Q2dBdXeIhAHPa0547hxK9A](https://pan.baidu.com/s/1Q2dBdXeIhAHPa0547hxK9A)，提取码 eoop
 - 软件需求。百度网盘：[https://pan.baidu.com/s/1-DuNU0fQTlro4zhRKgf7XA](https://pan.baidu.com/s/1-DuNU0fQTlro4zhRKgf7XA)，提取码 dkrn
+
+### 其他
+- 游戏引擎 浅入浅出（Learning Prompt，在线电子版）：[https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=Introduction.md](https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=Introduction.md)
 
 ---
 
