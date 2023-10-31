@@ -35,7 +35,7 @@
 - WebGL高级编程：开发Web3D图形.pdf。百度网盘[https://pan.baidu.com/s/1B5faAmkRw2XYALARA-Qtaw](https://pan.baidu.com/s/1B5faAmkRw2XYALARA-Qtaw)，提取码 2ms6 
 - HTML5与CSS3设计模式.pdf。百度网盘：[https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ](https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ)，提取码 kyy7
 
-### js/ts
+### js/ts/rust
 
 - [JavaScript宝典(第7版).pdf](./fee/)
 - [JavaScript框架高级编程 应用Prototype、YUI、Ext JS、Dojo、MooTools(jb51.net).zip](./fee/)
@@ -63,6 +63,8 @@
 - Learning TypeScript中文版.pdf。百度网盘：[https://pan.baidu.com/s/1qmkBDCcPEHw3TTHYv4u2bg](https://pan.baidu.com/s/1qmkBDCcPEHw3TTHYv4u2bg)，提取码:p9t7
 - 深入理解TypeScript（在线电子版）。英文版：[https://basarat.gitbook.io/typescript/](https://basarat.gitbook.io/typescript/)，中文翻译版：[http://colortocc.com/](http://colortocc.com/)或[https://www.javascriptc.com/books/typescript-deep-dive/](https://www.javascriptc.com/books/typescript-deep-dive/)
 - 阮一峰《TypeScript教程》（在线电子版），地址：[https://wangdoc.com/typescript/](https://wangdoc.com/typescript/)
+- 编写可维护的Javascript。百度网盘：[https://pan.baidu.com/s/1Qk8u-IITAelH2fSFpbhdHA](https://pan.baidu.com/s/1Qk8u-IITAelH2fSFpbhdHA)，提取码：gx7n
+- 深入浅出Rust。百度网盘：[https://pan.baidu.com/s/1A6Wl5w30ms_jlIS4t_VKpA](https://pan.baidu.com/s/1A6Wl5w30ms_jlIS4t_VKpA)，提取码：cbwn
 
 
 ### nodejs
@@ -105,11 +107,13 @@
 - git学习指南。百度网盘：[https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA](https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA)，提取码 yz3k
 - IT运维之道。百度网盘：[https://pan.baidu.com/s/1TFaSHAKYwfMdOwBrQz48MQ](https://pan.baidu.com/s/1TFaSHAKYwfMdOwBrQz48MQ)，提取码 gc4e
 - 安全之路-web渗透技术及实战案例。百度网盘：[https://pan.baidu.com/s/11RhUVKP5PcExFW9ZY8Bkng](https://pan.baidu.com/s/11RhUVKP5PcExFW9ZY8Bkng)，提取码 xnps
+- 白帽子讲Web安全。百度网盘：[https://pan.baidu.com/s/1dQb7HooHDfaFU5JgMpsgUQ](https://pan.baidu.com/s/1dQb7HooHDfaFU5JgMpsgUQ)，提取码：yyh5
 - git高手。百度网盘：[https://pan.baidu.com/s/1ZpBdtBU_0AMMtzSKa5R0ng](https://pan.baidu.com/s/1ZpBdtBU_0AMMtzSKa5R0ng)，提取码 xqgj
 - Git学习指南。百度网盘：[https://pan.baidu.com/s/1TAe7kmhOaEQpvjWWkz63ew](https://pan.baidu.com/s/1TAe7kmhOaEQpvjWWkz63ew)，提取码 4eof
 - Jenkins权威指南。百度网盘：[https://pan.baidu.com/s/1AtbIcY8777wgxMHC2xi5Bg](https://pan.baidu.com/s/1AtbIcY8777wgxMHC2xi5Bg)，提取码 rfz5
 - Docker实践。百度网盘: [https://pan.baidu.com/s/1Z27cDYWhIpVeww3ItYDAWw](https://pan.baidu.com/s/1Z27cDYWhIpVeww3ItYDAWw)，提取码fmb2
 - 《Babel手册》（在线电子版），地址：[https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
+- 深入浅出Rxjs。百度网盘：[https://pan.baidu.com/s/1c9R28sjoPAqG-2vY3YdJSA](https://pan.baidu.com/s/1c9R28sjoPAqG-2vY3YdJSA)，提取码：ku78
 
 ### 算法
 
@@ -227,3 +231,4 @@ UI设计、UX交互相关书籍（部分互联网公司规范类已经有些旧�
 - 瞬间之美-web界面设计如何让用户心动。百度网盘：[https://pan.baidu.com/s/1L3le_e6fbPkZzADrQFyfjA](https://pan.baidu.com/s/1L3le_e6fbPkZzADrQFyfjA)，提取码 gprq
 - 交互设计精髓about face4。百度网盘：[https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew](https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew)，提取码 h0ff
 - 破茧成蝶2——以产品为中心的设计革命。百度网盘[https://pan.baidu.com/s/1Xi3xPDzFXcByp_co5FYUKw](https://pan.baidu.com/s/1Xi3xPDzFXcByp_co5FYUKw)，提取码 qx5y
+- 腾讯产品法：一本书读懂腾讯产品思维与运营方法。百度网盘[https://pan.baidu.com/s/1MeKKJeGVGgUFbv0dw72uKQ](https://pan.baidu.com/s/1MeKKJeGVGgUFbv0dw72uKQ)，提取码 5ewe
