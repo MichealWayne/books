@@ -19,6 +19,7 @@
 - 精彩绝伦的css.pdf。百度网盘：[https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ](https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ)，提取码 62ue 
 - css世界.pdf。百度网盘：[https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA](https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA) ，提取码 o005
 - 图解CSS3核心技术与案例实战。百度网盘：[https://pan.baidu.com/s/1JDuu1oeuZaqNCJgLuyh7ag](https://pan.baidu.com/s/1JDuu1oeuZaqNCJgLuyh7ag)，提取码 k5tg
+- *SVG精髓（第二版）。百度网盘：[https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw](https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw)，提取码 9dba
 
 ### html
 
@@ -78,6 +79,8 @@
 - Nginx高性能Web服务器实战。百度网盘：[https://pan.baidu.com/s/1dOU0cLN8WrjPv-lanwaQsw](https://pan.baidu.com/s/1dOU0cLN8WrjPv-lanwaQsw)，提取码 2vm2
 - Nodejs来一打C++扩展。百度网盘：[https://pan.baidu.com/s/1eAk1kWcJLn9E6w8yJ67hAw](https://pan.baidu.com/s/1eAk1kWcJLn9E6w8yJ67hAw)，提取码 eqmk
 - Node.js 包教不包会（在线github仓库），地址：[https://github.com/alsotang/node-lessons](https://github.com/alsotang/node-lessons)
+- Node.js for PHP developers（英文版），百度网盘：[https://pan.baidu.com/s/1ZyYT7EDB4DvG8A_hw5GBHg](https://pan.baidu.com/s/1ZyYT7EDB4DvG8A_hw5GBHg)，提取码 sn7j
+- Node.js for frontend developers（英文版），百度网盘：[https://pan.baidu.com/s/1348Q_S42mO8koy0359g0PQ](https://pan.baidu.com/s/1348Q_S42mO8koy0359g0PQ)，提取码 dv9v
 
 
 ### Vue/React/Angular
@@ -189,7 +192,7 @@
 - 学习提示（Learning Prompt，在线电子版）：[https://learningprompt.wiki/](https://learningprompt.wiki/)
 - 提示工程指南（Prompt Engineering Guide，在线电子版）：[https://www.promptingguide.ai/zh](https://www.promptingguide.ai/zh)
 - 面向开发者的 ChatGPT 提示词工程（ChatGPT Prompt Engineering for Developers，吴恩达与 OpenAI 开发者 Iza Fulford ，视频课程）：[https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)，中文字幕版：[https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese)
-
+- 【AI工具】ChatGPT提问艺术。百度网盘：[https://pan.baidu.com/s/1peTAD3B048XY5A9pQjd6zw](https://pan.baidu.com/s/1peTAD3B048XY5A9pQjd6zw)，提取码 gykw
 
 ### 项目管理
 
