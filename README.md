@@ -88,6 +88,7 @@
 - Vue.js实战。百度网盘：[https://pan.baidu.com/s/1xly4Kl-DzRheXBxrBYumWg](https://pan.baidu.com/s/1xly4Kl-DzRheXBxrBYumWg)，提取码 8e5c
 - Vue.js权威指南。百度网盘：[https://pan.baidu.com/s/1W3fR0G64dBMxGe2kqxkAvg](https://pan.baidu.com/s/1W3fR0G64dBMxGe2kqxkAvg)，提取码 51xz
 - Vue.js技术揭秘（在线电子版），地址：[https://ustbhuangyi.github.io/vue-analysis/](https://ustbhuangyi.github.io/vue-analysis/)
+- 图解React（在线电子版），地址：[https://7km.top/](https://7km.top/)
 - 深入React技术栈。百度网盘：[https://pan.baidu.com/s/1i_vvm7c1MecYyZA0wInTng](https://pan.baidu.com/s/1i_vvm7c1MecYyZA0wInTng)，提取码 joas
 - React前端技术与工程实践。百度网盘：[https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ](https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ)，提取码 z92c
 - React状态管理与同构实战。百度网盘：[https://pan.baidu.com/s/1QZQYOeKZs5N50juYijgIvQ](https://pan.baidu.com/s/1QZQYOeKZs5N50juYijgIvQ)，提取码 xt1v
@@ -123,6 +124,7 @@
 - 算法（第四版）。百度网盘：[https://pan.baidu.com/s/1syklVQ5M3YV5iwT8YzAQKQ](https://pan.baidu.com/s/1syklVQ5M3YV5iwT8YzAQKQ)，提取码 p4zw
 - 算法笔记。百度网盘：[https://pan.baidu.com/s/1oKGjBtBlYu8bgYkfggH9bg](https://pan.baidu.com/s/1oKGjBtBlYu8bgYkfggH9bg)，提取码 cxkf
 - 图解算法。百度网盘：[https://pan.baidu.com/s/1G-OyLhiTOEGOyc4QPdecCQ](https://pan.baidu.com/s/1G-OyLhiTOEGOyc4QPdecCQ)，提取码 ubfc
+- Hello算法（在线版）：https://www.hello-algo.com/
 
 ### 编码
 
@@ -155,6 +157,7 @@
 
 ### 编程思想
 
+- 重构，改善既有代码的设计（第二版）。百度网盘： [https://pan.baidu.com/s/1CJS81pzPO72DlImyXi0vnA](https://pan.baidu.com/s/1CJS81pzPO72DlImyXi0vnA)，提取码 p8sh
 - 重构，改善既有代码的设计。百度网盘： [https://pan.baidu.com/s/1ot6ZoLYPau95l1y_9J-wjA](https://pan.baidu.com/s/1ot6ZoLYPau95l1y_9J-wjA) ，提取码 gd3u
 - 领域特定语言。百度网盘：[https://pan.baidu.com/s/1XRftA2YBzZxz6XV5YPU4RA](https://pan.baidu.com/s/1XRftA2YBzZxz6XV5YPU4RA) ，提取码 bskw
 - 代码整洁之道。百度网盘：[https://pan.baidu.com/s/14RiAATOtBgQGlcgCbaAqKQ](https://pan.baidu.com/s/14RiAATOtBgQGlcgCbaAqKQ) ，提取码 s0ok
@@ -177,6 +180,7 @@
 ### 人工智能
 
 - 动手学深度学习（在线电子版）。[http://zh.d2l.ai/](http://zh.d2l.ai/)
+- EasyRL强化学习教程（在线电子版）。[https://datawhalechina.github.io/easy-rl/#/](https://datawhalechina.github.io/easy-rl/#/)
 - TensorFlow深度学习——深入理解人工智能算法设计（在线电子版）。[https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 - 深度学习与计算机视觉：算法原理、框架应用与代码实现。百度网盘：[https://pan.baidu.com/s/1nn5gIvSUdIBWkUMySlO_rQ](https://pan.baidu.com/s/1nn5gIvSUdIBWkUMySlO_rQ)，提取码 bm2j
 - Machine Learning Yearning 中文版（在线电子版），地址：[https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/](https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/)
