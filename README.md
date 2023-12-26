@@ -77,6 +77,7 @@
 - Nodejs权威指南。百度网盘：[https://pan.baidu.com/s/1iSN9MvRYNxqWMhh0xQZSBw](https://pan.baidu.com/s/1iSN9MvRYNxqWMhh0xQZSBw)，提取码 w7ep
 - 超实用的Nodejs片段。百度网盘：[https://pan.baidu.com/s/1r2UFQfhvcN5sb9U5ystvXQ](https://pan.baidu.com/s/1r2UFQfhvcN5sb9U5ystvXQ)，提取码 3yyp
 - Nginx高性能Web服务器实战。百度网盘：[https://pan.baidu.com/s/1dOU0cLN8WrjPv-lanwaQsw](https://pan.baidu.com/s/1dOU0cLN8WrjPv-lanwaQsw)，提取码 2vm2
+- OpenRestry开发指南。百度网盘：[https://pan.baidu.com/s/14oqLOCeDbI7l4kEqMKv9nA](https://pan.baidu.com/s/14oqLOCeDbI7l4kEqMKv9nA)，提取码 exij
 - Nodejs来一打C++扩展。百度网盘：[https://pan.baidu.com/s/1eAk1kWcJLn9E6w8yJ67hAw](https://pan.baidu.com/s/1eAk1kWcJLn9E6w8yJ67hAw)，提取码 eqmk
 - Node.js 包教不包会（在线github仓库），地址：[https://github.com/alsotang/node-lessons](https://github.com/alsotang/node-lessons)
 - Node.js for PHP developers（英文版），百度网盘：[https://pan.baidu.com/s/1ZyYT7EDB4DvG8A_hw5GBHg](https://pan.baidu.com/s/1ZyYT7EDB4DvG8A_hw5GBHg)，提取码 sn7j
@@ -187,9 +188,11 @@
 
 #### Python
 
+- 编程小白的第一本Python入门书。百度网盘：[https://pan.baidu.com/s/1PeJ3ickeAjfK3Z0XUjymJw](https://pan.baidu.com/s/1PeJ3ickeAjfK3Z0XUjymJw)，提取码 84jt
 - Python编程：从入门到实践。百度网盘： [https://pan.baidu.com/s/1lCorFxdfT64ZZoXsCOaqMw](https://pan.baidu.com/s/1lCorFxdfT64ZZoXsCOaqMw)，提取码 1z7h 
 - Python语言及其应用。百度网盘: [https://pan.baidu.com/s/1DIWG7vqv_HLasus2TUaUEQ](https://pan.baidu.com/s/1DIWG7vqv_HLasus2TUaUEQ) ，提取码 q6y7 
-- Python学习手册（第四版）。百度网盘: [https://pan.baidu.com/s/1xZ7swrMBP7uNz4rhkGh60w](https://pan.baidu.com/s/1xZ7swrMBP7uNz4rhkGh60w)，提取码 fzj4 
+- Python学习手册（第四版）。百度网盘: [https://pan.baidu.com/s/1xZ7swrMBP7uNz4rhkGh60w](https://pan.baidu.com/s/1xZ7swrMBP7uNz4rhkGh60w)，提取码 fzj4
+- Python网络编程基础。百度网盘：[https://pan.baidu.com/s/1ARbaueHetlGNekjWlU4wdQ](https://pan.baidu.com/s/1ARbaueHetlGNekjWlU4wdQ)，提取码 rypw
 
 #### chatGPT
 
