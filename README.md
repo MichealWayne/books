@@ -53,6 +53,7 @@
 - javascript性能优化：度量、监控与可视化.pdf。百度网盘：[https://pan.baidu.com/s/1A4cLVaSA6uh6eAq2CgyweQ](https://pan.baidu.com/s/1A4cLVaSA6uh6eAq2CgyweQ)，提取码 cs4g 
 - javascript设计模式.pdf。百度网盘：[https://pan.baidu.com/s/1Sci59FsocHK9AizuEe9Muw](https://pan.baidu.com/s/1Sci59FsocHK9AizuEe9Muw)，提取码 jiy7 
 - javascript函数式编程思想.pdf。百度网盘：[https://pan.baidu.com/s/1Nbibq41JSjL84AVyl6lxaQ](https://pan.baidu.com/s/1Nbibq41JSjL84AVyl6lxaQ)，提取码 lis9
+- （阿里乘风者计划）现代JavaScript课程.pdf。百度网盘：[https://pan.baidu.com/s/1_blNeYJmdvKNoOK8R9hj7Q](https://pan.baidu.com/s/1_blNeYJmdvKNoOK8R9hj7Q) 提取码: 8fu7 
 - ES6标准入门.pdf。百度网盘：[https://pan.baidu.com/s/186WvzEtoiYTK_9ywIP_uFQ](https://pan.baidu.com/s/186WvzEtoiYTK_9ywIP_uFQ)，提取码 wadp 
 - 你不知道的js(上).pdf。百度网盘：[https://pan.baidu.com/s/1ki8QA04uNwApj-RUzVBhtg](https://pan.baidu.com/s/1ki8QA04uNwApj-RUzVBhtg)，提取码 mvqc 
 - 你不知道的js(中).pdf。百度网盘：[https://pan.baidu.com/s/1kk9f_z88W-3elfgW-MC-fA](https://pan.baidu.com/s/1kk9f_z88W-3elfgW-MC-fA)，提取码 rxsv 
@@ -61,6 +62,7 @@
 - ES2018快速入门.pdf。百度网盘：[https://pan.baidu.com/s/1PuD0OR1debAXwXpTlk2DmQ](https://pan.baidu.com/s/1PuD0OR1debAXwXpTlk2DmQ)，提取码:mqrh
 - JavaScript函数式编程思想.pdf。百度网盘：[https://pan.baidu.com/s/1SLwTPeRzjRhyhBKfNK-W1w](https://pan.baidu.com/s/1SLwTPeRzjRhyhBKfNK-W1w)，提取码:f9cf
 - JavaScript 二十年（在线电子版）。[https://cn.history.js.org/](https://cn.history.js.org/)
+- （阿里乘风者计划）现代TypeScript课程.pdf。百度网盘：[https://pan.baidu.com/s/1cdprK1OD1dlP1HJ2CqWe8g](https://pan.baidu.com/s/1cdprK1OD1dlP1HJ2CqWe8g) ，提取码: 95jv 
 - Learning TypeScript中文版.pdf。百度网盘：[https://pan.baidu.com/s/1qmkBDCcPEHw3TTHYv4u2bg](https://pan.baidu.com/s/1qmkBDCcPEHw3TTHYv4u2bg)，提取码:p9t7
 - 深入理解TypeScript（在线电子版）。英文版：[https://basarat.gitbook.io/typescript/](https://basarat.gitbook.io/typescript/)，中文翻译版：[http://colortocc.com/](http://colortocc.com/)或[https://www.javascriptc.com/books/typescript-deep-dive/](https://www.javascriptc.com/books/typescript-deep-dive/)
 - 阮一峰《TypeScript教程》（在线电子版），地址：[https://wangdoc.com/typescript/](https://wangdoc.com/typescript/)
