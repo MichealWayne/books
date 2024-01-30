@@ -4,7 +4,7 @@
 ## fe(front-end)目录
 前端开发相关书籍。
 
-> *注：[导航-前端常用网站集合>>](https://github.com/MichealWayne/fe-tools)
+> *注：[导航-前端常用网站/方法工具集合fe-tools>>](https://github.com/MichealWayne/fe-tools)
 
 ### css
 
@@ -12,14 +12,14 @@
 - [CSS3实战：开发与设计迷你书.zip](./fee/)
 - [CSS权威指南（第3版）.zip](./fee/)
 - [CSS网站布局实录 （第二版）.pdf](./fee/)
-- 【年代较久】[css3.0参考手册.chm](./fee/)
 - [css技巧.CHM](./fee/)
-- 【年代较久】[filter滤镜手册_苏昱.rar](./fee/)
 - css揭秘.pdf。百度网盘[https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ](https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ)，提取码 gtyp 
 - 精彩绝伦的css.pdf。百度网盘：[https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ](https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ)，提取码 62ue 
 - css世界.pdf。百度网盘：[https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA](https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA) ，提取码 o005
 - 图解CSS3核心技术与案例实战。百度网盘：[https://pan.baidu.com/s/1JDuu1oeuZaqNCJgLuyh7ag](https://pan.baidu.com/s/1JDuu1oeuZaqNCJgLuyh7ag)，提取码 k5tg
 - *SVG精髓（第二版）。百度网盘：[https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw](https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw)，提取码 9dba
+- 【年代较久】[css3.0参考手册.chm](./fee/)
+- 【年代较久】[filter滤镜手册_苏昱.rar](./fee/)
 
 ### html
 
@@ -31,10 +31,11 @@
 - [HTML5游戏开发(全).pdf](./fee/)
 - [HTML5移动Web开发指南.rar](./fee/)
 - [HTML5程序设计（第2版）.pdf](./fee/)
-- 【年代较久】[HTML与CSS入门经典（第8版）.zip](./fee/)
 - HTML5 移动游戏开发高级编程.pdf。百度网盘[https://pan.baidu.com/s/1JERsDj_Gng1bRSTNChOQkQ](https://pan.baidu.com/s/1JERsDj_Gng1bRSTNChOQkQ)，提取码 vz6k 
 - WebGL高级编程：开发Web3D图形.pdf。百度网盘[https://pan.baidu.com/s/1B5faAmkRw2XYALARA-Qtaw](https://pan.baidu.com/s/1B5faAmkRw2XYALARA-Qtaw)，提取码 2ms6 
 - HTML5与CSS3设计模式.pdf。百度网盘：[https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ](https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ)，提取码 kyy7
+- HTML best practices(最佳实践)（在线电子版），地址：[https://github.com/hail2u/html-best-practices/blob/main/README.zh-CN.md](https://github.com/hail2u/html-best-practices/blob/main/README.zh-CN.md)
+- 【年代较久】[HTML与CSS入门经典（第8版）.zip](./fee/)
 
 ### js/ts/rust
 
@@ -68,7 +69,7 @@
 - 阮一峰《TypeScript教程》（在线电子版），地址：[https://wangdoc.com/typescript/](https://wangdoc.com/typescript/)
 - 编写可维护的Javascript。百度网盘：[https://pan.baidu.com/s/1Qk8u-IITAelH2fSFpbhdHA](https://pan.baidu.com/s/1Qk8u-IITAelH2fSFpbhdHA)，提取码：gx7n
 - 深入浅出Rust。百度网盘：[https://pan.baidu.com/s/1A6Wl5w30ms_jlIS4t_VKpA](https://pan.baidu.com/s/1A6Wl5w30ms_jlIS4t_VKpA)，提取码：cbwn
-
+- JavaScript & Nodejs Testing best practices(测试最佳实践)（在线电子版），地址：[https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md)
 
 ### nodejs
 
@@ -84,7 +85,7 @@
 - Node.js 包教不包会（在线github仓库），地址：[https://github.com/alsotang/node-lessons](https://github.com/alsotang/node-lessons)
 - Node.js for PHP developers（英文版），百度网盘：[https://pan.baidu.com/s/1ZyYT7EDB4DvG8A_hw5GBHg](https://pan.baidu.com/s/1ZyYT7EDB4DvG8A_hw5GBHg)，提取码 sn7j
 - Node.js for frontend developers（英文版），百度网盘：[https://pan.baidu.com/s/1348Q_S42mO8koy0359g0PQ](https://pan.baidu.com/s/1348Q_S42mO8koy0359g0PQ)，提取码 dv9v
-
+- Node.js best practices(最佳实践)（在线电子版），地址：[https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
 
 ### Vue/React/Angular
 
@@ -226,16 +227,8 @@ UI设计、UX交互相关书籍（部分互联网公司规范类已经有些旧�
 - [众妙之门 网站UI设计之道.zip](./ui-ue/)
 - [其他公司视觉规范.rar](./ui-ue/)
 - [写给大家看的设计书.zip](./ui-ue/)
-- 【年代较久】[新浪设计指南.pdf](./ui-ue/)
-- 【年代较久】[易趣网视觉规范.ppt](./ui-ue/)
 - [用户体验的要素：以用户为中心的web设计.zip](./ui-ue/)
-- 【年代较久】[百度资料—视觉规划.pptx](./ui-ue/)
 - [移动应用UI设计模式.pdf](./ui-ue/)
-- 【年代较久】[腾讯内部PPT.docx](./ui-ue/)
-- 【年代较久】[腾讯网Web页面设计规范.ppt](./ui-ue/)
-- 【年代较久】[腾讯网Web页面设计规范.rar](./ui-ue/)
-- 【年代较久】[腾讯网Web页面设计规范.swf](./ui-ue/)
-- 【年代较久】[英国广播公司BBC的网站设计规范手册.rar](./ui-ue/)
 - [设计师的商业意识--来自阿里集团.zip](./ui-ue/)
 - 认知与设计 理解UI设计准则(第2版).pdf。百度网盘：[https://pan.baidu.com/s/10MCKpQasua5NJTbYtZkEBQ](https://pan.baidu.com/s/10MCKpQasua5NJTbYtZkEBQ)，提取码 vyb9
 - 交互式系统设计HCI、UX和交互设计指南(第3版).pdf。百度网盘：[https://pan.baidu.com/s/1dBfAUSEUYVrqmV2lITlUXg](https://pan.baidu.com/s/1dBfAUSEUYVrqmV2lITlUXg)，提取码 91aa
@@ -244,3 +237,11 @@ UI设计、UX交互相关书籍（部分互联网公司规范类已经有些旧�
 - 交互设计精髓about face4。百度网盘：[https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew](https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew)，提取码 h0ff
 - 破茧成蝶2——以产品为中心的设计革命。百度网盘[https://pan.baidu.com/s/1Xi3xPDzFXcByp_co5FYUKw](https://pan.baidu.com/s/1Xi3xPDzFXcByp_co5FYUKw)，提取码 qx5y
 - 腾讯产品法：一本书读懂腾讯产品思维与运营方法。百度网盘[https://pan.baidu.com/s/1MeKKJeGVGgUFbv0dw72uKQ](https://pan.baidu.com/s/1MeKKJeGVGgUFbv0dw72uKQ)，提取码 5ewe
+- 【年代较久】[百度资料—视觉规划.pptx](./ui-ue/)
+- 【年代较久】[新浪设计指南.pdf](./ui-ue/)
+- 【年代较久】[易趣网视觉规范.ppt](./ui-ue/)
+- 【年代较久】[腾讯内部PPT.docx](./ui-ue/)
+- 【年代较久】[腾讯网Web页面设计规范.ppt](./ui-ue/)
+- 【年代较久】[腾讯网Web页面设计规范.rar](./ui-ue/)
+- 【年代较久】[腾讯网Web页面设计规范.swf](./ui-ue/)
+- 【年代较久】[英国广播公司BBC的网站设计规范手册.rar](./ui-ue/)
