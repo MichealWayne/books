@@ -196,6 +196,8 @@
 - Python语言及其应用。百度网盘: [https://pan.baidu.com/s/1DIWG7vqv_HLasus2TUaUEQ](https://pan.baidu.com/s/1DIWG7vqv_HLasus2TUaUEQ) ，提取码 q6y7 
 - Python学习手册（第四版）。百度网盘: [https://pan.baidu.com/s/1xZ7swrMBP7uNz4rhkGh60w](https://pan.baidu.com/s/1xZ7swrMBP7uNz4rhkGh60w)，提取码 fzj4
 - Python网络编程基础。百度网盘：[https://pan.baidu.com/s/1ARbaueHetlGNekjWlU4wdQ](https://pan.baidu.com/s/1ARbaueHetlGNekjWlU4wdQ)，提取码 rypw
+- 数据科学入门。百度网盘：[https://pan.baidu.com/s/1BcsizJyq6j0dUeldE8LTNA](https://pan.baidu.com/s/1BcsizJyq6j0dUeldE8LTNA)，提取码 7gu1
+- Python网络数据采集。百度网盘：[https://pan.baidu.com/s/1hD3DApBUVPp1xaa1AFQzgw](https://pan.baidu.com/s/1hD3DApBUVPp1xaa1AFQzgw)，提取码 1axs
 
 #### chatGPT
 
