@@ -14,7 +14,8 @@
 - [CSS网站布局实录 （第二版）.pdf](./fee/)
 - [css技巧.CHM](./fee/)
 - css揭秘.pdf。百度网盘[https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ](https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ)，提取码 gtyp 
-- 精彩绝伦的css.pdf。百度网盘：[https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ](https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ)，提取码 62ue 
+- 精彩绝伦的css.pdf。百度网盘：[https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ](https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ)，提取码 62ue
+- CSS禅意花园。百度网盘：[https://pan.baidu.com/s/1nFqOS1HeRieSdTxiSjXLjQ](https://pan.baidu.com/s/1nFqOS1HeRieSdTxiSjXLjQ) ，提取码 tq7v 
 - css世界.pdf。百度网盘：[https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA](https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA) ，提取码 o005
 - 图解CSS3核心技术与案例实战。百度网盘：[https://pan.baidu.com/s/1JDuu1oeuZaqNCJgLuyh7ag](https://pan.baidu.com/s/1JDuu1oeuZaqNCJgLuyh7ag)，提取码 k5tg
 - *SVG精髓（第二版）。百度网盘：[https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw](https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw)，提取码 9dba
@@ -39,7 +40,23 @@
 
 ### js/ts/rust
 
-- [JavaScript宝典(第7版).pdf](./fee/)
+- javascript忍者秘籍第2版.pdf。百度网盘：[https://pan.baidu.com/s/1Sh2RW_WgOR5pwCxzMYrUKA](https://pan.baidu.com/s/1Sh2RW_WgOR5pwCxzMYrUKA)，提取码 fad5 
+- javascript高效图形编程-中文版.pdf。百度网盘：[https://pan.baidu.com/s/19MlHggptoaTj-l7kXc6yAQ](https://pan.baidu.com/s/19MlHggptoaTj-l7kXc6yAQ)，提取码 99p8 
+- 精通JavaScript.pdf。百度网盘：[https://pan.baidu.com/s/1UNd5-gfpHOeZu2Vcs8Q88g](https://pan.baidu.com/s/1UNd5-gfpHOeZu2Vcs8Q88g)，提取码 2ekb 
+- javascript性能优化：度量、监控与可视化.pdf。百度网盘：[https://pan.baidu.com/s/1A4cLVaSA6uh6eAq2CgyweQ](https://pan.baidu.com/s/1A4cLVaSA6uh6eAq2CgyweQ)，提取码 cs4g 
+- javascript设计模式.pdf。百度网盘：[https://pan.baidu.com/s/1Sci59FsocHK9AizuEe9Muw](https://pan.baidu.com/s/1Sci59FsocHK9AizuEe9Muw)，提取码 jiy7 
+- javascript函数式编程思想.pdf。百度网盘：[https://pan.baidu.com/s/1Nbibq41JSjL84AVyl6lxaQ](https://pan.baidu.com/s/1Nbibq41JSjL84AVyl6lxaQ)，提取码 lis9
+- 学习JavaScript数据结构与算法.pdf。百度网盘：[https://pan.baidu.com/s/1VXhr7mXOjuQ2g6Rm6ozzFA](https://pan.baidu.com/s/1VXhr7mXOjuQ2g6Rm6ozzFA)，提取码 d7d3
+- 现代JavaScript教程（在线电子版），地址：[https://zh.javascript.info/](https://zh.javascript.info/)
+- （阿里乘风者计划）现代JavaScript课程.pdf。百度网盘：[https://pan.baidu.com/s/1_blNeYJmdvKNoOK8R9hj7Q](https://pan.baidu.com/s/1_blNeYJmdvKNoOK8R9hj7Q) 提取码: 8fu7 
+- ES6标准入门.pdf。百度网盘：[https://pan.baidu.com/s/186WvzEtoiYTK_9ywIP_uFQ](https://pan.baidu.com/s/186WvzEtoiYTK_9ywIP_uFQ)，提取码 wadp 
+- 你不知道的js(上).pdf。百度网盘：[https://pan.baidu.com/s/1ki8QA04uNwApj-RUzVBhtg](https://pan.baidu.com/s/1ki8QA04uNwApj-RUzVBhtg)，提取码 mvqc 
+- 你不知道的js(中).pdf。百度网盘：[https://pan.baidu.com/s/1kk9f_z88W-3elfgW-MC-fA](https://pan.baidu.com/s/1kk9f_z88W-3elfgW-MC-fA)，提取码 rxsv 
+- 你不知道的js(下).pdf。百度网盘：[https://pan.baidu.com/s/1BFXtFvVQyxyM2hlqVQCziw](https://pan.baidu.com/s/1BFXtFvVQyxyM2hlqVQCziw)，提取码 eeev 
+- 你不知道的js官方英文版（在线github仓库），地址[https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+- ES2018快速入门.pdf。百度网盘：[https://pan.baidu.com/s/1PuD0OR1debAXwXpTlk2DmQ](https://pan.baidu.com/s/1PuD0OR1debAXwXpTlk2DmQ)，提取码:mqrh
+- JavaScript 二十年（在线电子版）。[https://cn.history.js.org/](https://cn.history.js.org/)
+- （阿里乘风者计划）现代TypeScript课程.pdf。百度网盘：[https://pan.baidu.com/s/1cdprK1OD1dlP1HJ2CqWe8g](https://pan.baidu.com/s/1cdprK1OD1dlP1HJ2CqWe8g) ，提取码: 95jv - [JavaScript宝典(第7版).pdf](./fee/)
 - [JavaScript框架高级编程 应用Prototype、YUI、Ext JS、Dojo、MooTools(jb51.net).zip](./fee/)
 - [JavaScript模式.Stoyan Stefanov.扫描版.pdf](./fee/)
 - [JavaScript脚本特效编程给力起飞.pdf](./fee/)
@@ -48,22 +65,6 @@
 - [javascript 权威指南(第6版).pdf](./fee/)
 - [javascript+dom编程艺术.pdf](./fee/)
 - [悟透JavaScript.pdf](./fee/)
-- javascript忍者秘籍第2版.pdf。百度网盘：[https://pan.baidu.com/s/1Sh2RW_WgOR5pwCxzMYrUKA](https://pan.baidu.com/s/1Sh2RW_WgOR5pwCxzMYrUKA)，提取码 fad5 
-- javascript高效图形编程-中文版.pdf。百度网盘：[https://pan.baidu.com/s/19MlHggptoaTj-l7kXc6yAQ](https://pan.baidu.com/s/19MlHggptoaTj-l7kXc6yAQ)，提取码 99p8 
-- 精通JavaScript.pdf。百度网盘：[https://pan.baidu.com/s/1UNd5-gfpHOeZu2Vcs8Q88g](https://pan.baidu.com/s/1UNd5-gfpHOeZu2Vcs8Q88g)，提取码 2ekb 
-- javascript性能优化：度量、监控与可视化.pdf。百度网盘：[https://pan.baidu.com/s/1A4cLVaSA6uh6eAq2CgyweQ](https://pan.baidu.com/s/1A4cLVaSA6uh6eAq2CgyweQ)，提取码 cs4g 
-- javascript设计模式.pdf。百度网盘：[https://pan.baidu.com/s/1Sci59FsocHK9AizuEe9Muw](https://pan.baidu.com/s/1Sci59FsocHK9AizuEe9Muw)，提取码 jiy7 
-- javascript函数式编程思想.pdf。百度网盘：[https://pan.baidu.com/s/1Nbibq41JSjL84AVyl6lxaQ](https://pan.baidu.com/s/1Nbibq41JSjL84AVyl6lxaQ)，提取码 lis9
-- （阿里乘风者计划）现代JavaScript课程.pdf。百度网盘：[https://pan.baidu.com/s/1_blNeYJmdvKNoOK8R9hj7Q](https://pan.baidu.com/s/1_blNeYJmdvKNoOK8R9hj7Q) 提取码: 8fu7 
-- ES6标准入门.pdf。百度网盘：[https://pan.baidu.com/s/186WvzEtoiYTK_9ywIP_uFQ](https://pan.baidu.com/s/186WvzEtoiYTK_9ywIP_uFQ)，提取码 wadp 
-- 你不知道的js(上).pdf。百度网盘：[https://pan.baidu.com/s/1ki8QA04uNwApj-RUzVBhtg](https://pan.baidu.com/s/1ki8QA04uNwApj-RUzVBhtg)，提取码 mvqc 
-- 你不知道的js(中).pdf。百度网盘：[https://pan.baidu.com/s/1kk9f_z88W-3elfgW-MC-fA](https://pan.baidu.com/s/1kk9f_z88W-3elfgW-MC-fA)，提取码 rxsv 
-- 你不知道的js(下).pdf。百度网盘：[https://pan.baidu.com/s/1BFXtFvVQyxyM2hlqVQCziw](https://pan.baidu.com/s/1BFXtFvVQyxyM2hlqVQCziw)，提取码 eeev 
-- 你不知道的js官方英文版（在线github仓库），地址[https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-- ES2018快速入门.pdf。百度网盘：[https://pan.baidu.com/s/1PuD0OR1debAXwXpTlk2DmQ](https://pan.baidu.com/s/1PuD0OR1debAXwXpTlk2DmQ)，提取码:mqrh
-- JavaScript函数式编程思想.pdf。百度网盘：[https://pan.baidu.com/s/1SLwTPeRzjRhyhBKfNK-W1w](https://pan.baidu.com/s/1SLwTPeRzjRhyhBKfNK-W1w)，提取码:f9cf
-- JavaScript 二十年（在线电子版）。[https://cn.history.js.org/](https://cn.history.js.org/)
-- （阿里乘风者计划）现代TypeScript课程.pdf。百度网盘：[https://pan.baidu.com/s/1cdprK1OD1dlP1HJ2CqWe8g](https://pan.baidu.com/s/1cdprK1OD1dlP1HJ2CqWe8g) ，提取码: 95jv 
 - Learning TypeScript中文版.pdf。百度网盘：[https://pan.baidu.com/s/1qmkBDCcPEHw3TTHYv4u2bg](https://pan.baidu.com/s/1qmkBDCcPEHw3TTHYv4u2bg)，提取码:p9t7
 - 深入理解TypeScript（在线电子版）。英文版：[https://basarat.gitbook.io/typescript/](https://basarat.gitbook.io/typescript/)，中文翻译版：[http://colortocc.com/](http://colortocc.com/)或[https://www.javascriptc.com/books/typescript-deep-dive/](https://www.javascriptc.com/books/typescript-deep-dive/)
 - 阮一峰《TypeScript教程》（在线电子版），地址：[https://wangdoc.com/typescript/](https://wangdoc.com/typescript/)
