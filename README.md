@@ -128,6 +128,7 @@
 
 ### 算法
 
+- 算法导论（中文版）。百度网盘：[https://pan.baidu.com/s/1HwsO4H91gfG0cKbbHAbEmg](https://pan.baidu.com/s/1HwsO4H91gfG0cKbbHAbEmg?pwd=dbsw)，提取码 dbsw
 - 算法（第四版）。百度网盘：[https://pan.baidu.com/s/1syklVQ5M3YV5iwT8YzAQKQ](https://pan.baidu.com/s/1syklVQ5M3YV5iwT8YzAQKQ?pwd=p4zw)，提取码 p4zw
 - 算法笔记。百度网盘：[https://pan.baidu.com/s/1oKGjBtBlYu8bgYkfggH9bg](https://pan.baidu.com/s/1oKGjBtBlYu8bgYkfggH9bg?pwd=cxkf)，提取码 cxkf
 - 图解算法。百度网盘：[https://pan.baidu.com/s/1G-OyLhiTOEGOyc4QPdecCQ](https://pan.baidu.com/s/1G-OyLhiTOEGOyc4QPdecCQ?pwd=ubfc)，提取码 ubfc
