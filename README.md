@@ -72,6 +72,7 @@
 - 阮一峰《TypeScript教程》（在线电子版），地址：[https://wangdoc.com/typescript/](https://wangdoc.com/typescript/)
 - 编写可维护的Javascript。百度网盘：[https://pan.baidu.com/s/1Qk8u-IITAelH2fSFpbhdHA](https://pan.baidu.com/s/1Qk8u-IITAelH2fSFpbhdHA?pwd=gx7n)，提取码 gx7n
 - 深入浅出Rust。百度网盘：[https://pan.baidu.com/s/1A6Wl5w30ms_jlIS4t_VKpA](https://pan.baidu.com/s/1A6Wl5w30ms_jlIS4t_VKpA?pwd=cbwn)，提取码 cbwn
+- Rust语言圣经（在线电子版），地址：[https://course.rs/about-book.html](https://course.rs/about-book.html)
 - JavaScript & Nodejs Testing best practices(测试最佳实践)（在线电子版），地址：[https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md)
 
 ### nodejs
@@ -204,12 +205,14 @@
 - 数据科学入门。百度网盘：[https://pan.baidu.com/s/1BcsizJyq6j0dUeldE8LTNA](https://pan.baidu.com/s/1BcsizJyq6j0dUeldE8LTNA?pwd=7gu1)，提取码 7gu1
 - Python网络数据采集。百度网盘：[https://pan.baidu.com/s/1hD3DApBUVPp1xaa1AFQzgw](https://pan.baidu.com/s/1hD3DApBUVPp1xaa1AFQzgw?pwd=1axs)，提取码 1axs
 
-#### chatGPT
+#### GPT&AI
 
 - 学习提示（Learning Prompt，在线电子版）：[https://learningprompt.wiki/](https://learningprompt.wiki/)
 - 提示工程指南（Prompt Engineering Guide，在线电子版）：[https://www.promptingguide.ai/zh](https://www.promptingguide.ai/zh)
 - 面向开发者的 ChatGPT 提示词工程（ChatGPT Prompt Engineering for Developers，吴恩达与 OpenAI 开发者 Iza Fulford ，视频课程）：[https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)，中文字幕版：[https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese)
 - 【AI工具】ChatGPT提问艺术。百度网盘：[https://pan.baidu.com/s/1peTAD3B048XY5A9pQjd6zw](https://pan.baidu.com/s/1peTAD3B048XY5A9pQjd6zw?pwd=gykw)，提取码 gykw
+- 生成式人工智能学习手册（全英文，在线电子版）：[https://genai-handbook.github.io/](https://genai-handbook.github.io/)
+- 全栈DS/DA养成手册（在线电子版）：[https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html](https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html)
 
 ### 项目管理
 
