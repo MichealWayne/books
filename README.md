@@ -194,6 +194,9 @@
 - TensorFlow深度学习——深入理解人工智能算法设计（在线电子版）。[https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 - 深度学习与计算机视觉：算法原理、框架应用与代码实现。百度网盘：[https://pan.baidu.com/s/1nn5gIvSUdIBWkUMySlO_rQ](https://pan.baidu.com/s/1nn5gIvSUdIBWkUMySlO_rQ?pwd=bm2j)，提取码 bm2j
 - Machine Learning Yearning 中文版（在线电子版），地址：[https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/](https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/)
+- JavaScript深度学习。百度网盘：[https://pan.baidu.com/s/1-sQIgodUEmGpWbPNX0TLFQ](https://pan.baidu.com/s/1-sQIgodUEmGpWbPNX0TLFQ?pwd=ubdh)，提取码 ubdh
+- 大模型应用开发极简入门：基于 GPT-4 和 ChatGPT 。百度网盘：[https://pan.baidu.com/s/1vR0wq9doPGvqKTLXRPnsAA](https://pan.baidu.com/s/1vR0wq9doPGvqKTLXRPnsAA?pwd=s856)，提取码 s856
+
 
 #### Python
 
