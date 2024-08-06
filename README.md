@@ -6,30 +6,14 @@
 
 > *注：[导航-前端常用网站/方法工具集合fe-tools>>](https://github.com/MichealWayne/fe-tools)
 
-### css
-
-- [CSS3学习必备书籍《CSS3 实战》.pdf](./fee/)
-- [CSS3实战：开发与设计迷你书.zip](./fee/)
-- [CSS权威指南（第3版）.zip](./fee/)
-- [CSS网站布局实录 （第二版）.pdf](./fee/)
-- [css技巧.CHM](./fee/)
-- css揭秘.pdf。百度网盘[https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ](https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ?pwd=gtyp)，提取码 gtyp
-- CSS重构：样式表性能调优。百度网盘：[https://pan.baidu.com/s/1kfmEBQkGHpluLxfeZ2swOg](https://pan.baidu.com/s/1kfmEBQkGHpluLxfeZ2swOg?pwd=8h3m)，提取码 8h3m
-- 精彩绝伦的css.pdf。百度网盘：[https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ](https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ?pwd=62ue)，提取码 62ue
-- CSS禅意花园。百度网盘：[https://pan.baidu.com/s/1nFqOS1HeRieSdTxiSjXLjQ](https://pan.baidu.com/s/1nFqOS1HeRieSdTxiSjXLjQ?pwd=tq7v) ，提取码 tq7v 
-- css世界.pdf。百度网盘：[https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA](https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA?pwd=o005) ，提取码 o005
-- 图解CSS3核心技术与案例实战。百度网盘：[https://pan.baidu.com/s/1JDuu1oeuZaqNCJgLuyh7ag](https://pan.baidu.com/s/1JDuu1oeuZaqNCJgLuyh7ag?pwd=k5tg)，提取码 k5tg
-- *SVG精髓（第二版）。百度网盘：[https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw](https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw?pwd=9dba)，提取码 9dba
-- 【年代较久】[css3.0参考手册.chm](./fee/)
-- 【年代较久】[filter滤镜手册_苏昱.rar](./fee/)
-
 ### html
 
+- HTML5与CSS3权威指南。百度网盘[https://pan.baidu.com/s/1AubVXoGJd8qe0Laz0zKi-Q](https://pan.baidu.com/s/1AubVXoGJd8qe0Laz0zKi-Q?pwd=wami)，提取码 wami
+- [HTML5与CSS3权威指南代码清单.zip](./fee/)
 - [HTML 5 开发精要与实例详解--W3Cfuns.pdf](./fee/)
 - [HTML 5开发精要与实例详解 源码.zip](./fee/)
 - [HTML 5用户指南.pdf](./fee/)
 - [HTML5 CANVAS基础教程--W3Cfuns.zip](./fee/)
-- [HTML5与CSS3权威指南代码清单.zip](./fee/)
 - [HTML5游戏开发(全).pdf](./fee/)
 - [HTML5移动Web开发指南.rar](./fee/)
 - [HTML5程序设计（第2版）.pdf](./fee/)
@@ -37,7 +21,25 @@
 - WebGL高级编程：开发Web3D图形.pdf。百度网盘[https://pan.baidu.com/s/1B5faAmkRw2XYALARA-Qtaw](https://pan.baidu.com/s/1B5faAmkRw2XYALARA-Qtaw?pwd=2ms6)，提取码 2ms6 
 - HTML5与CSS3设计模式.pdf。百度网盘：[https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ](https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ?pwd=kyy7)，提取码 kyy7
 - HTML best practices(最佳实践)（在线电子版），地址：[https://github.com/hail2u/html-best-practices/blob/main/README.zh-CN.md](https://github.com/hail2u/html-best-practices/blob/main/README.zh-CN.md)
-- 【年代较久】[HTML与CSS入门经典（第8版）.zip](./fee/)
+- 【旧书，有点过时】[HTML与CSS入门经典（第8版）.zip](./fee/)
+
+  
+### css
+
+- css揭秘.pdf。百度网盘[https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ](https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ?pwd=gtyp)，提取码 gtyp
+- CSS重构：样式表性能调优。百度网盘：[https://pan.baidu.com/s/1kfmEBQkGHpluLxfeZ2swOg](https://pan.baidu.com/s/1kfmEBQkGHpluLxfeZ2swOg?pwd=8h3m)，提取码 8h3m
+- 精彩绝伦的css.pdf。百度网盘：[https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ](https://pan.baidu.com/s/1yfVIExi0atuPt4cloomKBQ?pwd=62ue)，提取码 62ue
+- CSS禅意花园。百度网盘：[https://pan.baidu.com/s/1nFqOS1HeRieSdTxiSjXLjQ](https://pan.baidu.com/s/1nFqOS1HeRieSdTxiSjXLjQ?pwd=tq7v) ，提取码 tq7v 
+- css世界.pdf。百度网盘：[https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA](https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA?pwd=o005) ，提取码 o005
+- 图解CSS3核心技术与案例实战。百度网盘：[https://pan.baidu.com/s/1JDuu1oeuZaqNCJgLuyh7ag](https://pan.baidu.com/s/1JDuu1oeuZaqNCJgLuyh7ag?pwd=k5tg)，提取码 k5tg
+- [CSS3学习必备书籍《CSS3 实战》.pdf](./fee/)
+- [CSS3实战：开发与设计迷你书.zip](./fee/)
+- [CSS权威指南（第3版）.zip](./fee/)
+- *SVG精髓（第二版）。百度网盘：[https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw](https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw?pwd=9dba)，提取码 9dba
+- 【旧书，有点过时】[css3.0参考手册.chm](./fee/)
+- 【旧书，有点过时】[filter滤镜手册_苏昱.rar](./fee/)
+- 【旧书，有点过时】 [css技巧.CHM](./fee/)
+- 【旧书，有点过时】 [CSS网站布局实录 （第二版）.pdf](./fee/)
 
 ### js/ts/rust
 
@@ -239,7 +241,6 @@ UI设计、UX交互相关书籍（部分互联网公司规范类已经有些旧�
 - [About.Face.3：The.Essentials.of.Interaction.Design.pdf](./ui-ue/)
 - [Global Visual Language 2.0.pdf](./ui-ue/)
 - [众妙之门 网站UI设计之道.zip](./ui-ue/)
-- [其他公司视觉规范.rar](./ui-ue/)
 - [写给大家看的设计书.zip](./ui-ue/)
 - [用户体验的要素：以用户为中心的web设计.zip](./ui-ue/)
 - [移动应用UI设计模式.pdf](./ui-ue/)
@@ -251,11 +252,12 @@ UI设计、UX交互相关书籍（部分互联网公司规范类已经有些旧�
 - 交互设计精髓about face4。百度网盘：[https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew](https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew?pwd=h0ff)，提取码 h0ff
 - 破茧成蝶2——以产品为中心的设计革命。百度网盘[https://pan.baidu.com/s/1Xi3xPDzFXcByp_co5FYUKw](https://pan.baidu.com/s/1Xi3xPDzFXcByp_co5FYUKw?pwd=qx5y)，提取码 qx5y
 - 腾讯产品法：一本书读懂腾讯产品思维与运营方法。百度网盘[https://pan.baidu.com/s/1MeKKJeGVGgUFbv0dw72uKQ](https://pan.baidu.com/s/1MeKKJeGVGgUFbv0dw72uKQ?pwd=5ewe)，提取码 5ewe
-- 【年代较久】[百度资料—视觉规划.pptx](./ui-ue/)
-- 【年代较久】[新浪设计指南.pdf](./ui-ue/)
-- 【年代较久】[易趣网视觉规范.ppt](./ui-ue/)
-- 【年代较久】[腾讯内部PPT.docx](./ui-ue/)
-- 【年代较久】[腾讯网Web页面设计规范.ppt](./ui-ue/)
-- 【年代较久】[腾讯网Web页面设计规范.rar](./ui-ue/)
-- 【年代较久】[腾讯网Web页面设计规范.swf](./ui-ue/)
-- 【年代较久】[英国广播公司BBC的网站设计规范手册.rar](./ui-ue/)
+- 【旧书，有点过时】[百度资料—视觉规划.pptx](./ui-ue/)
+- 【旧书，有点过时】[新浪设计指南.pdf](./ui-ue/)
+- 【旧书，有点过时】[易趣网视觉规范.ppt](./ui-ue/)
+- 【旧书，有点过时】[腾讯内部PPT.docx](./ui-ue/)
+- 【旧书，有点过时】[腾讯网Web页面设计规范.ppt](./ui-ue/)
+- 【旧书，有点过时】[腾讯网Web页面设计规范.rar](./ui-ue/)
+- 【旧书，有点过时】[腾讯网Web页面设计规范.swf](./ui-ue/)
+- 【旧书，有点过时】[其他公司视觉规范.rar](./ui-ue/)
+- 【旧书，有点过时】[英国广播公司BBC的网站设计规范手册.rar](./ui-ue/)
