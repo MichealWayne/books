@@ -143,6 +143,7 @@
 - 编码——隐匿在计算机软硬件背后的语言。百度网盘: [https://pan.baidu.com/s/1IT56cP8hiLT_st7TwEJUlQ](https://pan.baidu.com/s/1IT56cP8hiLT_st7TwEJUlQ?pwd=bn6n)，提取码 bn6n
 - 编写可读代码的艺术。百度网盘：[https://pan.baidu.com/s/18aOnAvXpuoadN-BIP_yn-A](https://pan.baidu.com/s/18aOnAvXpuoadN-BIP_yn-A?pwd=kapu)，提取码 kapu 
 - 这样编码才规范 128 个编码好习惯。百度网盘: [https://pan.baidu.com/s/1rfBks_rW091ll2XPGCrcsA](https://pan.baidu.com/s/1rfBks_rW091ll2XPGCrcsA?pwd=psw5)，提取码 psw5
+- 编写高质量代码：改善JavaScript程序的188个建议。百度网盘: [https://pan.baidu.com/s/1FXCxmigbTyQ7A2Pt-JDQTw](https://pan.baidu.com/s/1FXCxmigbTyQ7A2Pt-JDQTw?pwd=k9dv)，提取码 k9dv
 - 游戏编程模式（在线电子版），地址：[https://gpp.tkchu.me/](https://gpp.tkchu.me/)
 
 ### 计算机基础
@@ -236,8 +237,9 @@
 
 ## ui-ue目录
 
-UI设计、UX交互相关书籍（部分互联网公司规范类已经有些旧了）
+UI设计、UX交互相关书籍
 
+- 设计师要懂心理学。百度网盘：[https://pan.baidu.com/s/1hLk2XdRc-oSs0pvnF-YboQ](https://pan.baidu.com/s/1hLk2XdRc-oSs0pvnF-YboQ?pwd=n74x)，提取码 n74x
 - [About.Face.3：The.Essentials.of.Interaction.Design.pdf](./ui-ue/)
 - [Global Visual Language 2.0.pdf](./ui-ue/)
 - [众妙之门 网站UI设计之道.zip](./ui-ue/)
