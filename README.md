@@ -1,5 +1,5 @@
 # books
-前端、UI/UE部分经典书籍免费电子版。
+前端、软件工程、AI、UI/UE部分经典书籍免费电子版。
 
 ## fe(front-end)目录
 前端开发相关书籍。
@@ -95,6 +95,7 @@
 
 ### Vue/React/Angular
 
+- Vue 设计与实现。百度网盘：[https://pan.baidu.com/s/149Io8iff7kiv3rJUAobseA](https://pan.baidu.com/s/149Io8iff7kiv3rJUAobseA?pwd=skky)，提取码 skky
 - Vue.js实战。百度网盘：[https://pan.baidu.com/s/1xly4Kl-DzRheXBxrBYumWg](https://pan.baidu.com/s/1xly4Kl-DzRheXBxrBYumWg?pwd=8e5c)，提取码 8e5c
 - Vue.js权威指南。百度网盘：[https://pan.baidu.com/s/1W3fR0G64dBMxGe2kqxkAvg](https://pan.baidu.com/s/1W3fR0G64dBMxGe2kqxkAvg?pwd=51xz)，提取码 51xz
 - Vue.js技术揭秘（在线电子版），地址：[https://ustbhuangyi.github.io/vue-analysis/](https://ustbhuangyi.github.io/vue-analysis/)
@@ -231,6 +232,7 @@
 - 敏捷开发的艺术。百度网盘：[https://pan.baidu.com/s/1jE3CDVne5OIwFXv_d9cuiw](https://pan.baidu.com/s/1jE3CDVne5OIwFXv_d9cuiw?pwd=f9sf)，提取码 f9sf
 
 ### 其他
+
 - 游戏引擎 浅入浅出（Learning Prompt，在线电子版）：[https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=Introduction.md](https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=Introduction.md)
 
 ---
