@@ -201,6 +201,7 @@
 - JavaScript深度学习。百度网盘：[https://pan.baidu.com/s/1-sQIgodUEmGpWbPNX0TLFQ](https://pan.baidu.com/s/1-sQIgodUEmGpWbPNX0TLFQ?pwd=ubdh)，提取码 ubdh
 - 大模型应用开发极简入门：基于 GPT-4 和 ChatGPT 。百度网盘：[https://pan.baidu.com/s/1vR0wq9doPGvqKTLXRPnsAA](https://pan.baidu.com/s/1vR0wq9doPGvqKTLXRPnsAA?pwd=s856)，提取码 s856
 - 图解人工智能。百度网盘：[https://pan.baidu.com/s/1cDUxjtUNNmSQXPkPEH6pLQ](https://pan.baidu.com/s/1cDUxjtUNNmSQXPkPEH6pLQ?pwd=4145)，提取码 4145
+- 图解机器学习。百度网盘：[https://pan.baidu.com/s/1mw3R1EnGkMxZCaAQFmRjpw](https://pan.baidu.com/s/1mw3R1EnGkMxZCaAQFmRjpw?pwd=a7tr)，提取码 a7tr
 
 #### Python
 
