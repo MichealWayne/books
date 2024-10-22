@@ -190,6 +190,7 @@
 - 实现领域驱动设计。百度网盘：[https://pan.baidu.com/s/1Qo4FeTrDZx95LXZ3giPgNw](https://pan.baidu.com/s/1Qo4FeTrDZx95LXZ3giPgNw?pwd=qnbe)，提取码 qnbe
 - 京东基础架构建设之路。百度网盘：[https://pan.baidu.com/s/1PYBU1gbrYs-4ID4BGP5SkA](https://pan.baidu.com/s/1PYBU1gbrYs-4ID4BGP5SkA?pwd=6vsu)，提取码 6vsu
 - 系统架构设计-从程序员向架构师转型之路。百度网盘：[https://pan.baidu.com/s/1w0wweNFTDXeHwrYSJMTk4Q](https://pan.baidu.com/s/1w0wweNFTDXeHwrYSJMTk4Q?pwd=14ob)，提取码 14ob
+- 软件建模与设计：UML、用例、模式和软件体系结构。百度网盘：[https://pan.baidu.com/s/1QMUUz78-Xju_X_GPHfDp-A](https://pan.baidu.com/s/1QMUUz78-Xju_X_GPHfDp-A?pwd=rvd9)，提取码 rvd9
 
 ### 人工智能
 
