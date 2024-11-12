@@ -21,6 +21,7 @@
 - WebGL高级编程：开发Web3D图形.pdf。百度网盘[https://pan.baidu.com/s/1B5faAmkRw2XYALARA-Qtaw](https://pan.baidu.com/s/1B5faAmkRw2XYALARA-Qtaw?pwd=2ms6)，提取码 2ms6 
 - HTML5与CSS3设计模式.pdf。百度网盘：[https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ](https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ?pwd=kyy7)，提取码 kyy7
 - HTML best practices(最佳实践)（在线电子版），地址：[https://github.com/hail2u/html-best-practices/blob/main/README.zh-CN.md](https://github.com/hail2u/html-best-practices/blob/main/README.zh-CN.md)
+- 《千古前端图文教程》，也有css/js等内容（在线电子版）。地址：[https://web.qianguyihao.com/](https://web.qianguyihao.com/)
 - 【旧书，有点过时】[HTML与CSS入门经典（第8版）.zip](./fee/)
 
   
