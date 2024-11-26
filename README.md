@@ -100,6 +100,7 @@
 - Vue.js实战。百度网盘：[https://pan.baidu.com/s/1xly4Kl-DzRheXBxrBYumWg](https://pan.baidu.com/s/1xly4Kl-DzRheXBxrBYumWg?pwd=8e5c)，提取码 8e5c
 - Vue.js权威指南。百度网盘：[https://pan.baidu.com/s/1W3fR0G64dBMxGe2kqxkAvg](https://pan.baidu.com/s/1W3fR0G64dBMxGe2kqxkAvg?pwd=51xz)，提取码 51xz
 - Vue.js技术揭秘（在线电子版），地址：[https://ustbhuangyi.github.io/vue-analysis/](https://ustbhuangyi.github.io/vue-analysis/)
+- 循序渐进Vue.js 3前端开发实战。百度网盘：[https://pan.baidu.com/s/1WqAZxwSG-9cybKOUfHNPTg](https://pan.baidu.com/s/1WqAZxwSG-9cybKOUfHNPTg?pwd=mpp8)，提取码 mpp8
 - 图解React（在线电子版），地址：[https://7km.top/](https://7km.top/)
 - 深入React技术栈。百度网盘：[https://pan.baidu.com/s/1i_vvm7c1MecYyZA0wInTng](https://pan.baidu.com/s/1i_vvm7c1MecYyZA0wInTng?pwd=joas)，提取码 joas
 - React前端技术与工程实践。百度网盘：[https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ](https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ?pwd=z92c)，提取码 z92c
@@ -130,6 +131,8 @@
 - Docker实践。百度网盘: [https://pan.baidu.com/s/1Z27cDYWhIpVeww3ItYDAWw](https://pan.baidu.com/s/1Z27cDYWhIpVeww3ItYDAWw?pwd=fmb2)，提取码 fmb2
 - 《Babel手册》（在线电子版），地址：[https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
 - 深入浅出Rxjs。百度网盘：[https://pan.baidu.com/s/1c9R28sjoPAqG-2vY3YdJSA](https://pan.baidu.com/s/1c9R28sjoPAqG-2vY3YdJSA?pwd=ku78)，提取码 ku78
+- WebRTC音视频开发：React+Flutter+Go实战。百度网盘：[https://pan.baidu.com/s/1UqQPmj5lCaxVZ6qBe3lxyw](https://pan.baidu.com/s/1UqQPmj5lCaxVZ6qBe3lxyw?pwd=vn3j)，提取码 vn3j 
+
 
 ### 算法
 
