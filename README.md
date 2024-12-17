@@ -161,7 +161,7 @@
 - 计算机程序设计艺术（第1卷）。百度网盘：[https://pan.baidu.com/s/1uSswXS90_KRJJAaxSJoRyw](https://pan.baidu.com/s/1uSswXS90_KRJJAaxSJoRyw?pwd=hubm) ，提取码 hubm
 - 计算机程序设计艺术（第2卷）。百度网盘：[https://pan.baidu.com/s/1M5-3vpyzYHUYEIs7JRsKJw](https://pan.baidu.com/s/1M5-3vpyzYHUYEIs7JRsKJw?pwd=g3sk)，提取码 g3sk
 - 计算机程序设计艺术（第3卷）。百度网盘：[https://pan.baidu.com/s/1D53y9sebYlgtI9CyeoALlw](https://pan.baidu.com/s/1D53y9sebYlgtI9CyeoALlw?pwd=kkn2) ，提取码 kkn2
-
+- 图解设计模式。百度网盘：[https://pan.baidu.com/s/1f-rAFrsMgK0LLGKIajhvzQ](https://pan.baidu.com/s/1f-rAFrsMgK0LLGKIajhvzQ?pwd=zt6r)，提取码 zt6r 
 
 ### 计算机网络
 
