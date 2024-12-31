@@ -125,6 +125,7 @@
 - IT运维之道。百度网盘：[https://pan.baidu.com/s/1TFaSHAKYwfMdOwBrQz48MQ](https://pan.baidu.com/s/1TFaSHAKYwfMdOwBrQz48MQ?pwd=gc4e)，提取码 gc4e
 - 安全之路-web渗透技术及实战案例。百度网盘：[https://pan.baidu.com/s/11RhUVKP5PcExFW9ZY8Bkng](https://pan.baidu.com/s/11RhUVKP5PcExFW9ZY8Bkng?pwd=xnps)，提取码 xnps
 - 白帽子讲Web安全。百度网盘：[https://pan.baidu.com/s/1dQb7HooHDfaFU5JgMpsgUQ](https://pan.baidu.com/s/1dQb7HooHDfaFU5JgMpsgUQ?pwd=yyh5)，提取码：yyh5
+- 《the book of secret knowledge》，一个安全相关的列表手册和博客文章集合。在线地址：[https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - git高手。百度网盘：[https://pan.baidu.com/s/1ZpBdtBU_0AMMtzSKa5R0ng](https://pan.baidu.com/s/1ZpBdtBU_0AMMtzSKa5R0ng?pwd=xqgj)，提取码 xqgj
 - Git学习指南。百度网盘：[https://pan.baidu.com/s/1TAe7kmhOaEQpvjWWkz63ew](https://pan.baidu.com/s/1TAe7kmhOaEQpvjWWkz63ew?pwd=4eof)，提取码 4eof
 - Jenkins权威指南。百度网盘：[https://pan.baidu.com/s/1AtbIcY8777wgxMHC2xi5Bg](https://pan.baidu.com/s/1AtbIcY8777wgxMHC2xi5Bg?pwd=rfz5)，提取码 rfz5
