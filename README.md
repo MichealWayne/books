@@ -183,6 +183,7 @@
 - 程序员修炼之道，从小工到专家。百度网盘：[https://pan.baidu.com/s/11Bzq8pWPDBgWf_lQ36-gdg](https://pan.baidu.com/s/11Bzq8pWPDBgWf_lQ36-gdg?pwd=6aw3)  ，提取码 6aw3
 - 代码之美。百度网盘：[https://pan.baidu.com/s/1_pNhHy-4U-HowEXfCkp4wQ](https://pan.baidu.com/s/1_pNhHy-4U-HowEXfCkp4wQ?pwd=7ra0)  ，提取码 7ra0
 - 像程序员一样思考。百度网盘：[https://pan.baidu.com/s/1LtX0oebQAA3n3EwdzhSsPQ](https://pan.baidu.com/s/1LtX0oebQAA3n3EwdzhSsPQ?pwd=gf60) ，提取码 gf60
+- 修改软件的艺术：构建易维护代码的9条最佳实践。百度网盘：[https://pan.baidu.com/s/1ZgrmPgokqNpFjEX90uVq-A](https://pan.baidu.com/s/1ZgrmPgokqNpFjEX90uVq-A?pwd=yc8h) ，提取码 yc8h
 
 ### 架构
 
@@ -241,6 +242,7 @@
 ### 其他
 
 - 游戏引擎 浅入浅出（Learning Prompt，在线电子版）：[https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=Introduction.md](https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=Introduction.md)
+- AI编程蓝皮书（在线飞书文档）：[https://superhuang.feishu.cn/wiki/CBBPwvgEuicVhFkx0s7cPmhpn4e](https://superhuang.feishu.cn/wiki/CBBPwvgEuicVhFkx0s7cPmhpn4e)
 
 ---
 
