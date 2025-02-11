@@ -228,6 +228,8 @@
 - 【AI工具】ChatGPT提问艺术。百度网盘：[https://pan.baidu.com/s/1peTAD3B048XY5A9pQjd6zw](https://pan.baidu.com/s/1peTAD3B048XY5A9pQjd6zw?pwd=gykw)，提取码 gykw
 - 生成式人工智能学习手册（全英文，在线电子版）：[https://genai-handbook.github.io/](https://genai-handbook.github.io/)
 - 全栈DS/DA养成手册（在线电子版）：[https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html](https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html)
+- 清华大学《DeepSeek入门到精通》：百度网盘：[https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ](https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ?pwd=fphn)，提取码 fphn
+
 
 ### 项目管理
 
