@@ -229,7 +229,8 @@
 - 生成式人工智能学习手册（全英文，在线电子版）：[https://genai-handbook.github.io/](https://genai-handbook.github.io/)
 - 全栈DS/DA养成手册（在线电子版）：[https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html](https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html)
 - 清华大学《DeepSeek入门到精通》：百度网盘：[https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ](https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ?pwd=fphn)，提取码 fphn
-
+- 清华大学《DeepSeek赋能职场》：百度网盘：[https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA](https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA?pwd=gnfm)，提取码 gnfm
+- 清华大学《普通人如何抓住DeepSeek红利》：百度网盘：[https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg](https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg?pwd=z35b)，提取码 z35b
 
 ### 项目管理
 
