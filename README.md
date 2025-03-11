@@ -36,7 +36,7 @@
 - [CSS3学习必备书籍《CSS3 实战》.pdf](./fee/)
 - [CSS3实战：开发与设计迷你书.zip](./fee/)
 - [CSS权威指南（第3版）.zip](./fee/)
-- *SVG精髓（第二版）。百度网盘：[https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw](https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw?pwd=9dba)，提取码 9dba
+- 【旧书，有点过时】SVG精髓（第二版）。百度网盘：[https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw](https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw?pwd=9dba)，提取码 9dba
 - 【旧书，有点过时】[css3.0参考手册.chm](./fee/)
 - 【旧书，有点过时】[filter滤镜手册_苏昱.rar](./fee/)
 - 【旧书，有点过时】 [css技巧.CHM](./fee/)
@@ -228,9 +228,15 @@
 - 【AI工具】ChatGPT提问艺术。百度网盘：[https://pan.baidu.com/s/1peTAD3B048XY5A9pQjd6zw](https://pan.baidu.com/s/1peTAD3B048XY5A9pQjd6zw?pwd=gykw)，提取码 gykw
 - 生成式人工智能学习手册（全英文，在线电子版）：[https://genai-handbook.github.io/](https://genai-handbook.github.io/)
 - 全栈DS/DA养成手册（在线电子版）：[https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html](https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html)
-- 清华大学《DeepSeek入门到精通》：百度网盘：[https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ](https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ?pwd=fphn)，提取码 fphn
-- 清华大学《DeepSeek赋能职场》：百度网盘：[https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA](https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA?pwd=gnfm)，提取码 gnfm
-- 清华大学《普通人如何抓住DeepSeek红利》：百度网盘：[https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg](https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg?pwd=z35b)，提取码 z35b
+- 清华大学《DeepSeek入门到精通》ppt。百度网盘：[https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ](https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ?pwd=fphn)，提取码 fphn
+- 清华大学《DeepSeek赋能职场》ppt。百度网盘：[https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA](https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA?pwd=gnfm)，提取码 gnfm
+- 清华大学《普通人如何抓住DeepSeek红利》ppt。百度网盘：[https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg](https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg?pwd=z35b)，提取码 z35b
+- 北京大学《DeepSeek与AIGC应用PPT》ppt。百度网盘：[https://pan.baidu.com/s/1NIZwqj1Rd8Oi0w0DiHD2dw](https://pan.baidu.com/s/1NIZwqj1Rd8Oi0w0DiHD2dw?pwd=ru1v)，提取码 ru1v
+- 北京大学《DeepSeek提示词工程和落地场景》ppt。百度网盘：[https://pan.baidu.com/s/1Fx0pk924fqMdPpD0XnKtaw](https://pan.baidu.com/s/1Fx0pk924fqMdPpD0XnKtaw?pwd=efpf)，提取码 efpf
+- 北京大学《DeepSeek原理与落地应用》ppt。百度网盘：[https://pan.baidu.com/s/1hYE3IRukB2UQqY1fr2hS-Q](https://pan.baidu.com/s/1hYE3IRukB2UQqY1fr2hS-Q?pwd=i5bi)，提取码 i5bi
+- 北京大学《DeepSeek私有化部署和一体机》ppt。百度网盘：[https://pan.baidu.com/s/1hBOZ2zDVEKvxe3BMJWBCkw](https://pan.baidu.com/s/1hBOZ2zDVEKvxe3BMJWBCkw?pwd=xntj)，提取码 xntj
+- 浙江大学《奇点临近,行业变革：DeepSeek模型解读》ppt。百度网盘：[https://pan.baidu.com/s/1BZSV9uKmxgBaS5-EKYviJQ](https://pan.baidu.com/s/1BZSV9uKmxgBaS5-EKYviJQ?pwd=tp6k)，提取码 tp6k 
+
 
 ### 项目管理
 
