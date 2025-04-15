@@ -220,7 +220,7 @@
 - 数据科学入门。百度网盘：[https://pan.baidu.com/s/1BcsizJyq6j0dUeldE8LTNA](https://pan.baidu.com/s/1BcsizJyq6j0dUeldE8LTNA?pwd=7gu1)，提取码 7gu1
 - Python网络数据采集。百度网盘：[https://pan.baidu.com/s/1hD3DApBUVPp1xaa1AFQzgw](https://pan.baidu.com/s/1hD3DApBUVPp1xaa1AFQzgw?pwd=1axs)，提取码 1axs
 
-#### GPT&AI
+#### LLM&AI
 
 - 学习提示（Learning Prompt，在线电子版）：[https://learningprompt.wiki/](https://learningprompt.wiki/)
 - 提示工程指南（Prompt Engineering Guide，在线电子版）：[https://www.promptingguide.ai/zh](https://www.promptingguide.ai/zh)
@@ -228,6 +228,7 @@
 - 【AI工具】ChatGPT提问艺术。百度网盘：[https://pan.baidu.com/s/1peTAD3B048XY5A9pQjd6zw](https://pan.baidu.com/s/1peTAD3B048XY5A9pQjd6zw?pwd=gykw)，提取码 gykw
 - 生成式人工智能学习手册（全英文，在线电子版）：[https://genai-handbook.github.io/](https://genai-handbook.github.io/)
 - 全栈DS/DA养成手册（在线电子版）：[https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html](https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html)
+- 面向开发者的LLM入门课程。百度网盘：[https://pan.baidu.com/s/1fhFW63_jLgx6ZtM_w3i44w](https://pan.baidu.com/s/1fhFW63_jLgx6ZtM_w3i44w?pwd=ck92)，提取码 ck92 
 - 清华大学《DeepSeek入门到精通》ppt。百度网盘：[https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ](https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ?pwd=fphn)，提取码 fphn
 - 清华大学《DeepSeek赋能职场》ppt。百度网盘：[https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA](https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA?pwd=gnfm)，提取码 gnfm
 - 清华大学《普通人如何抓住DeepSeek红利》ppt。百度网盘：[https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg](https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg?pwd=z35b)，提取码 z35b
