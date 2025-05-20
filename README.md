@@ -33,6 +33,7 @@
 - CSS禅意花园。百度网盘：[https://pan.baidu.com/s/1nFqOS1HeRieSdTxiSjXLjQ](https://pan.baidu.com/s/1nFqOS1HeRieSdTxiSjXLjQ?pwd=tq7v) ，提取码 tq7v 
 - css世界.pdf。百度网盘：[https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA](https://pan.baidu.com/s/1ohrRTWVhS4T4azZsLG6WuA?pwd=o005) ，提取码 o005
 - 图解CSS3核心技术与案例实战。百度网盘：[https://pan.baidu.com/s/1JDuu1oeuZaqNCJgLuyh7ag](https://pan.baidu.com/s/1JDuu1oeuZaqNCJgLuyh7ag?pwd=k5tg)，提取码 k5tg
+- 《Tailwind CSS: Craft Beautiful, Flexible, and Responsive》（全英）。百度网盘：[https://pan.baidu.com/s/1OUqNXxpRlDQFUiiYMUR5Ew](https://pan.baidu.com/s/1OUqNXxpRlDQFUiiYMUR5Ew?pwd=7knj)，提取码 7knj 
 - [CSS3学习必备书籍《CSS3 实战》.pdf](./fee/)
 - [CSS3实战：开发与设计迷你书.zip](./fee/)
 - [CSS权威指南（第3版）.zip](./fee/)
@@ -237,6 +238,7 @@
 - 北京大学《DeepSeek原理与落地应用》ppt。百度网盘：[https://pan.baidu.com/s/1hYE3IRukB2UQqY1fr2hS-Q](https://pan.baidu.com/s/1hYE3IRukB2UQqY1fr2hS-Q?pwd=i5bi)，提取码 i5bi
 - 北京大学《DeepSeek私有化部署和一体机》ppt。百度网盘：[https://pan.baidu.com/s/1hBOZ2zDVEKvxe3BMJWBCkw](https://pan.baidu.com/s/1hBOZ2zDVEKvxe3BMJWBCkw?pwd=xntj)，提取码 xntj
 - 浙江大学《奇点临近,行业变革：DeepSeek模型解读》ppt。百度网盘：[https://pan.baidu.com/s/1BZSV9uKmxgBaS5-EKYviJQ](https://pan.baidu.com/s/1BZSV9uKmxgBaS5-EKYviJQ?pwd=tp6k)，提取码 tp6k 
+- 复旦大学·张奇《大语言模型：从理论到实践(第2版)》。百度网盘：[https://pan.baidu.com/s/1-HDp_amRjCH3TRdmFkg04w](https://pan.baidu.com/s/1-HDp_amRjCH3TRdmFkg04w?pwd=6qha)，提取码 6qha
 
 
 ### 项目管理
