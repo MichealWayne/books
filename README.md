@@ -104,6 +104,8 @@
 - 循序渐进Vue.js 3前端开发实战。百度网盘：[https://pan.baidu.com/s/1WqAZxwSG-9cybKOUfHNPTg](https://pan.baidu.com/s/1WqAZxwSG-9cybKOUfHNPTg?pwd=mpp8)，提取码 mpp8
 - 图解React（在线电子版），地址：[https://7km.top/](https://7km.top/)
 - 深入React技术栈。百度网盘：[https://pan.baidu.com/s/1i_vvm7c1MecYyZA0wInTng](https://pan.baidu.com/s/1i_vvm7c1MecYyZA0wInTng?pwd=joas)，提取码 joas
+- React Architect——Full-Stack React App Development and Serverless Deployment（全英）。百度网盘：[https://pan.baidu.com/s/1P0rGVgP400Wk9kXtHF6QOg](https://pan.baidu.com/s/1P0rGVgP400Wk9kXtHF6QOg?pwd=wvue)，提取码 wvue
+- React Cookbook——Recipes for Mastering the React Framework（全英）。百度网盘：[https://pan.baidu.com/s/1R6XQcPD0ksSnhx1iMMJBHg](https://pan.baidu.com/s/1R6XQcPD0ksSnhx1iMMJBHg?pwd=kgga)，提取码 kgga
 - React前端技术与工程实践。百度网盘：[https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ](https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ?pwd=z92c)，提取码 z92c
 - React状态管理与同构实战。百度网盘：[https://pan.baidu.com/s/1QZQYOeKZs5N50juYijgIvQ](https://pan.baidu.com/s/1QZQYOeKZs5N50juYijgIvQ?pwd=xt1v)，提取码 xt1v
 - React技术揭秘（在线电子版），地址：[https://react.iamkasong.com/](https://react.iamkasong.com/)
