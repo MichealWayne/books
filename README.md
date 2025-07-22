@@ -121,6 +121,7 @@
 ### (前端)工程
 
 - 前端工程化：体系设计与实践。百度网盘：[https://pan.baidu.com/s/1pPkNXapEOAQ-rJfzGYelNQ](https://pan.baidu.com/s/1pPkNXapEOAQ-rJfzGYelNQ?pwd=13y3)，提取码 13y3
+- 前端函数式演进。百度网盘：[https://pan.baidu.com/s/1ML0JyS9yA2HanAQ7QRxmQA](https://pan.baidu.com/s/1ML0JyS9yA2HanAQ7QRxmQA?pwd=bf3b)，提取码 bf3b
 - 深入浅出Webpack（在线电子版），地址：[http://webpack.wuhaolin.cn/](http://webpack.wuhaolin.cn/)
 - 深入浅出Webpack（pdf）。百度网盘：[https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw](https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw?pwd=4ogr)，提取码 4ogr
 - jenkins权威指南。百度网盘：[https://pan.baidu.com/s/1hs5l4n7I4DxM4y8CvLXylQ](https://pan.baidu.com/s/1hs5l4n7I4DxM4y8CvLXylQ?pwd=kbrw)，提取码 kbrw
@@ -136,7 +137,7 @@
 - 《Babel手册》（在线电子版），地址：[https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
 - 深入浅出Rxjs。百度网盘：[https://pan.baidu.com/s/1c9R28sjoPAqG-2vY3YdJSA](https://pan.baidu.com/s/1c9R28sjoPAqG-2vY3YdJSA?pwd=ku78)，提取码 ku78
 - WebRTC音视频开发：React+Flutter+Go实战。百度网盘：[https://pan.baidu.com/s/1UqQPmj5lCaxVZ6qBe3lxyw](https://pan.baidu.com/s/1UqQPmj5lCaxVZ6qBe3lxyw?pwd=vn3j)，提取码 vn3j 
-
+- 前端跨界开发指南：JavaScript工具库原理解析与实战。百度网盘：[https://pan.baidu.com/s/1LCzADLeFXP9dTftiraD4dA](https://pan.baidu.com/s/1LCzADLeFXP9dTftiraD4dA?pwd=apvi)，提取码 apvi
 
 ### 算法
 
