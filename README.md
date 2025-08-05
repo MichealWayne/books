@@ -242,6 +242,7 @@
 - 北京大学《DeepSeek私有化部署和一体机》ppt。百度网盘：[https://pan.baidu.com/s/1hBOZ2zDVEKvxe3BMJWBCkw](https://pan.baidu.com/s/1hBOZ2zDVEKvxe3BMJWBCkw?pwd=xntj)，提取码 xntj
 - 浙江大学《奇点临近,行业变革：DeepSeek模型解读》ppt。百度网盘：[https://pan.baidu.com/s/1BZSV9uKmxgBaS5-EKYviJQ](https://pan.baidu.com/s/1BZSV9uKmxgBaS5-EKYviJQ?pwd=tp6k)，提取码 tp6k 
 - 复旦大学·张奇《大语言模型：从理论到实践(第2版)》。百度网盘：[https://pan.baidu.com/s/1-HDp_amRjCH3TRdmFkg04w](https://pan.baidu.com/s/1-HDp_amRjCH3TRdmFkg04w?pwd=6qha)，提取码 6qha
+- 《Foundations of Large Language Models》大语言模型基础（全英文）。百度网盘：[https://pan.baidu.com/s/1bae7VeY_EmWqQMOgHAxt0Q](https://pan.baidu.com/s/1bae7VeY_EmWqQMOgHAxt0Q?pwd=f4b6)，提取码 f4b6
 
 
 ### 项目管理
