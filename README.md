@@ -227,6 +227,7 @@
 #### LLM&AI
 
 - 学习提示（Learning Prompt，在线电子版）：[https://learningprompt.wiki/](https://learningprompt.wiki/)
+- 精通Transformer：从零开始构建最先进的NLP模型：[https://pan.baidu.com/s/18X_5BQeU8E6Dj2i7mjcE2Q](https://pan.baidu.com/s/18X_5BQeU8E6Dj2i7mjcE2Q?pwd=7ebn)，提取码 7ebn
 - 提示工程指南（Prompt Engineering Guide，在线电子版）：[https://www.promptingguide.ai/zh](https://www.promptingguide.ai/zh)
 - 面向开发者的 ChatGPT 提示词工程（ChatGPT Prompt Engineering for Developers，吴恩达与 OpenAI 开发者 Iza Fulford ，视频课程）：[https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)，中文字幕版：[https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese)
 - 【AI工具】ChatGPT提问艺术。百度网盘：[https://pan.baidu.com/s/1peTAD3B048XY5A9pQjd6zw](https://pan.baidu.com/s/1peTAD3B048XY5A9pQjd6zw?pwd=gykw)，提取码 gykw
@@ -254,6 +255,7 @@
 - 人件（第三版）。百度网盘：[https://pan.baidu.com/s/1Q2dBdXeIhAHPa0547hxK9A](https://pan.baidu.com/s/1Q2dBdXeIhAHPa0547hxK9A?pwd=eoop)，提取码 eoop
 - 软件需求。百度网盘：[https://pan.baidu.com/s/1-DuNU0fQTlro4zhRKgf7XA](https://pan.baidu.com/s/1-DuNU0fQTlro4zhRKgf7XA?pwd=dkrn)，提取码 dkrn
 - 敏捷开发的艺术。百度网盘：[https://pan.baidu.com/s/1jE3CDVne5OIwFXv_d9cuiw](https://pan.baidu.com/s/1jE3CDVne5OIwFXv_d9cuiw?pwd=f9sf)，提取码 f9sf
+- 需求工程：软件质量的基础（全英文，Requirements Engineering: Foundation for Software Quality）。百度网盘：[https://pan.baidu.com/s/1WY-jjfBAbWYfDcW8dH_-vw](https://pan.baidu.com/s/1WY-jjfBAbWYfDcW8dH_-vw?pwd=9jvh)，提取码 9jvh
 
 ### 其他
 
