@@ -187,6 +187,7 @@
 - 程序员修炼之道，从小工到专家。百度网盘：[https://pan.baidu.com/s/11Bzq8pWPDBgWf_lQ36-gdg](https://pan.baidu.com/s/11Bzq8pWPDBgWf_lQ36-gdg?pwd=6aw3)  ，提取码 6aw3
 - 代码之美。百度网盘：[https://pan.baidu.com/s/1_pNhHy-4U-HowEXfCkp4wQ](https://pan.baidu.com/s/1_pNhHy-4U-HowEXfCkp4wQ?pwd=7ra0)  ，提取码 7ra0
 - 像程序员一样思考。百度网盘：[https://pan.baidu.com/s/1LtX0oebQAA3n3EwdzhSsPQ](https://pan.baidu.com/s/1LtX0oebQAA3n3EwdzhSsPQ?pwd=gf60) ，提取码 gf60
+- 程序员的思维修炼：开发认知潜能的九堂课。百度网盘：[https://pan.baidu.com/s/14dSkchKex_kUzF_GvcZs1w](https://pan.baidu.com/s/14dSkchKex_kUzF_GvcZs1w?pwd=C2t6)， 提取码 C2t6
 - 修改软件的艺术：构建易维护代码的9条最佳实践。百度网盘：[https://pan.baidu.com/s/1ZgrmPgokqNpFjEX90uVq-A](https://pan.baidu.com/s/1ZgrmPgokqNpFjEX90uVq-A?pwd=yc8h) ，提取码 yc8h
 
 ### 架构
