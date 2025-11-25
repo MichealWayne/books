@@ -227,6 +227,8 @@
 
 #### LLM&AI
 
+- OpenAI《Building an AI-native engineering team》(全英文)：[https://pan.baidu.com/s/1ITkupTud5EsXuiCk9V53RA](https://pan.baidu.com/s/1ITkupTud5EsXuiCk9V53RA?pwd=veg7)，提取码 veg7
+- Anthropic《Agentic Design Patterns》（全英文）：[https://pan.baidu.com/s/1gYa-Db8FrUQ5X1lLTc5AQg](https://pan.baidu.com/s/1gYa-Db8FrUQ5X1lLTc5AQg?pwd=gbgb)，提取码 gbgb
 - 学习提示（Learning Prompt，在线电子版）：[https://learningprompt.wiki/](https://learningprompt.wiki/)
 - 精通Transformer：从零开始构建最先进的NLP模型：[https://pan.baidu.com/s/18X_5BQeU8E6Dj2i7mjcE2Q](https://pan.baidu.com/s/18X_5BQeU8E6Dj2i7mjcE2Q?pwd=7ebn)，提取码 7ebn
 - 提示工程指南（Prompt Engineering Guide，在线电子版）：[https://www.promptingguide.ai/zh](https://www.promptingguide.ai/zh)
