@@ -1,5 +1,5 @@
 # books
-前端、软件工程、AI、UI/UE部分经典书籍免费电子版。
+前端、软件工程、AI、UED部分经典书籍免费电子版。
 
 ## fe(front-end)目录
 前端开发相关书籍。
@@ -104,6 +104,7 @@
 - 循序渐进Vue.js 3前端开发实战。百度网盘：[https://pan.baidu.com/s/1WqAZxwSG-9cybKOUfHNPTg](https://pan.baidu.com/s/1WqAZxwSG-9cybKOUfHNPTg?pwd=mpp8)，提取码 mpp8
 - 图解React（在线电子版），地址：[https://7km.top/](https://7km.top/)
 - 深入React技术栈。百度网盘：[https://pan.baidu.com/s/1i_vvm7c1MecYyZA0wInTng](https://pan.baidu.com/s/1i_vvm7c1MecYyZA0wInTng?pwd=joas)，提取码 joas
+- React学习手册（第二版）（适合入门）。百度网盘：[https://pan.baidu.com/s/1YLicIX_2lCbi_xukpJ_4Ng](https://pan.baidu.com/s/1YLicIX_2lCbi_xukpJ_4Ng?pwd=yden)，提取码 yden
 - React Architect——Full-Stack React App Development and Serverless Deployment（全英）。百度网盘：[https://pan.baidu.com/s/1P0rGVgP400Wk9kXtHF6QOg](https://pan.baidu.com/s/1P0rGVgP400Wk9kXtHF6QOg?pwd=wvue)，提取码 wvue
 - React Cookbook——Recipes for Mastering the React Framework（全英）。百度网盘：[https://pan.baidu.com/s/1R6XQcPD0ksSnhx1iMMJBHg](https://pan.baidu.com/s/1R6XQcPD0ksSnhx1iMMJBHg?pwd=kgga)，提取码 kgga
 - React前端技术与工程实践。百度网盘：[https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ](https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ?pwd=z92c)，提取码 z92c
@@ -285,6 +286,7 @@ UI设计、UX交互相关书籍
 - 瞬间之美-web界面设计如何让用户心动。百度网盘：[https://pan.baidu.com/s/1L3le_e6fbPkZzADrQFyfjA](https://pan.baidu.com/s/1L3le_e6fbPkZzADrQFyfjA?pwd=gprq)，提取码 gprq
 - 交互设计精髓about face4。百度网盘：[https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew](https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew?pwd=h0ff)，提取码 h0ff
 - 破茧成蝶2——以产品为中心的设计革命。百度网盘[https://pan.baidu.com/s/1Xi3xPDzFXcByp_co5FYUKw](https://pan.baidu.com/s/1Xi3xPDzFXcByp_co5FYUKw?pwd=qx5y)，提取码 qx5y
+- 腾讯公司用户研究与体验设计部：在你身边为你设计，腾讯服务设计思维与实战。百度网盘：[https://pan.baidu.com/s/1xNi1bAv35oj3-wNZOxG0LQ](https://pan.baidu.com/s/1xNi1bAv35oj3-wNZOxG0LQ?pwd=jvk2)，提取码 jvk2
 - 腾讯产品法：一本书读懂腾讯产品思维与运营方法。百度网盘[https://pan.baidu.com/s/1MeKKJeGVGgUFbv0dw72uKQ](https://pan.baidu.com/s/1MeKKJeGVGgUFbv0dw72uKQ?pwd=5ewe)，提取码 5ewe
 - 【旧书，有点过时】[百度资料—视觉规划.pptx](./ui-ue/)
 - 【旧书，有点过时】[新浪设计指南.pdf](./ui-ue/)
