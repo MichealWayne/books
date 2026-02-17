@@ -127,6 +127,7 @@
 - 深入浅出Webpack（pdf）。百度网盘：[https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw](https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw?pwd=4ogr)，提取码 4ogr
 - jenkins权威指南。百度网盘：[https://pan.baidu.com/s/1hs5l4n7I4DxM4y8CvLXylQ](https://pan.baidu.com/s/1hs5l4n7I4DxM4y8CvLXylQ?pwd=kbrw)，提取码 kbrw
 - git学习指南。百度网盘：[https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA](https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA?pwd=yz3k)，提取码 yz3k
+- 精通Git。百度网盘：[https://pan.baidu.com/s/1Fs36FfjSK5tD_A4omDrSXA](https://pan.baidu.com/s/1Fs36FfjSK5tD_A4omDrSXA?pwd=undy)，提取码 undy 
 - IT运维之道。百度网盘：[https://pan.baidu.com/s/1TFaSHAKYwfMdOwBrQz48MQ](https://pan.baidu.com/s/1TFaSHAKYwfMdOwBrQz48MQ?pwd=gc4e)，提取码 gc4e
 - 安全之路-web渗透技术及实战案例。百度网盘：[https://pan.baidu.com/s/11RhUVKP5PcExFW9ZY8Bkng](https://pan.baidu.com/s/11RhUVKP5PcExFW9ZY8Bkng?pwd=xnps)，提取码 xnps
 - 白帽子讲Web安全。百度网盘：[https://pan.baidu.com/s/1dQb7HooHDfaFU5JgMpsgUQ](https://pan.baidu.com/s/1dQb7HooHDfaFU5JgMpsgUQ?pwd=yyh5)，提取码：yyh5
@@ -167,7 +168,8 @@
 - 计算机程序设计艺术（第1卷）。百度网盘：[https://pan.baidu.com/s/1uSswXS90_KRJJAaxSJoRyw](https://pan.baidu.com/s/1uSswXS90_KRJJAaxSJoRyw?pwd=hubm) ，提取码 hubm
 - 计算机程序设计艺术（第2卷）。百度网盘：[https://pan.baidu.com/s/1M5-3vpyzYHUYEIs7JRsKJw](https://pan.baidu.com/s/1M5-3vpyzYHUYEIs7JRsKJw?pwd=g3sk)，提取码 g3sk
 - 计算机程序设计艺术（第3卷）。百度网盘：[https://pan.baidu.com/s/1D53y9sebYlgtI9CyeoALlw](https://pan.baidu.com/s/1D53y9sebYlgtI9CyeoALlw?pwd=kkn2) ，提取码 kkn2
-- 图解设计模式。百度网盘：[https://pan.baidu.com/s/1f-rAFrsMgK0LLGKIajhvzQ](https://pan.baidu.com/s/1f-rAFrsMgK0LLGKIajhvzQ?pwd=zt6r)，提取码 zt6r 
+- 图解设计模式。百度网盘：[https://pan.baidu.com/s/1f-rAFrsMgK0LLGKIajhvzQ](https://pan.baidu.com/s/1f-rAFrsMgK0LLGKIajhvzQ?pwd=zt6r)，提取码 zt6r
+- 图像处理基础（第二版）。百度网盘：[https://pan.baidu.com/s/1smB1Qp8vRqCUez_b0lGNIQ](https://pan.baidu.com/s/1smB1Qp8vRqCUez_b0lGNIQ?pwd=v467)，提取码 v467 
 
 ### 计算机网络
 
@@ -237,7 +239,9 @@
 - 【AI工具】ChatGPT提问艺术。百度网盘：[https://pan.baidu.com/s/1peTAD3B048XY5A9pQjd6zw](https://pan.baidu.com/s/1peTAD3B048XY5A9pQjd6zw?pwd=gykw)，提取码 gykw
 - 生成式人工智能学习手册（全英文，在线电子版）：[https://genai-handbook.github.io/](https://genai-handbook.github.io/)
 - 全栈DS/DA养成手册（在线电子版）：[https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html](https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html)
-- 面向开发者的LLM入门课程。百度网盘：[https://pan.baidu.com/s/1fhFW63_jLgx6ZtM_w3i44w](https://pan.baidu.com/s/1fhFW63_jLgx6ZtM_w3i44w?pwd=ck92)，提取码 ck92 
+- 面向开发者的LLM入门课程。百度网盘：[https://pan.baidu.com/s/1fhFW63_jLgx6ZtM_w3i44w](https://pan.baidu.com/s/1fhFW63_jLgx6ZtM_w3i44w?pwd=ck92)，提取码 ck92
+- Google，《2026年AI智能体趋势：五大转变将重新定义角色、工作流程和业务价值》英文原版。[https://pan.baidu.com/s/19ZmbaW3nr9nWfoI7XMmSYA](https://pan.baidu.com/s/19ZmbaW3nr9nWfoI7XMmSYA?pwd=6xmx)，提取码 6xmx 
+--来自百度网盘超级会员v8的分享
 - 清华大学《DeepSeek入门到精通》ppt。百度网盘：[https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ](https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ?pwd=fphn)，提取码 fphn
 - 清华大学《DeepSeek赋能职场》ppt。百度网盘：[https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA](https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA?pwd=gnfm)，提取码 gnfm
 - 清华大学《普通人如何抓住DeepSeek红利》ppt。百度网盘：[https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg](https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg?pwd=z35b)，提取码 z35b
