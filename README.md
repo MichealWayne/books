@@ -240,8 +240,8 @@
 - 生成式人工智能学习手册（全英文，在线电子版）：[https://genai-handbook.github.io/](https://genai-handbook.github.io/)
 - 全栈DS/DA养成手册（在线电子版）：[https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html](https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html)
 - 面向开发者的LLM入门课程。百度网盘：[https://pan.baidu.com/s/1fhFW63_jLgx6ZtM_w3i44w](https://pan.baidu.com/s/1fhFW63_jLgx6ZtM_w3i44w?pwd=ck92)，提取码 ck92
+- OpenClaw橙皮书：从入门到精通（在线电子版）：[https://my.feishu.cn/wiki/H27Iw9ussiaYbokymhncExtjnAh](https://my.feishu.cn/wiki/H27Iw9ussiaYbokymhncExtjnAh)
 - Google，《2026年AI智能体趋势：五大转变将重新定义角色、工作流程和业务价值》英文原版。[https://pan.baidu.com/s/19ZmbaW3nr9nWfoI7XMmSYA](https://pan.baidu.com/s/19ZmbaW3nr9nWfoI7XMmSYA?pwd=6xmx)，提取码 6xmx 
---来自百度网盘超级会员v8的分享
 - 清华大学《DeepSeek入门到精通》ppt。百度网盘：[https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ](https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ?pwd=fphn)，提取码 fphn
 - 清华大学《DeepSeek赋能职场》ppt。百度网盘：[https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA](https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA?pwd=gnfm)，提取码 gnfm
 - 清华大学《普通人如何抓住DeepSeek红利》ppt。百度网盘：[https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg](https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg?pwd=z35b)，提取码 z35b
