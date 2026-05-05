@@ -127,7 +127,9 @@
 - 深入浅出Webpack（pdf）。百度网盘：[https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw](https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw?pwd=4ogr)，提取码 4ogr
 - jenkins权威指南。百度网盘：[https://pan.baidu.com/s/1hs5l4n7I4DxM4y8CvLXylQ](https://pan.baidu.com/s/1hs5l4n7I4DxM4y8CvLXylQ?pwd=kbrw)，提取码 kbrw
 - git学习指南。百度网盘：[https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA](https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA?pwd=yz3k)，提取码 yz3k
-- 精通Git。百度网盘：[https://pan.baidu.com/s/1Fs36FfjSK5tD_A4omDrSXA](https://pan.baidu.com/s/1Fs36FfjSK5tD_A4omDrSXA?pwd=undy)，提取码 undy 
+- 精通Git。百度网盘：[https://pan.baidu.com/s/1Fs36FfjSK5tD_A4omDrSXA](https://pan.baidu.com/s/1Fs36FfjSK5tD_A4omDrSXA?pwd=undy)，提取码 undy
+- Pro Git（在线电子版，中文版）：[https://git-scm.com/book/zh/v2](https://git-scm.com/book/zh/v2)
+- Learn Git Branching（实操类、在线电子版）：[https://learngitbranching.js.org/?locale=zh_CN](https://learngitbranching.js.org/?locale=zh_CN)
 - IT运维之道。百度网盘：[https://pan.baidu.com/s/1TFaSHAKYwfMdOwBrQz48MQ](https://pan.baidu.com/s/1TFaSHAKYwfMdOwBrQz48MQ?pwd=gc4e)，提取码 gc4e
 - 安全之路-web渗透技术及实战案例。百度网盘：[https://pan.baidu.com/s/11RhUVKP5PcExFW9ZY8Bkng](https://pan.baidu.com/s/11RhUVKP5PcExFW9ZY8Bkng?pwd=xnps)，提取码 xnps
 - 白帽子讲Web安全。百度网盘：[https://pan.baidu.com/s/1dQb7HooHDfaFU5JgMpsgUQ](https://pan.baidu.com/s/1dQb7HooHDfaFU5JgMpsgUQ?pwd=yyh5)，提取码：yyh5
@@ -217,6 +219,7 @@
 - 大模型应用开发极简入门：基于 GPT-4 和 ChatGPT 。百度网盘：[https://pan.baidu.com/s/1vR0wq9doPGvqKTLXRPnsAA](https://pan.baidu.com/s/1vR0wq9doPGvqKTLXRPnsAA?pwd=s856)，提取码 s856
 - 图解人工智能。百度网盘：[https://pan.baidu.com/s/1cDUxjtUNNmSQXPkPEH6pLQ](https://pan.baidu.com/s/1cDUxjtUNNmSQXPkPEH6pLQ?pwd=4145)，提取码 4145
 - 图解机器学习。百度网盘：[https://pan.baidu.com/s/1mw3R1EnGkMxZCaAQFmRjpw](https://pan.baidu.com/s/1mw3R1EnGkMxZCaAQFmRjpw?pwd=a7tr)，提取码 a7tr
+- 南瓜书：《机器学习公式详解》（在线电子版）：[https://datawhalechina.github.io/pumpkin-book/#/](https://datawhalechina.github.io/pumpkin-book/#/)
 
 #### Python
 
