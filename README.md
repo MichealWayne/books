@@ -236,6 +236,7 @@
 - OpenAI《Building an AI-native engineering team》(全英文)：[https://pan.baidu.com/s/1ITkupTud5EsXuiCk9V53RA](https://pan.baidu.com/s/1ITkupTud5EsXuiCk9V53RA?pwd=veg7)，提取码 veg7
 - Anthropic《Agentic Design Patterns》（全英文）：[https://pan.baidu.com/s/1gYa-Db8FrUQ5X1lLTc5AQg](https://pan.baidu.com/s/1gYa-Db8FrUQ5X1lLTc5AQg?pwd=gbgb)，提取码 gbgb
 - 学习提示（Learning Prompt，在线电子版）：[https://learningprompt.wiki/](https://learningprompt.wiki/)
+- 智能体软件工程（可下载中英版pdf）：[https://agenticse-book.github.io/?utm_source=chatgpt.com&lang=zh](https://agenticse-book.github.io/?utm_source=chatgpt.com&lang=zh)
 - 精通Transformer：从零开始构建最先进的NLP模型：[https://pan.baidu.com/s/18X_5BQeU8E6Dj2i7mjcE2Q](https://pan.baidu.com/s/18X_5BQeU8E6Dj2i7mjcE2Q?pwd=7ebn)，提取码 7ebn
 - 提示工程指南（Prompt Engineering Guide，在线电子版）：[https://www.promptingguide.ai/zh](https://www.promptingguide.ai/zh)
 - 面向开发者的 ChatGPT 提示词工程（ChatGPT Prompt Engineering for Developers，吴恩达与 OpenAI 开发者 Iza Fulford ，视频课程）：[https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)，中文字幕版：[https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese)
@@ -274,6 +275,7 @@
 
 - 游戏引擎 浅入浅出（Learning Prompt，在线电子版）：[https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=Introduction.md](https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=Introduction.md)
 - AI编程蓝皮书（在线飞书文档）：[https://superhuang.feishu.cn/wiki/CBBPwvgEuicVhFkx0s7cPmhpn4e](https://superhuang.feishu.cn/wiki/CBBPwvgEuicVhFkx0s7cPmhpn4e)
+- Easy Vibe（在线电子版），vibecoding高质量的教程：[https://datawhalechina.github.io/easy-vibe/zh-cn/](https://datawhalechina.github.io/easy-vibe/zh-cn/)
 
 ---
 
