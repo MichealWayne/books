@@ -244,6 +244,8 @@
 - 生成式人工智能学习手册（全英文，在线电子版）：[https://genai-handbook.github.io/](https://genai-handbook.github.io/)
 - 全栈DS/DA养成手册（在线电子版）：[https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html](https://jace-yang.github.io/Full-Stack_Data-Analyst/intro.html)
 - 面向开发者的LLM入门课程。百度网盘：[https://pan.baidu.com/s/1fhFW63_jLgx6ZtM_w3i44w](https://pan.baidu.com/s/1fhFW63_jLgx6ZtM_w3i44w?pwd=ck92)，提取码 ck92
+- Harness Engineering橙皮书（pdf下载，中英双语）：[https://github.com/alchaincyf/harness-engineering-orange-book/tree/main#downloads](https://github.com/alchaincyf/harness-engineering-orange-book/tree/main#downloads)
+- Loop Engineering橙皮书（pdf下载，中英双语）：[https://github.com/alchaincyf/loop-engineering-orange-book#download](https://github.com/alchaincyf/loop-engineering-orange-book#download)
 - Hermes Agent橙皮书：从入门到精通（在线电子版）[https://github.com/alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)
 - OpenClaw橙皮书：从入门到精通（在线电子版）：[https://my.feishu.cn/wiki/H27Iw9ussiaYbokymhncExtjnAh](https://my.feishu.cn/wiki/H27Iw9ussiaYbokymhncExtjnAh)
 - Claude Code橙皮书：从入门到精通（在线电子版）：[https://my.feishu.cn/wiki/JK1WwrRgJiYfRok7YxxceS5qn1J](https://my.feishu.cn/wiki/JK1WwrRgJiYfRok7YxxceS5qn1J)
