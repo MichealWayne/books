@@ -1,12 +1,36 @@
-# books
-前端、软件工程、AI、UED部分经典书籍免费电子版。
+# books 技术学习资源索引
 
-## fe(front-end)目录
-前端开发相关书籍。
+面向前端开发、软件工程、人工智能与 UI / UX 设计的学习资源索引。请优先选择官方、作者或出版社授权的资源；第三方网盘资源仅作信息索引，请遵守版权与平台规则并支持正版。
 
-> *注：[导航-前端常用网站/方法工具集合fe-tools>>](https://github.com/MichealWayne/fe-tools)
+**资源标签：** `[在线]` 公开在线阅读或课程、`[仓库]` 开源仓库、`[网盘]` 第三方网盘、`[英文]` 英文资源、`【旧书，仅供旧系统参考】` 不建议用于现代项目主线学习、`[PPT]` 演示资料。
 
-### html
+## 目录
+
+- [前端开发](#前端开发)
+  - [HTML 与 CSS](#html-与-css)
+  - [JavaScript / TypeScript / Rust](#javascript--typescript--rust)
+  - [Node.js 与框架](#nodejs-与前端框架)
+  - [工程化与跨端](#工程化与跨端)
+- [计算机与软件工程](#计算机与软件工程)
+- [人工智能](#人工智能)
+- [项目管理](#项目管理)
+- [其他主题](#其他主题)
+- [UI / UX 设计](#ui--ux-设计)
+
+> 延伸导航：[前端常用网站与工具集合（fe-tools）](https://github.com/MichealWayne/fe-tools)
+
+## 前端开发
+
+### 推荐阅读
+
+- HTML / CSS：`HTML best practices`、`CSS 世界`
+- JavaScript / TypeScript：`现代 JavaScript 教程`、`深入理解 TypeScript`、阮一峰《TypeScript 教程》
+- 框架：`Vue 设计与实现`、`React 技术揭秘`
+- 工程化：`Pro Git`、`Learn Git Branching`、`深入浅出 Webpack`
+
+### HTML 与 CSS
+
+#### HTML
 
 - HTML5与CSS3权威指南。百度网盘[https://pan.baidu.com/s/1AubVXoGJd8qe0Laz0zKi-Q](https://pan.baidu.com/s/1AubVXoGJd8qe0Laz0zKi-Q?pwd=wami)，提取码 wami
 - [HTML5与CSS3权威指南代码清单.zip](./fee/)
@@ -22,10 +46,10 @@
 - HTML5与CSS3设计模式.pdf。百度网盘：[https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ](https://pan.baidu.com/s/1CUcnr-b2VAn4EoFfgVpetQ?pwd=kyy7)，提取码 kyy7
 - HTML best practices(最佳实践)（在线电子版），地址：[https://github.com/hail2u/html-best-practices/blob/main/README.zh-CN.md](https://github.com/hail2u/html-best-practices/blob/main/README.zh-CN.md)
 - 《千古前端图文教程》，也有css/js等内容（在线电子版）。地址：[https://web.qianguyihao.com/](https://web.qianguyihao.com/)
-- 【旧书，有点过时】[HTML与CSS入门经典（第8版）.zip](./fee/)
+- 【旧书，仅供旧系统参考】[HTML 与 CSS 入门经典（第 8 版）.zip](./fee/)
 
   
-### css
+#### CSS
 
 - css揭秘.pdf。百度网盘[https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ](https://pan.baidu.com/s/1_f-DAXw7BP7jWNqojul9VQ?pwd=gtyp)，提取码 gtyp
 - CSS重构：样式表性能调优。百度网盘：[https://pan.baidu.com/s/1kfmEBQkGHpluLxfeZ2swOg](https://pan.baidu.com/s/1kfmEBQkGHpluLxfeZ2swOg?pwd=8h3m)，提取码 8h3m
@@ -37,13 +61,15 @@
 - [CSS3学习必备书籍《CSS3 实战》.pdf](./fee/)
 - [CSS3实战：开发与设计迷你书.zip](./fee/)
 - [CSS权威指南（第3版）.zip](./fee/)
-- 【旧书，有点过时】SVG精髓（第二版）。百度网盘：[https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw](https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw?pwd=9dba)，提取码 9dba
-- 【旧书，有点过时】[css3.0参考手册.chm](./fee/)
-- 【旧书，有点过时】[filter滤镜手册_苏昱.rar](./fee/)
-- 【旧书，有点过时】 [css技巧.CHM](./fee/)
-- 【旧书，有点过时】 [CSS网站布局实录 （第二版）.pdf](./fee/)
+- 【旧书，仅供旧系统参考】SVG 精髓（第 2 版）。[链接](https://pan.baidu.com/s/1A0kQ_JieX5STq8cfdw-Rkw?pwd=9dba)，提取码：9dba
+- 【旧书，仅供旧系统参考】[CSS 3.0 参考手册.chm](./fee/)
+- 【旧书，仅供旧系统参考】[filter 滤镜手册_苏昱.rar](./fee/)
+- 【旧书，仅供旧系统参考】[CSS 技巧.CHM](./fee/)
+- 【旧书，仅供旧系统参考】[CSS 网站布局实录（第 2 版）.pdf](./fee/)
 
-### js/ts/rust
+### JavaScript / TypeScript / Rust
+
+#### JavaScript
 
 - javascript忍者秘籍第2版.pdf。百度网盘：[https://pan.baidu.com/s/1Sh2RW_WgOR5pwCxzMYrUKA](https://pan.baidu.com/s/1Sh2RW_WgOR5pwCxzMYrUKA?pwd=fad5)，提取码 fad5 
 - javascript高效图形编程-中文版.pdf。百度网盘：[https://pan.baidu.com/s/19MlHggptoaTj-l7kXc6yAQ](https://pan.baidu.com/s/19MlHggptoaTj-l7kXc6yAQ?pwd=99p8)，提取码 99p8 
@@ -61,7 +87,6 @@
 - 你不知道的js官方英文版（在线github仓库），地址[https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - ES2018快速入门.pdf。百度网盘：[https://pan.baidu.com/s/1PuD0OR1debAXwXpTlk2DmQ](https://pan.baidu.com/s/1PuD0OR1debAXwXpTlk2DmQ?pwd=mqrh)，提取码 mqrh
 - JavaScript 二十年（在线电子版）。[https://cn.history.js.org/](https://cn.history.js.org/)
-- （阿里乘风者计划）现代TypeScript课程.pdf。百度网盘：[https://pan.baidu.com/s/1cdprK1OD1dlP1HJ2CqWe8g](https://pan.baidu.com/s/1cdprK1OD1dlP1HJ2CqWe8g?pwd=95jv) ，提取码 95jv
 - [JavaScript宝典(第7版).pdf](./fee/)
 - [JavaScript框架高级编程 应用Prototype、YUI、Ext JS、Dojo、MooTools(jb51.net).zip](./fee/)
 - [JavaScript模式.Stoyan Stefanov.扫描版.pdf](./fee/)
@@ -71,15 +96,27 @@
 - [javascript 权威指南(第6版).pdf](./fee/)
 - [javascript+dom编程艺术.pdf](./fee/)
 - [悟透JavaScript.pdf](./fee/)
+
+#### TypeScript
+
+- （阿里乘风者计划）现代TypeScript课程.pdf。百度网盘：[https://pan.baidu.com/s/1cdprK1OD1dlP1HJ2CqWe8g](https://pan.baidu.com/s/1cdprK1OD1dlP1HJ2CqWe8g?pwd=95jv) ，提取码 95jv
 - Learning TypeScript中文版.pdf。百度网盘：[https://pan.baidu.com/s/1qmkBDCcPEHw3TTHYv4u2bg](https://pan.baidu.com/s/1qmkBDCcPEHw3TTHYv4u2bg?pwd=p9t7)，提取码 p9t7
 - 深入理解TypeScript（在线电子版）。英文版：[https://basarat.gitbook.io/typescript/](https://basarat.gitbook.io/typescript/)，中文翻译版：[http://colortocc.com/](http://colortocc.com/)或[https://www.javascriptc.com/books/typescript-deep-dive/](https://www.javascriptc.com/books/typescript-deep-dive/)
 - 阮一峰《TypeScript教程》（在线电子版），地址：[https://wangdoc.com/typescript/](https://wangdoc.com/typescript/)
 - 编写可维护的Javascript。百度网盘：[https://pan.baidu.com/s/1Qk8u-IITAelH2fSFpbhdHA](https://pan.baidu.com/s/1Qk8u-IITAelH2fSFpbhdHA?pwd=gx7n)，提取码 gx7n
+
+#### Rust
+
 - 深入浅出Rust。百度网盘：[https://pan.baidu.com/s/1A6Wl5w30ms_jlIS4t_VKpA](https://pan.baidu.com/s/1A6Wl5w30ms_jlIS4t_VKpA?pwd=cbwn)，提取码 cbwn
 - Rust语言圣经（在线电子版），地址：[https://course.rs/about-book.html](https://course.rs/about-book.html)
+
+#### 测试
+
 - JavaScript & Nodejs Testing best practices(测试最佳实践)（在线电子版），地址：[https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md)
 
-### nodejs
+### Node.js 与前端框架
+
+#### Node.js
 
 - Nodejs开发实践。百度网盘：[https://pan.baidu.com/s/1xQMhzf7ud3IGIpv77KSsfg](https://pan.baidu.com/s/1xQMhzf7ud3IGIpv77KSsfg?pwd=7sxv)，提取码 7sxv
 - Nodejs进阶之路。百度网盘：[https://pan.baidu.com/s/13mPqGqWmfDzMTkJ5dMvWtg](https://pan.baidu.com/s/13mPqGqWmfDzMTkJ5dMvWtg?pwd=7fyb)，提取码 7fyb
@@ -88,14 +125,14 @@
 - Nodejs权威指南。百度网盘：[https://pan.baidu.com/s/1iSN9MvRYNxqWMhh0xQZSBw](https://pan.baidu.com/s/1iSN9MvRYNxqWMhh0xQZSBw?pwd=w7ep)，提取码 w7ep
 - 超实用的Nodejs片段。百度网盘：[https://pan.baidu.com/s/1r2UFQfhvcN5sb9U5ystvXQ](https://pan.baidu.com/s/1r2UFQfhvcN5sb9U5ystvXQ?pwd=3yyp)，提取码 3yyp
 - Nginx高性能Web服务器实战。百度网盘：[https://pan.baidu.com/s/1dOU0cLN8WrjPv-lanwaQsw](https://pan.baidu.com/s/1dOU0cLN8WrjPv-lanwaQsw?pwd=2vm2)，提取码 2vm2
-- OpenRestry开发指南。百度网盘：[https://pan.baidu.com/s/14oqLOCeDbI7l4kEqMKv9nA](https://pan.baidu.com/s/14oqLOCeDbI7l4kEqMKv9nA?pwd=exij)，提取码 exij
+- OpenResty开发指南。百度网盘：[https://pan.baidu.com/s/14oqLOCeDbI7l4kEqMKv9nA](https://pan.baidu.com/s/14oqLOCeDbI7l4kEqMKv9nA?pwd=exij)，提取码 exij
 - Nodejs来一打C++扩展。百度网盘：[https://pan.baidu.com/s/1eAk1kWcJLn9E6w8yJ67hAw](https://pan.baidu.com/s/1eAk1kWcJLn9E6w8yJ67hAw?pwd=eqmk)，提取码 eqmk
 - Node.js 包教不包会（在线github仓库），地址：[https://github.com/alsotang/node-lessons](https://github.com/alsotang/node-lessons)
 - Node.js for PHP developers（英文版），百度网盘：[https://pan.baidu.com/s/1ZyYT7EDB4DvG8A_hw5GBHg](https://pan.baidu.com/s/1ZyYT7EDB4DvG8A_hw5GBHg?pwd=sn7j)，提取码 sn7j
 - Node.js for frontend developers（英文版），百度网盘：[https://pan.baidu.com/s/1348Q_S42mO8koy0359g0PQ](https://pan.baidu.com/s/1348Q_S42mO8koy0359g0PQ?pwd=dv9v)，提取码 dv9v
 - Node.js best practices(最佳实践)（在线电子版），地址：[https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
 
-### Vue/React/Angular
+#### Vue / React / Angular
 
 - Vue 设计与实现。百度网盘：[https://pan.baidu.com/s/149Io8iff7kiv3rJUAobseA](https://pan.baidu.com/s/149Io8iff7kiv3rJUAobseA?pwd=skky)，提取码 skky
 - Vue.js实战。百度网盘：[https://pan.baidu.com/s/1xly4Kl-DzRheXBxrBYumWg](https://pan.baidu.com/s/1xly4Kl-DzRheXBxrBYumWg?pwd=8e5c)，提取码 8e5c
@@ -110,23 +147,25 @@
 - React前端技术与工程实践。百度网盘：[https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ](https://pan.baidu.com/s/1sv0LNfGAEAvJdrpXAyVfXQ?pwd=z92c)，提取码 z92c
 - React状态管理与同构实战。百度网盘：[https://pan.baidu.com/s/1QZQYOeKZs5N50juYijgIvQ](https://pan.baidu.com/s/1QZQYOeKZs5N50juYijgIvQ?pwd=xt1v)，提取码 xt1v
 - React技术揭秘（在线电子版），地址：[https://react.iamkasong.com/](https://react.iamkasong.com/)
-- React hooks（在线视频）：https://epicreact.dev/modules/react-hooks/react-hooks-welcome
+- [在线][视频] React Hooks：[课程链接](https://epicreact.dev/modules/react-hooks/react-hooks-welcome)
 
-### 移动端
+### 工程化与跨端
+
+#### 移动端
 
 - Flutter开发实践详解（在线电子版），地址：[https://guoshuyu.cn/home/wx/](https://guoshuyu.cn/home/wx/)
 - Flutter技术入门与实战。百度网盘：[https://pan.baidu.com/s/16xQnOop2-I6VtKupskFgJg](https://pan.baidu.com/s/16xQnOop2-I6VtKupskFgJg?pwd=ctxe)，提取码 ctxe
 - React-Native全教程：移动端跨平台应用开发。百度网盘：[https://pan.baidu.com/s/1Pg7xDDKHF58Hd3gdoN538w](https://pan.baidu.com/s/1Pg7xDDKHF58Hd3gdoN538w?pwd=h0yq)，提取码 h0yq
 - React-Native跨平台移动应用开发（第2版）。百度网盘：[https://pan.baidu.com/s/1Y2Ts3PP64N1gFikR47eQLw](https://pan.baidu.com/s/1Y2Ts3PP64N1gFikR47eQLw?pwd=ul2r)，提取码 ul2r
 
-### (前端)工程
+#### 工程化与工具链
 
 - 前端工程化：体系设计与实践。百度网盘：[https://pan.baidu.com/s/1pPkNXapEOAQ-rJfzGYelNQ](https://pan.baidu.com/s/1pPkNXapEOAQ-rJfzGYelNQ?pwd=13y3)，提取码 13y3
 - 前端函数式演进。百度网盘：[https://pan.baidu.com/s/1ML0JyS9yA2HanAQ7QRxmQA](https://pan.baidu.com/s/1ML0JyS9yA2HanAQ7QRxmQA?pwd=bf3b)，提取码 bf3b
 - 深入浅出Webpack（在线电子版），地址：[http://webpack.wuhaolin.cn/](http://webpack.wuhaolin.cn/)
 - 深入浅出Webpack（pdf）。百度网盘：[https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw](https://pan.baidu.com/s/1s7cCMN_gEQXmvwkRQS38Pw?pwd=4ogr)，提取码 4ogr
-- jenkins权威指南。百度网盘：[https://pan.baidu.com/s/1hs5l4n7I4DxM4y8CvLXylQ](https://pan.baidu.com/s/1hs5l4n7I4DxM4y8CvLXylQ?pwd=kbrw)，提取码 kbrw
-- git学习指南。百度网盘：[https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA](https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA?pwd=yz3k)，提取码 yz3k
+- Jenkins权威指南。网盘链接：[链接 1](https://pan.baidu.com/s/1hs5l4n7I4DxM4y8CvLXylQ?pwd=kbrw)（提取码：kbrw）、[链接 2](https://pan.baidu.com/s/1AtbIcY8777wgxMHC2xi5Bg?pwd=rfz5)（提取码：rfz5）
+- Git学习指南。网盘链接：[链接 1](https://pan.baidu.com/s/1SoUS56ApFOeASNvwOeD7EA?pwd=yz3k)（提取码：yz3k）、[链接 2](https://pan.baidu.com/s/1TAe7kmhOaEQpvjWWkz63ew?pwd=4eof)（提取码：4eof）
 - 精通Git。百度网盘：[https://pan.baidu.com/s/1Fs36FfjSK5tD_A4omDrSXA](https://pan.baidu.com/s/1Fs36FfjSK5tD_A4omDrSXA?pwd=undy)，提取码 undy
 - Pro Git（在线电子版，中文版）：[https://git-scm.com/book/zh/v2](https://git-scm.com/book/zh/v2)
 - Learn Git Branching（实操类、在线电子版）：[https://learngitbranching.js.org/?locale=zh_CN](https://learngitbranching.js.org/?locale=zh_CN)
@@ -134,14 +173,19 @@
 - 安全之路-web渗透技术及实战案例。百度网盘：[https://pan.baidu.com/s/11RhUVKP5PcExFW9ZY8Bkng](https://pan.baidu.com/s/11RhUVKP5PcExFW9ZY8Bkng?pwd=xnps)，提取码 xnps
 - 白帽子讲Web安全。百度网盘：[https://pan.baidu.com/s/1dQb7HooHDfaFU5JgMpsgUQ](https://pan.baidu.com/s/1dQb7HooHDfaFU5JgMpsgUQ?pwd=yyh5)，提取码：yyh5
 - 《the book of secret knowledge》，一个安全相关的列表手册和博客文章集合。在线地址：[https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-- git高手。百度网盘：[https://pan.baidu.com/s/1ZpBdtBU_0AMMtzSKa5R0ng](https://pan.baidu.com/s/1ZpBdtBU_0AMMtzSKa5R0ng?pwd=xqgj)，提取码 xqgj
-- Git学习指南。百度网盘：[https://pan.baidu.com/s/1TAe7kmhOaEQpvjWWkz63ew](https://pan.baidu.com/s/1TAe7kmhOaEQpvjWWkz63ew?pwd=4eof)，提取码 4eof
-- Jenkins权威指南。百度网盘：[https://pan.baidu.com/s/1AtbIcY8777wgxMHC2xi5Bg](https://pan.baidu.com/s/1AtbIcY8777wgxMHC2xi5Bg?pwd=rfz5)，提取码 rfz5
+- Git高手。百度网盘：[https://pan.baidu.com/s/1ZpBdtBU_0AMMtzSKa5R0ng](https://pan.baidu.com/s/1ZpBdtBU_0AMMtzSKa5R0ng?pwd=xqgj)，提取码 xqgj
 - Docker实践。百度网盘: [https://pan.baidu.com/s/1Z27cDYWhIpVeww3ItYDAWw](https://pan.baidu.com/s/1Z27cDYWhIpVeww3ItYDAWw?pwd=fmb2)，提取码 fmb2
 - 《Babel手册》（在线电子版），地址：[https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
 - 深入浅出Rxjs。百度网盘：[https://pan.baidu.com/s/1c9R28sjoPAqG-2vY3YdJSA](https://pan.baidu.com/s/1c9R28sjoPAqG-2vY3YdJSA?pwd=ku78)，提取码 ku78
 - WebRTC音视频开发：React+Flutter+Go实战。百度网盘：[https://pan.baidu.com/s/1UqQPmj5lCaxVZ6qBe3lxyw](https://pan.baidu.com/s/1UqQPmj5lCaxVZ6qBe3lxyw?pwd=vn3j)，提取码 vn3j 
 - 前端跨界开发指南：JavaScript工具库原理解析与实战。百度网盘：[https://pan.baidu.com/s/1LCzADLeFXP9dTftiraD4dA](https://pan.baidu.com/s/1LCzADLeFXP9dTftiraD4dA?pwd=apvi)，提取码 apvi
+
+## 计算机与软件工程
+
+### 推荐阅读
+
+- 基础：`深入理解计算机系统`、`图解 HTTP`、`算法（第四版）`
+- 代码与设计：`重构（第二版）`、`程序员修炼之道`、`领域驱动设计`
 
 ### 算法
 
@@ -149,11 +193,11 @@
 - 算法（第四版）。百度网盘：[https://pan.baidu.com/s/1syklVQ5M3YV5iwT8YzAQKQ](https://pan.baidu.com/s/1syklVQ5M3YV5iwT8YzAQKQ?pwd=p4zw)，提取码 p4zw
 - 算法笔记。百度网盘：[https://pan.baidu.com/s/1oKGjBtBlYu8bgYkfggH9bg](https://pan.baidu.com/s/1oKGjBtBlYu8bgYkfggH9bg?pwd=cxkf)，提取码 cxkf
 - 图解算法。百度网盘：[https://pan.baidu.com/s/1G-OyLhiTOEGOyc4QPdecCQ](https://pan.baidu.com/s/1G-OyLhiTOEGOyc4QPdecCQ?pwd=ubfc)，提取码 ubfc
-- Hello算法（在线版）：https://www.hello-algo.com/
+- [在线] Hello 算法：[阅读链接](https://www.hello-algo.com/)
 
-### 编码
+### 代码质量与设计
 
-- 代码整洁之道。百度网盘: [https://pan.baidu.com/s/1VrFwlTGkS63CrxdtZ73Jlg](https://pan.baidu.com/s/1VrFwlTGkS63CrxdtZ73Jlg?pwd=tfqt)，提取码 tfqt
+- 代码整洁之道。网盘链接：[链接 1](https://pan.baidu.com/s/1VrFwlTGkS63CrxdtZ73Jlg?pwd=tfqt)（提取码：tfqt）、[链接 2](https://pan.baidu.com/s/14RiAATOtBgQGlcgCbaAqKQ?pwd=s0ok)（提取码：s0ok）
 - 编码——隐匿在计算机软硬件背后的语言。百度网盘: [https://pan.baidu.com/s/1IT56cP8hiLT_st7TwEJUlQ](https://pan.baidu.com/s/1IT56cP8hiLT_st7TwEJUlQ?pwd=bn6n)，提取码 bn6n
 - 编写可读代码的艺术。百度网盘：[https://pan.baidu.com/s/18aOnAvXpuoadN-BIP_yn-A](https://pan.baidu.com/s/18aOnAvXpuoadN-BIP_yn-A?pwd=kapu)，提取码 kapu 
 - 这样编码才规范 128 个编码好习惯。百度网盘: [https://pan.baidu.com/s/1rfBks_rW091ll2XPGCrcsA](https://pan.baidu.com/s/1rfBks_rW091ll2XPGCrcsA?pwd=psw5)，提取码 psw5
@@ -188,7 +232,6 @@
 - 重构，改善既有代码的设计（第二版）。百度网盘： [https://pan.baidu.com/s/1CJS81pzPO72DlImyXi0vnA](https://pan.baidu.com/s/1CJS81pzPO72DlImyXi0vnA?pwd=p8sh)，提取码 p8sh
 - 重构，改善既有代码的设计。百度网盘： [https://pan.baidu.com/s/1ot6ZoLYPau95l1y_9J-wjA](https://pan.baidu.com/s/1ot6ZoLYPau95l1y_9J-wjA?pwd=gd3u) ，提取码 gd3u
 - 领域特定语言。百度网盘：[https://pan.baidu.com/s/1XRftA2YBzZxz6XV5YPU4RA](https://pan.baidu.com/s/1XRftA2YBzZxz6XV5YPU4RA?pwd=bskw) ，提取码 bskw
-- 代码整洁之道。百度网盘：[https://pan.baidu.com/s/14RiAATOtBgQGlcgCbaAqKQ](https://pan.baidu.com/s/14RiAATOtBgQGlcgCbaAqKQ?pwd=s0ok) ，提取码 s0ok
 - 程序员修炼之道，从小工到专家。百度网盘：[https://pan.baidu.com/s/11Bzq8pWPDBgWf_lQ36-gdg](https://pan.baidu.com/s/11Bzq8pWPDBgWf_lQ36-gdg?pwd=6aw3)  ，提取码 6aw3
 - 代码之美。百度网盘：[https://pan.baidu.com/s/1_pNhHy-4U-HowEXfCkp4wQ](https://pan.baidu.com/s/1_pNhHy-4U-HowEXfCkp4wQ?pwd=7ra0)  ，提取码 7ra0
 - 像程序员一样思考。百度网盘：[https://pan.baidu.com/s/1LtX0oebQAA3n3EwdzhSsPQ](https://pan.baidu.com/s/1LtX0oebQAA3n3EwdzhSsPQ?pwd=gf60) ，提取码 gf60
@@ -199,16 +242,22 @@
 
 - 研磨设计模式。百度网盘：[https://pan.baidu.com/s/1Z4jCKU_nSyB-16BQv_PxSg](https://pan.baidu.com/s/1Z4jCKU_nSyB-16BQv_PxSg?pwd=m2wa)，提取码 m2wa
 - 微服务的那些事。百度网盘：[https://pan.baidu.com/s/1STQx8657ogTn2c9vpcQbrg](https://pan.baidu.com/s/1STQx8657ogTn2c9vpcQbrg?pwd=cgo3)，提取码 cgo3
-- 系统架构设计-从程序员向架构师转型之路。百度网盘：[https://pan.baidu.com/s/15joyHZj6HjvY_W8uWqDFKw](https://pan.baidu.com/s/15joyHZj6HjvY_W8uWqDFKw?pwd=mxf7)，提取码 mxf7
+- 系统架构设计：从程序员向架构师转型之路。网盘链接：[链接 1](https://pan.baidu.com/s/15joyHZj6HjvY_W8uWqDFKw?pwd=mxf7)（提取码：mxf7）、[链接 2](https://pan.baidu.com/s/1w0wweNFTDXeHwrYSJMTk4Q?pwd=14ob)（提取码：14ob）
 - serverless架构-无服务器单页应用开发。百度网盘：[https://pan.baidu.com/s/1LaM4rrwjulWDQ6TEpsc5AA](https://pan.baidu.com/s/1LaM4rrwjulWDQ6TEpsc5AA?pwd=f8rk)，提取码 f8rk
 - 领域驱动设计（简版）。百度网盘：[https://pan.baidu.com/s/10t1mEOZjz9n0yQqmOkU16Q](https://pan.baidu.com/s/10t1mEOZjz9n0yQqmOkU16Q?pwd=t71n)，提取码 t71n
 - 领域驱动设计模式、原理与实践。百度网盘：[https://pan.baidu.com/s/18g2ElxOIn7mb-DvSyuMO8Q](https://pan.baidu.com/s/18g2ElxOIn7mb-DvSyuMO8Q?pwd=081o)，提取码 081o
 - 实现领域驱动设计。百度网盘：[https://pan.baidu.com/s/1Qo4FeTrDZx95LXZ3giPgNw](https://pan.baidu.com/s/1Qo4FeTrDZx95LXZ3giPgNw?pwd=qnbe)，提取码 qnbe
 - 京东基础架构建设之路。百度网盘：[https://pan.baidu.com/s/1PYBU1gbrYs-4ID4BGP5SkA](https://pan.baidu.com/s/1PYBU1gbrYs-4ID4BGP5SkA?pwd=6vsu)，提取码 6vsu
-- 系统架构设计-从程序员向架构师转型之路。百度网盘：[https://pan.baidu.com/s/1w0wweNFTDXeHwrYSJMTk4Q](https://pan.baidu.com/s/1w0wweNFTDXeHwrYSJMTk4Q?pwd=14ob)，提取码 14ob
 - 软件建模与设计：UML、用例、模式和软件体系结构。百度网盘：[https://pan.baidu.com/s/1QMUUz78-Xju_X_GPHfDp-A](https://pan.baidu.com/s/1QMUUz78-Xju_X_GPHfDp-A?pwd=rvd9)，提取码 rvd9
 
-### 人工智能
+## 人工智能
+
+### 推荐阅读
+
+- 基础：`动手学深度学习`、`图解机器学习`、`南瓜书`
+- LLM 与 Agent：`提示工程指南`、`智能体软件工程`、`面向开发者的 ChatGPT 提示词工程`
+
+### 机器学习与深度学习
 
 - 动手学深度学习（在线电子版）。[http://zh.d2l.ai/](http://zh.d2l.ai/)
 - EasyRL强化学习教程（在线电子版）。[https://datawhalechina.github.io/easy-rl/#/](https://datawhalechina.github.io/easy-rl/#/)
@@ -221,7 +270,7 @@
 - 图解机器学习。百度网盘：[https://pan.baidu.com/s/1mw3R1EnGkMxZCaAQFmRjpw](https://pan.baidu.com/s/1mw3R1EnGkMxZCaAQFmRjpw?pwd=a7tr)，提取码 a7tr
 - 南瓜书：《机器学习公式详解》（在线电子版）：[https://datawhalechina.github.io/pumpkin-book/#/](https://datawhalechina.github.io/pumpkin-book/#/)
 
-#### Python
+### Python
 
 - 编程小白的第一本Python入门书。百度网盘：[https://pan.baidu.com/s/1PeJ3ickeAjfK3Z0XUjymJw](https://pan.baidu.com/s/1PeJ3ickeAjfK3Z0XUjymJw?pwd=84jt)，提取码 84jt
 - Python编程：从入门到实践。百度网盘： [https://pan.baidu.com/s/1lCorFxdfT64ZZoXsCOaqMw](https://pan.baidu.com/s/1lCorFxdfT64ZZoXsCOaqMw?pwd=1z7h)，提取码 1z7h 
@@ -231,7 +280,7 @@
 - 数据科学入门。百度网盘：[https://pan.baidu.com/s/1BcsizJyq6j0dUeldE8LTNA](https://pan.baidu.com/s/1BcsizJyq6j0dUeldE8LTNA?pwd=7gu1)，提取码 7gu1
 - Python网络数据采集。百度网盘：[https://pan.baidu.com/s/1hD3DApBUVPp1xaa1AFQzgw](https://pan.baidu.com/s/1hD3DApBUVPp1xaa1AFQzgw?pwd=1axs)，提取码 1axs
 
-#### LLM&AI
+### LLM 与 AI 工程
 
 - OpenAI《Building an AI-native engineering team》(全英文)：[https://pan.baidu.com/s/1ITkupTud5EsXuiCk9V53RA](https://pan.baidu.com/s/1ITkupTud5EsXuiCk9V53RA?pwd=veg7)，提取码 veg7
 - Anthropic《Agentic Design Patterns》（全英文）：[https://pan.baidu.com/s/1gYa-Db8FrUQ5X1lLTc5AQg](https://pan.baidu.com/s/1gYa-Db8FrUQ5X1lLTc5AQg?pwd=gbgb)，提取码 gbgb
@@ -249,20 +298,23 @@
 - Hermes Agent橙皮书：从入门到精通（在线电子版）[https://github.com/alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)
 - OpenClaw橙皮书：从入门到精通（在线电子版）：[https://my.feishu.cn/wiki/H27Iw9ussiaYbokymhncExtjnAh](https://my.feishu.cn/wiki/H27Iw9ussiaYbokymhncExtjnAh)
 - Claude Code橙皮书：从入门到精通（在线电子版）：[https://my.feishu.cn/wiki/JK1WwrRgJiYfRok7YxxceS5qn1J](https://my.feishu.cn/wiki/JK1WwrRgJiYfRok7YxxceS5qn1J)
-- Google，《2026年AI智能体趋势：五大转变将重新定义角色、工作流程和业务价值》英文原版。[https://pan.baidu.com/s/19ZmbaW3nr9nWfoI7XMmSYA](https://pan.baidu.com/s/19ZmbaW3nr9nWfoI7XMmSYA?pwd=6xmx)，提取码 6xmx 
-- 清华大学《DeepSeek入门到精通》ppt。百度网盘：[https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ](https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ?pwd=fphn)，提取码 fphn
-- 清华大学《DeepSeek赋能职场》ppt。百度网盘：[https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA](https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA?pwd=gnfm)，提取码 gnfm
-- 清华大学《普通人如何抓住DeepSeek红利》ppt。百度网盘：[https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg](https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg?pwd=z35b)，提取码 z35b
-- 北京大学《DeepSeek与AIGC应用PPT》ppt。百度网盘：[https://pan.baidu.com/s/1NIZwqj1Rd8Oi0w0DiHD2dw](https://pan.baidu.com/s/1NIZwqj1Rd8Oi0w0DiHD2dw?pwd=ru1v)，提取码 ru1v
-- 北京大学《DeepSeek提示词工程和落地场景》ppt。百度网盘：[https://pan.baidu.com/s/1Fx0pk924fqMdPpD0XnKtaw](https://pan.baidu.com/s/1Fx0pk924fqMdPpD0XnKtaw?pwd=efpf)，提取码 efpf
-- 北京大学《DeepSeek原理与落地应用》ppt。百度网盘：[https://pan.baidu.com/s/1hYE3IRukB2UQqY1fr2hS-Q](https://pan.baidu.com/s/1hYE3IRukB2UQqY1fr2hS-Q?pwd=i5bi)，提取码 i5bi
-- 北京大学《DeepSeek私有化部署和一体机》ppt。百度网盘：[https://pan.baidu.com/s/1hBOZ2zDVEKvxe3BMJWBCkw](https://pan.baidu.com/s/1hBOZ2zDVEKvxe3BMJWBCkw?pwd=xntj)，提取码 xntj
-- 浙江大学《奇点临近,行业变革：DeepSeek模型解读》ppt。百度网盘：[https://pan.baidu.com/s/1BZSV9uKmxgBaS5-EKYviJQ](https://pan.baidu.com/s/1BZSV9uKmxgBaS5-EKYviJQ?pwd=tp6k)，提取码 tp6k 
-- 复旦大学·张奇《大语言模型：从理论到实践(第2版)》。百度网盘：[https://pan.baidu.com/s/1-HDp_amRjCH3TRdmFkg04w](https://pan.baidu.com/s/1-HDp_amRjCH3TRdmFkg04w?pwd=6qha)，提取码 6qha
-- 《Foundations of Large Language Models》大语言模型基础（全英文）。百度网盘：[https://pan.baidu.com/s/1bae7VeY_EmWqQMOgHAxt0Q](https://pan.baidu.com/s/1bae7VeY_EmWqQMOgHAxt0Q?pwd=f4b6)，提取码 f4b6
+- 橙皮书：深入解析Claude Code架构与实现（在线电子版）[https://github.com/alchaincyf/claude-code-source-analysis-orange-book#downloads](https://github.com/alchaincyf/claude-code-source-analysis-orange-book#downloads)
+#### 行业资料与演示文稿
+
+- [网盘][英文] Google，《2026年 AI 智能体趋势：五大转变将重新定义角色、工作流程和业务价值》。[链接](https://pan.baidu.com/s/19ZmbaW3nr9nWfoI7XMmSYA?pwd=6xmx)，提取码：6xmx
+- [网盘][PPT] 清华大学《DeepSeek 入门到精通》。[链接](https://pan.baidu.com/s/1Xi17GoatfX1FVPxLPqGjdQ?pwd=fphn)，提取码：fphn
+- [网盘][PPT] 清华大学《DeepSeek 赋能职场》。[链接](https://pan.baidu.com/s/1dPqkqrJNXUGTyk0zlVSacA?pwd=gnfm)，提取码：gnfm
+- [网盘][PPT] 清华大学《普通人如何抓住 DeepSeek 红利》。[链接](https://pan.baidu.com/s/1c3YUcH2JX9Y1ZR7LY7ehdg?pwd=z35b)，提取码：z35b
+- [网盘][PPT] 北京大学《DeepSeek 与 AIGC 应用》。[链接](https://pan.baidu.com/s/1NIZwqj1Rd8Oi0w0DiHD2dw?pwd=ru1v)，提取码：ru1v
+- [网盘][PPT] 北京大学《DeepSeek 提示词工程和落地场景》。[链接](https://pan.baidu.com/s/1Fx0pk924fqMdPpD0XnKtaw?pwd=efpf)，提取码：efpf
+- [网盘][PPT] 北京大学《DeepSeek 原理与落地应用》。[链接](https://pan.baidu.com/s/1hYE3IRukB2UQqY1fr2hS-Q?pwd=i5bi)，提取码：i5bi
+- [网盘][PPT] 北京大学《DeepSeek 私有化部署和一体机》。[链接](https://pan.baidu.com/s/1hBOZ2zDVEKvxe3BMJWBCkw?pwd=xntj)，提取码：xntj
+- [网盘][PPT] 浙江大学《奇点临近，行业变革：DeepSeek 模型解读》。[链接](https://pan.baidu.com/s/1BZSV9uKmxgBaS5-EKYviJQ?pwd=tp6k)，提取码：tp6k
+- [网盘] 复旦大学·张奇《大语言模型：从理论到实践（第 2 版）》。[链接](https://pan.baidu.com/s/1-HDp_amRjCH3TRdmFkg04w?pwd=6qha)，提取码：6qha
+- [网盘][英文] 《Foundations of Large Language Models》。[链接](https://pan.baidu.com/s/1bae7VeY_EmWqQMOgHAxt0Q?pwd=f4b6)，提取码：f4b6
 
 
-### 项目管理
+## 项目管理
 
 - 信息系统项目管理师(第四版)。百度网盘：[https://pan.baidu.com/s/1xCYD-fHFlvCHOKxwaVPdvg](https://pan.baidu.com/s/1xCYD-fHFlvCHOKxwaVPdvg?pwd=57da)，提取码 57da
 - 信息系统项目管理师(第三版)。百度网盘：[https://pan.baidu.com/s/1soVRAIrRfSe35pugKVOB9w](https://pan.baidu.com/s/1soVRAIrRfSe35pugKVOB9w?pwd=8sgu)，提取码 8sgu
@@ -273,7 +325,7 @@
 - 敏捷开发的艺术。百度网盘：[https://pan.baidu.com/s/1jE3CDVne5OIwFXv_d9cuiw](https://pan.baidu.com/s/1jE3CDVne5OIwFXv_d9cuiw?pwd=f9sf)，提取码 f9sf
 - 需求工程：软件质量的基础（全英文，Requirements Engineering: Foundation for Software Quality）。百度网盘：[https://pan.baidu.com/s/1WY-jjfBAbWYfDcW8dH_-vw](https://pan.baidu.com/s/1WY-jjfBAbWYfDcW8dH_-vw?pwd=9jvh)，提取码 9jvh
 
-### 其他
+## 其他主题
 
 - 游戏引擎 浅入浅出（Learning Prompt，在线电子版）：[https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=Introduction.md](https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=Introduction.md)
 - AI编程蓝皮书（在线飞书文档）：[https://superhuang.feishu.cn/wiki/CBBPwvgEuicVhFkx0s7cPmhpn4e](https://superhuang.feishu.cn/wiki/CBBPwvgEuicVhFkx0s7cPmhpn4e)
@@ -281,7 +333,7 @@
 
 ---
 
-## ui-ue目录
+## UI / UX 设计
 
 UI设计、UX交互相关书籍
 
@@ -301,12 +353,12 @@ UI设计、UX交互相关书籍
 - 破茧成蝶2——以产品为中心的设计革命。百度网盘[https://pan.baidu.com/s/1Xi3xPDzFXcByp_co5FYUKw](https://pan.baidu.com/s/1Xi3xPDzFXcByp_co5FYUKw?pwd=qx5y)，提取码 qx5y
 - 腾讯公司用户研究与体验设计部：在你身边为你设计，腾讯服务设计思维与实战。百度网盘：[https://pan.baidu.com/s/1xNi1bAv35oj3-wNZOxG0LQ](https://pan.baidu.com/s/1xNi1bAv35oj3-wNZOxG0LQ?pwd=jvk2)，提取码 jvk2
 - 腾讯产品法：一本书读懂腾讯产品思维与运营方法。百度网盘[https://pan.baidu.com/s/1MeKKJeGVGgUFbv0dw72uKQ](https://pan.baidu.com/s/1MeKKJeGVGgUFbv0dw72uKQ?pwd=5ewe)，提取码 5ewe
-- 【旧书，有点过时】[百度资料—视觉规划.pptx](./ui-ue/)
-- 【旧书，有点过时】[新浪设计指南.pdf](./ui-ue/)
-- 【旧书，有点过时】[易趣网视觉规范.ppt](./ui-ue/)
-- 【旧书，有点过时】[腾讯内部PPT.docx](./ui-ue/)
-- 【旧书，有点过时】[腾讯网Web页面设计规范.ppt](./ui-ue/)
-- 【旧书，有点过时】[腾讯网Web页面设计规范.rar](./ui-ue/)
-- 【旧书，有点过时】[腾讯网Web页面设计规范.swf](./ui-ue/)
-- 【旧书，有点过时】[其他公司视觉规范.rar](./ui-ue/)
-- 【旧书，有点过时】[英国广播公司BBC的网站设计规范手册.rar](./ui-ue/)
+- 【旧书，仅供旧系统参考】[PPT] [百度资料—视觉规划.pptx](./ui-ue/)
+- 【旧书，仅供旧系统参考】[新浪设计指南.pdf](./ui-ue/)
+- 【旧书，仅供旧系统参考】[PPT] [易趣网视觉规范.ppt](./ui-ue/)
+- 【旧书，仅供旧系统参考】[PPT] [腾讯内部 PPT.docx](./ui-ue/)
+- 【旧书，仅供旧系统参考】[PPT] [腾讯网 Web 页面设计规范.ppt](./ui-ue/)
+- 【旧书，仅供旧系统参考】[腾讯网 Web 页面设计规范.rar](./ui-ue/)
+- 【旧书，仅供旧系统参考】[腾讯网 Web 页面设计规范.swf](./ui-ue/)
+- 【旧书，仅供旧系统参考】[其他公司视觉规范.rar](./ui-ue/)
+- 【旧书，仅供旧系统参考】[英国广播公司 BBC 的网站设计规范手册.rar](./ui-ue/)
