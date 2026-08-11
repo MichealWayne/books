@@ -304,6 +304,10 @@
 
 - OpenAI《Building an AI-native engineering team》(全英文)：[https://pan.baidu.com/s/1ITkupTud5EsXuiCk9V53RA](https://pan.baidu.com/s/1ITkupTud5EsXuiCk9V53RA?pwd=veg7)，提取码 veg7
 - Anthropic《Agentic Design Patterns》（全英文）：[https://pan.baidu.com/s/1gYa-Db8FrUQ5X1lLTc5AQg](https://pan.baidu.com/s/1gYa-Db8FrUQ5X1lLTc5AQg?pwd=gbgb)，提取码 gbgb
+- Microsoft《AI for Beginners》：[https://microsoft.github.io/AI-For-Beginners/](https://microsoft.github.io/AI-For-Beginners/)
+- Microsoft《Generative AI for Beginners》：[https://microsoft.github.io/generative-ai-for-beginners/](https://microsoft.github.io/generative-ai-for-beginners/)
+- Microsoft《AI Agents for Beginners》：[https://microsoft.github.io/ai-agents-for-beginners/](https://microsoft.github.io/ai-agents-for-beginners/)
+- Microsoft《Machine Learning for Beginners》：[https://microsoft.github.io/ML-For-Beginners/](https://microsoft.github.io/ML-For-Beginners/)
 - 学习提示（Learning Prompt，在线电子版）：[https://learningprompt.wiki/](https://learningprompt.wiki/)
 - 智能体软件工程（可下载中英版pdf）：[https://agenticse-book.github.io/?utm_source=chatgpt.com&lang=zh](https://agenticse-book.github.io/?utm_source=chatgpt.com&lang=zh)
 - 精通Transformer：从零开始构建最先进的NLP模型：[https://pan.baidu.com/s/18X_5BQeU8E6Dj2i7mjcE2Q](https://pan.baidu.com/s/18X_5BQeU8E6Dj2i7mjcE2Q?pwd=7ebn)，提取码 7ebn
@@ -319,6 +323,8 @@
 - OpenClaw橙皮书：从入门到精通（在线电子版）：[https://my.feishu.cn/wiki/H27Iw9ussiaYbokymhncExtjnAh](https://my.feishu.cn/wiki/H27Iw9ussiaYbokymhncExtjnAh)
 - Claude Code橙皮书：从入门到精通（在线电子版）：[https://my.feishu.cn/wiki/JK1WwrRgJiYfRok7YxxceS5qn1J](https://my.feishu.cn/wiki/JK1WwrRgJiYfRok7YxxceS5qn1J)
 - 橙皮书：深入解析Claude Code架构与实现（在线电子版）[https://github.com/alchaincyf/claude-code-source-analysis-orange-book#downloads](https://github.com/alchaincyf/claude-code-source-analysis-orange-book#downloads)
+
+
 #### 行业资料与演示文稿
 
 - Google，《2026年 AI 智能体趋势：五大转变将重新定义角色、工作流程和业务价值》（英文）。[链接](https://pan.baidu.com/s/19ZmbaW3nr9nWfoI7XMmSYA?pwd=6xmx)，提取码：6xmx
